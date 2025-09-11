@@ -1,0 +1,78 @@
+name: DEV - Upload CustomMapLabels
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Mod 版本号 (例如: 1.0)'
+        required: true
+        default: '1.0'
+
+jobs:
+  upload-to-steam:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Read changelog for current update
+        id: get_changelog
+        run: |
+          content=$(cat RELEASE_NOTES.md)
+          {
+            echo "text<<EOF"
+            echo "$content"
+            echo "EOF"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Prepare Mod files for upload
+        run: |
+          mkdir -p dist/mods/CustomMapLabels
+          cp -r src/CustomMapLabels/* dist/mods/CustomMapLabels/
+          cp src/preview.png dist/preview.png
+          echo "Mod files have been structured from 'src/CustomMapLabels' directory."
+          ls -R dist
+
+      - name: Update mod.info with new version
+        run: |
+          sed -i 's/^version=.*/version=${{ github.event.inputs.version }}/' dist/mods/CustomMapLabels/mod.info
+
+      - name: Generate Steam Guard TOTP
+        id: totp
+        uses: CyberAndrii/steam-totp@v1
+        with:
+          shared_secret: ${{ secrets.STEAM_TFA_SEED }}
+
+      - name: Upload to Steam Workshop
+        uses: m00nl1ght-dev/steam-workshop-deploy@v4
+        with:
+          username: ${{ secrets.STEAM_USERNAME }}
+          password: ${{ secrets.STEAM_PASSWORD }}
+          totp: ${{ steps.totp.outputs.code }}
+          
+          appId: 108600
+          publishedFileId: ${{ secrets.WORKSHOP_ID_TEST }}
+          path: "dist"
+          changeNote: "${{ steps.get_changelog.outputs.text }}"
+
+      - name: Update and Commit Changelog History
+        run: |
+          temp_changelog_history=$(mktemp)
+          echo "## Version ${{ github.event.inputs.version }} - $(date +'%Y-%m-%d')" > "$temp_changelog_history"
+          echo "" >> "$temp_changelog_history"
+          cat RELEASE_NOTES.md >> "$temp_changelog_history"
+          echo "" >> "$temp_changelog_history"
+          echo "---" >> "$temp_changelog_history"
+          echo "" >> "$temp_changelog_history"
+          cat CHANGELOG.md >> "$temp_changelog_history"
+          mv "$temp_changelog_history" CHANGELOG.md
+          
+          echo "在此处为下一次更新撰写日志..." > RELEASE_NOTES.md
+          
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          git add CHANGELOG.md RELEASE_NOTES.md
+          git commit -m "Docs: Update CHANGELOG for version ${{ github.event.inputs.version }}"
+          git push

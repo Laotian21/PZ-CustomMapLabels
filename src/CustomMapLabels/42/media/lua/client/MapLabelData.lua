@@ -190,6 +190,22 @@ data.ModMapLabels = {
 	["\\Erikas_Furniture_Store"] = {
 		{ key = "MapLabel_ErikasFurnitureStore", x = 11541, y = 8267,  type = "Town", scale = 2.8 },
 	},
+	---Blackpine County[黑松县]---(3363546437)---
+	["\\BlackpineCounty"] = {
+		{ key = "MapLabel_BlackpineCounty", x = 10763, y = 14644,  type = "Town", scale = 5.5 },
+	},
+	---PeaceTown[寂静镇]---(3561017137)---
+	["\\PeaceTown"] = {
+		{ key = "MapLabel_PeaceTown", x = 3481, y = 7526,  type = "Town", scale = 3.0 },
+	},
+	---Riverside Mansion Unofficial[河畔豪宅]---(3485388592)---
+	["\\RMSafeHouseUnofficial"] = {
+		{ key = "MapLabel_RMSafeHouseUnofficial",          x = 5583,  y = 5309, type = "Town", scale = 2.7 },
+	},
+	---Camden County[康登县]---(3485388592)---
+	["\\CamdenCountyB42"] = {
+		{ key = "MapLabel_CamdenCounty",          x = 16200,  y = 11456, type = "Town", scale = 8.5 },
+	},
 }
 
 return data

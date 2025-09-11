@@ -202,7 +202,7 @@ data.ModMapLabels = {
 	["\\RMSafeHouseUnofficial"] = {
 		{ key = "MapLabel_RMSafeHouseUnofficial",          x = 5583,  y = 5309, type = "Town", scale = 2.7 },
 	},
-	---Camden County[康登县]---(3485388592)---
+	---Camden County[康登县]---(3504080284)---
 	["\\CamdenCountyB42"] = {
 		{ key = "MapLabel_CamdenCounty",          x = 16200,  y = 11456, type = "Town", scale = 8.5 },
 	},

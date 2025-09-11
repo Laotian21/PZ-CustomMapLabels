@@ -11,10 +11,26 @@ on:
 jobs:
   upload-to-steam:
     runs-on: ubuntu-latest
+    container: cm2network/steamcmd:root
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
+      - name: Cache apt packages
+        uses: actions/cache@v4
+        with:
+          path: |
+            /var/cache/apt/archives
+            /var/lib/apt/lists
+          key: ${{ runner.os }}-apt-packages-${{ hashFiles('**/workflow.yml') }}
+          restore-keys: |
+            ${{ runner.os }}-apt-packages-
+
+      - name: Install Dependencies
+        run: |
+          apt-get update
+          apt-get install -y git nodejs npm
 
       - name: Read changelog for current update
         id: get_changelog
@@ -68,7 +84,7 @@ jobs:
           cat CHANGELOG.md >> "$temp_changelog_history"
           mv "$temp_changelog_history" CHANGELOG.md
           
-          echo "在此处为下一次更新撰写日志..." > RELEASE_NOTES.md
+          echo "在此处为下一次更新撰写日志...(填写前删除本行)" > RELEASE_NOTES.md
           
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'

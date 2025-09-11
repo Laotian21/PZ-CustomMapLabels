@@ -40,4 +40,8 @@ MapLabel_CN = {
     MapLabel_EdsAutoSalvage = "艾德的汽修厂",
     MapLabel_LouisvilleMallBase = "路易斯维尔商场基地",
     MapLabel_ErikasFurnitureStore = "艾丽卡家具店",
+    MapLabel_BlackpineCounty = "黑松县",
+    MapLabel_PeaceTown = "寂静镇",
+    MapLabel_RMSafeHouseUnofficial = "河畔豪宅",
+    MapLabel_CamdenCounty = "康登县",
 }

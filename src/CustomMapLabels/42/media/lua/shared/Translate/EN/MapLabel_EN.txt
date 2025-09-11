@@ -83,4 +83,8 @@ MapLabel_EN = {
     MapLabel_EdsAutoSalvage = "Ed's Auto Salvage",
     MapLabel_LouisvilleMallBase = "Louisville<br>Mall Base",
     MapLabel_ErikasFurnitureStore = "Erika's<br>Furniture Store",
+    MapLabel_BlackpineCounty = "Blackpine<br>County",
+    MapLabel_PeaceTown = "PeaceTown",
+    MapLabel_RMSafeHouseUnofficial = "Riverside<br>Mansion",
+    MapLabel_CamdenCounty = "Camden<br>County",
 }

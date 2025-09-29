@@ -36,7 +36,7 @@ data.ModMapLabels = {
 	},
 	---Willowbrook Bastion![柳溪镇]---(3479667649)---
 	["\\Willowbrook Bastion!"] = {
-		{ key = "MapLabel_Willowbrook_Bastion",  x = 9153,  y = 9879,  type = "Town" },
+		{ key = "MapLabel_Willowbrook_Bastion",  x = 9153,  y = 9879,  type = "Town", scale = 4.5 },
 	},
 	---Asakusa lake town[浅草湖镇]---(3482962418)---
 	["\\Asakusa lake town"] = {
@@ -52,15 +52,15 @@ data.ModMapLabels = {
 	},
 	---Constown[康斯镇]---(3480990544)---
 	["\\Constown42"] = {
-		{ key = "MapLabel_Constown",             x = 5652,  y = 11100, type = "Town" },
+		{ key = "MapLabel_Constown",             x = 5652,  y = 11100, type = "Town", scale = 4.0 },
 	},
 	---Coryerdon[科里尔登]---(3502623745)---
 	["\\CoryerdonB42"] = {
-		{ key = "MapLabel_CORYERDON",            x = 8771,  y = 5969,  type = "Town" },
+		{ key = "MapLabel_CORYERDON",            x = 8771,  y = 5969,  type = "Town", scale = 5.5 },
 	},
 	---Daisy County[雏菊镇]---(3390753141)---
 	["\\Daisy County B42 version"] = {
-		{ key = "MapLabel_DaisyCounty",          x = 10198, y = 7640,  type = "Town" },
+		{ key = "MapLabel_DaisyCounty",          x = 10180, y = 7640,  type = "Town", scale = 4.5 },
 	},
 	---Fort Benning[本宁堡]---(3490580478)---
 	["\\FortBenningB42"] = {
@@ -120,7 +120,7 @@ data.ModMapLabels = {
 	},
 	---Nettle Township[荨麻镇]---(3391349130)---
 	["\\Nettle Township B42 version"] = {
-		{ key = "MapLabel_Nettle_Township",      x = 6904,  y = 9292,  type = "Town" },
+		{ key = "MapLabel_Nettle_Township",      x = 6904,  y = 9292,  type = "Town", scale = 4.5 },
 	},
 	---Oakshire[橡树郡]---(3535422434)---
 	["\\Oakshire42"] = {
@@ -128,11 +128,11 @@ data.ModMapLabels = {
 	},
 	---Raccoon City[浣熊市]---(3388468313)---
 	["\\RaccoonCityB42"] = {
-		{ key = "MapLabel_RaccoonCity",          x = 10199, y = 10206, type = "Town" },
+		{ key = "MapLabel_RaccoonCity",          x = 10180, y = 10191, type = "Town", scale = 5.0 },
 	},
 	---Raven Creek[渡鸦港]---(3484263516)---
 	["\\RavenCreekB42"] = {
-		{ key = "MapLabel_RAVENCREEK",           x = 5115,  y = 16364, type = "Town" },
+		{ key = "MapLabel_RAVENCREEK",           x = 5115,  y = 16364, type = "Town", scale = 6.5 },
 	},
 	---Safeharbor Garrison[安泊戍镇]---(3522517059)---
 	["\\modid"] = {
@@ -160,7 +160,7 @@ data.ModMapLabels = {
 	},
 	---Trapalake town[菱角湖]---(3390327877)---
 	["\\TrapalaketownB42"] = {
-		{ key = "MapLabel_Trapalaketown",        x = 8725,  y = 11853, type = "Town", scale = 3.0 },
+		{ key = "MapLabel_Trapalaketown",        x = 8725,  y = 11853, type = "Town", scale = 3.5 },
 	},
 	---Vila-Z[维拉-Z]---(3524981481)---
 	["\\VilaZMap"] = {
@@ -196,15 +196,23 @@ data.ModMapLabels = {
 	},
 	---PeaceTown[寂静镇]---(3561017137)---
 	["\\PeaceTown"] = {
-		{ key = "MapLabel_PeaceTown", x = 3481, y = 7526,  type = "Town", scale = 3.0 },
+		{ key = "MapLabel_PeaceTown", x = 3481, y = 7526,  type = "Town", scale = 4.0 },
 	},
 	---Riverside Mansion Unofficial[河畔豪宅]---(3485388592)---
 	["\\RMSafeHouseUnofficial"] = {
 		{ key = "MapLabel_RMSafeHouseUnofficial",          x = 5583,  y = 5309, type = "Town", scale = 2.7 },
 	},
-	---Camden County[康登县]---(3504080284)---
+	---Camden County[康登县]---(3485388592)---
 	["\\CamdenCountyB42"] = {
 		{ key = "MapLabel_CamdenCounty",          x = 16200,  y = 11456, type = "Town", scale = 8.5 },
+	},
+	---Hartburg[哈特堡]---(3576750203)---
+	["\\hartburgb42"] = {
+		{ key = "MapLabel_Hartburg",          x = 6749,  y = 11402, type = "Town", scale = 3.0 },
+	},
+	---Cathaya Valley[银杉谷]---(3576150391)---
+	["\\Cathaya Valley 2.0 B42 version"] = {
+		{ key = "MapLabel_CathayaValley",          x = 7360,  y = 12936, type = "Town", scale = 3.5 },
 	},
 }
 

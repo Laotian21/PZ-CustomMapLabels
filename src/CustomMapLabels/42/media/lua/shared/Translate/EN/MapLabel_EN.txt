@@ -87,4 +87,6 @@ MapLabel_EN = {
     MapLabel_PeaceTown = "PeaceTown",
     MapLabel_RMSafeHouseUnofficial = "Riverside<br>Mansion",
     MapLabel_CamdenCounty = "Camden<br>County",
+    MapLabel_CathayaValley = "Cathaya<br>Valley",
+    MapLabel_Hartburg = "Hartburg",
 }

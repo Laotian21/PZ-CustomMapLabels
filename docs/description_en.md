@@ -1,6 +1,7 @@
 [h1]Added map markers for mod maps on the main map. These can be enabled at any time, but it is not advisable to disable them midway.[/h1]
 The mod automatically scans the map for hardcoded text labels (from the base game and map mods) and converts them into a translatable format.
 Through the configuration file (MapLabelData.lua), you can define custom labels for any map mod. You can add new labels for mod maps, override existing labels, change their size, color, style, and precise position, and unify the appearance and style of all labels in the map mods you are using.
+
 Thanks to: 无聊的栀子 for providing a large number of map label coordinates.
 [hr][/hr]
 [h1]Use Ctrl+F to quickly search the added directory[/h1]
@@ -42,12 +43,16 @@ Thanks to: 无聊的栀子 for providing a large number of map label coordinates
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3478900814]Ed's Auto Salavage[/url]
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3540209438]Louisville Mall Base[/url]
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3363546437]Erika's Furniture Store[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3565649631]Blackpine County[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3561017137]PeaceTown[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3485388592]Riverside Mansion Unofficial[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3504080284]Camden County[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3576150391]Cathaya Valley [/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3576750203]Hartburg [/url]
+
 [hr][/hr]
 [h1][b] Compatibility: [/b][/h1]
 [h1][b] Should be compatible with all map mods. [/b][/h1]
-
-Workshop ID: 3559737194
-Mod ID: CustomMapLabels
 
 Workshop ID: 3559737194
 Mod ID: CustomMapLabels

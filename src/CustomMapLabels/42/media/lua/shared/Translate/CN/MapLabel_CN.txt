@@ -87,4 +87,6 @@ MapLabel_CN = {
     MapLabel_PeaceTown = "寂静镇",
     MapLabel_RMSafeHouseUnofficial = "河畔豪宅",
     MapLabel_CamdenCounty = "康登县",
+    MapLabel_CathayaValley = "银杉谷",
+    MapLabel_Hartburg = "哈特堡",
 }

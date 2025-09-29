@@ -43,6 +43,12 @@
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3478900814]Ed's Auto Salavage[/url]（艾德的汽修厂）
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3540209438]Louisville Mall Base[/url]（路易维尔商场基地）
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3363546437]Erika's Furniture Store[/url]（艾丽卡家具店）
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3565649631]Blackpine County[/url]（黑松县）
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3561017137]PeaceTown[/url]（寂静镇）
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3485388592]Riverside Mansion Unofficial[/url]（河畔豪宅）
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3504080284]Camden County[/url]（康登县）
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3576150391]Cathaya Valley [/url] （银杉谷）
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3576750203]Hartburg [/url]（哈特堡）
 
 [hr][/hr]
 [h1][b] 兼容性: [/b][/h1]

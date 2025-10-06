@@ -89,4 +89,5 @@ MapLabel_CN = {
     MapLabel_CamdenCounty = "康登县",
     MapLabel_CathayaValley = "银杉谷",
     MapLabel_Hartburg = "哈特堡",
+    MapLabel_Atlanta = "亚特兰大",
 }

@@ -89,4 +89,5 @@ MapLabel_EN = {
     MapLabel_CamdenCounty = "Camden<br>County",
     MapLabel_CathayaValley = "Cathaya<br>Valley",
     MapLabel_Hartburg = "Hartburg",
+    MapLabel_Atlanta = "Atlanta",
 }

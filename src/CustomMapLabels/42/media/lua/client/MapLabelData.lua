@@ -214,6 +214,10 @@ data.ModMapLabels = {
 	["\\Cathaya Valley 2.0 B42 version"] = {
 		{ key = "MapLabel_CathayaValley",          x = 7360,  y = 12936, type = "Town", scale = 3.5 },
 	},
+	---Atlanta[亚特兰大]---(3580819781)---
+    ["\\Atlanta"] = {
+        { key = "MapLabel_Atlanta",          x = 11556,  y = 12987, type = "Town", scale = 8.5 },
+    },
 }
 
 return data

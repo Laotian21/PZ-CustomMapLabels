@@ -90,4 +90,6 @@ MapLabel_CN = {
     MapLabel_CathayaValley = "银杉谷",
     MapLabel_Hartburg = "哈特堡",
     MapLabel_Atlanta = "亚特兰大",
+    MapLabel_Frogtown = "青蛙镇",
+    MapLabel_Brink = "布林克镇",
 }

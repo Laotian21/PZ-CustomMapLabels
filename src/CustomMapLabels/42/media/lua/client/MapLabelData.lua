@@ -218,6 +218,14 @@ data.ModMapLabels = {
     ["\\Atlanta"] = {
         { key = "MapLabel_Atlanta",          x = 11556,  y = 12987, type = "Town", scale = 8.5 },
     },
+	---Frogtown[青蛙镇]---(3449473111)---
+	["\\Frogtown"] = {
+		{ key = "MapLabel_Frogtown", x = 3400, y = 7032, type = "Town", scale = 4.5 },
+	},
+	---Brink[布林克镇]---(3551791831)---
+	["\\Brink"] = {
+		{ key = "MapLabel_Brink", x = 11250, y = 8324, type = "Town", scale = 4.5 },
+	}
 }
 
 return data

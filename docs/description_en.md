@@ -49,7 +49,9 @@ Thanks to: 无聊的栀子 for providing a large number of map label coordinates
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3504080284]Camden County[/url]
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3576150391]Cathaya Valley [/url]
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3576750203]Hartburg [/url]
-[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3580819781] Atlanta [/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3580819781]Atlanta [/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3449473111]Frogtown [/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3551791831]Brink [/url]
 
 [hr][/hr]
 [h1][b] Compatibility: [/b][/h1]

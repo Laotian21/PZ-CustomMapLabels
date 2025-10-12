@@ -90,4 +90,6 @@ MapLabel_EN = {
     MapLabel_CathayaValley = "Cathaya<br>Valley",
     MapLabel_Hartburg = "Hartburg",
     MapLabel_Atlanta = "Atlanta",
+    MapLabel_Frogtown = "Frogtown",
+    MapLabel_Brink = "Brink",
 }

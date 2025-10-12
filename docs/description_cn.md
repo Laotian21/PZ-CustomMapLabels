@@ -49,7 +49,9 @@
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3504080284]Camden County[/url]（康登县）
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3576150391]Cathaya Valley [/url] （银杉谷）
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3576750203]Hartburg [/url]（哈特堡）
-- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3580819781] Atlanta [/url] （亚特兰大）
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3580819781]Atlanta [/url]（亚特兰大）
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3449473111]Frogtown [/url]（青蛙镇）
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3551791831]Brink [/url]（布林克镇）
 
 [hr][/hr]
 [h1][b] 兼容性: [/b][/h1]

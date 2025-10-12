@@ -120,7 +120,7 @@ data.ModMapLabels = {
 	},
 	---Nettle Township[荨麻镇]---(3391349130)---
 	["\\Nettle Township B42 version"] = {
-		{ key = "MapLabel_Nettle_Township",      x = 6904,  y = 9292,  type = "Town", scale = 4.5 },
+		{ key = "MapLabel_NettleTownship",      x = 6904,  y = 9292,  type = "Town", scale = 4.5 },
 	},
 	---Oakshire[橡树郡]---(3535422434)---
 	["\\Oakshire42"] = {

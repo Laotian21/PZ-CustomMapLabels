@@ -42,7 +42,7 @@ function CustomMapLabels.generateKeyFromText(text)
 	if not text or text == "" then return nil end
 	local processedText = text:gsub("<[Bb][Rr][^>]*>", " ")
 	local sanitizedText = processedText:gsub("[^%w%s]", ""):gsub("%s+", "")
-	return "MapLabel_" .. sanitizedText
+	return string.lower("MapLabel_" .. sanitizedText)
 end
 
 function CustomMapLabels.processAllMapLabels()
@@ -55,16 +55,20 @@ function CustomMapLabels.processAllMapLabels()
 	if not mapAPI then return end
 	local symAPI = mapAPI:getSymbolsAPIv2()
     if not symAPI then return end
-	local FullModMapLabels = CustomMapLabels.processLabelData(MapLabelData.ModMapLabels, MapLabelData.Defaults)
+	local FullModMapLabels = CustomMapLabels.processLabelData(ModMapLabels, MapLabelData.Defaults)
 	
 	local managedKeys = {}
+	local managedKeysLookup = {}
     local activeModLabels = {}
 	if FullModMapLabels then
 		for modId, labels in pairs(FullModMapLabels) do
 			if getActivatedMods():contains(modId) then
                 table.insert(activeModLabels, labels)
 				for _, data in ipairs(labels) do
-					if data.key then managedKeys[data.key] = true end
+					if data.key then
+						managedKeys[data.key] = true
+						managedKeysLookup[string.lower(data.key)] = data.key
+					end
 				end
 			end
 		end
@@ -76,22 +80,22 @@ function CustomMapLabels.processAllMapLabels()
 	for i = 0, symAPI:getSymbolCount() - 1 do
 		local sym = symAPI:getSymbolByIndex(i)
 		
-		if sym and sym:isText() then
-			if sym:isUserDefined() then
-			else
-				local untranslatedKey = sym:getUntranslatedText()
-				
-				if untranslatedKey and managedKeys[untranslatedKey] then
+		if sym and sym:isText() and not sym:isUserDefined() then
+			local untranslatedKey = sym:getUntranslatedText()
+			if untranslatedKey then
+				local originalCaseKey = managedKeys[untranslatedKey] or managedKeysLookup[string.lower(untranslatedKey)]
+
+				if originalCaseKey then
 					table.insert(indicesToRemove, i)
 				
-				elseif untranslatedKey and not untranslatedKey:find("^MapLabel_") then
-					local newKey = CustomMapLabels.generateKeyFromText(untranslatedKey)
-					if managedKeys[newKey] then
-						table.insert(indicesToRemove, i)
-					else
-						if newKey and getTextOrNull(newKey) then
+				elseif not untranslatedKey:find("^MapLabel_") then
+					local newKeyLowercase = CustomMapLabels.generateKeyFromText(untranslatedKey)
+					
+					if newKeyLowercase then
+						local matchedOriginalKey = managedKeysLookup[newKeyLowercase]
+						if matchedOriginalKey and getTextOrNull(matchedOriginalKey) then
 							local originalData = {
-								newTranslationKey = newKey,
+								newTranslationKey = matchedOriginalKey,
 								x = sym:getWorldX(), y = sym:getWorldY(), layerID = sym:getLayerID(),
 								r = sym:getRed(), g = sym:getGreen(), b = sym:getBlue(), a = sym:getAlpha(),
 								scale = sym:getScale(), rotation = sym:getRotation(),
@@ -139,15 +143,14 @@ function CustomMapLabels.processAllMapLabels()
 	for _, labels in ipairs(activeModLabels) do
 		for _, data in ipairs(labels) do
 			if data.key and getTextOrNull(data.key) then
-
 				local newSymbol = symAPI:addUntranslatedText(data.key, data.layerID or "text-place", data.x, data.y)
 				if newSymbol then
 					newSymbol:setRGBA(data.r or 0.0, data.g or 0.0, data.b or 0.0, data.a or 1.0)
 					newSymbol:setScale(data.scale or 1.0)
 					newSymbol:setRotation(data.rotation or 0.0)
 					newSymbol:setAnchor(data.anchorX or 0.5, data.anchorY or 0.5)
-					newSymbol:setMatchPerspective(data.matchPerspective == nil or data.matchPerspective)
-					newSymbol:setApplyZoom(data.applyZoom == nil or data.applyZoom)
+					newSymbol:setMatchPerspective(data.matchPerspective ~= false)
+					newSymbol:setApplyZoom(data.applyZoom ~= false)
 					newSymbol:setMinZoom(data.minZoom or 0.0)
 					newSymbol:setMaxZoom(data.maxZoom or 24.0)
 					newSymbol:setUserDefined(false)

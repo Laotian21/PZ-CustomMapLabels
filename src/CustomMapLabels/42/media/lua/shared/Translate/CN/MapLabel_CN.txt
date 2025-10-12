@@ -53,7 +53,7 @@ MapLabel_CN = {
     MapLabel_RAVENCREEK = "渡鸦港",
     MapLabel_HazelnutManor = "榛果庄园",
     MapLabel_EchoCreek_MilitaryBase = "回音河军事基地",
-    MapLabel_Nettle_Township = "荨麻镇",
+    MapLabel_NettleTownship = "荨麻镇",
     MapLabel_Willowbrook_Bastion = "柳溪镇",
 
     MapLabel_Constown = "康斯镇",

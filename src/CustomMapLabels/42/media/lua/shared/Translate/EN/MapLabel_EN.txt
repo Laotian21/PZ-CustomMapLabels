@@ -53,7 +53,7 @@ MapLabel_EN = {
     MapLabel_RAVENCREEK = "Raven Creek",
     MapLabel_HazelnutManor = "Hazelnut Manor",
     MapLabel_EchoCreek_MilitaryBase = "EchoCreek<br>MilitaryBase",
-    MapLabel_Nettle_Township = "Nettle Township",
+    MapLabel_NettleTownship = "Nettle Township",
     MapLabel_Willowbrook_Bastion = "Willowbrook Bastion",
 
     MapLabel_Constown = "Constown",

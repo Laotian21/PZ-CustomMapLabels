@@ -112,6 +112,7 @@ MapLabel_EN = {
 	MapLabel_VanHookRiverS = "VAN HOOK RIVER",
 	MapLabel_VanHookRiverSS = "VAN HOOK RIVER",
 	MapLabel_WheelerCreek = "WHEELER CREEK",
+    MapLabel_LakeMonica = "LAKE MONICA",
 	
 ------Project Indiana Map-----	
 	MapLabel_Central = "CENTRAL",

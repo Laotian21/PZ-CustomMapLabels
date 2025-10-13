@@ -112,6 +112,7 @@ MapLabel_CN = {
     MapLabel_VanHookRiverS = "范霍克河",
     MapLabel_VanHookRiverSS = "范霍克河",
     MapLabel_WheelerCreek = "惠勒溪",
+    MapLabel_LakeMonica = "莫尼卡湖",
     
 ------Project Indiana Map-----    
     MapLabel_Central = "中央区",

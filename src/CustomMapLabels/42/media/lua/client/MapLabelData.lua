@@ -18,36 +18,60 @@ data.Defaults = {
 		userDefined        = false,                  -- (true/false) 用户是否可自定义标签,如无特殊需求请保持false
 	},
 	Lake = {
-		-- 颜色与透明度
-		r = 0.00, g = 0.00, b = 255, a = 1.0,       -- 颜色和透明度 (RGBA)
+		r = 0.00, g = 0.00, b = 255, a = 1.0,
 
-		-- 默认外观与行为
-		scale              = 0.666,                  -- 缩放大小
-		rotation           = 43.0,                   -- 旋转角度
-		anchorX            = 0.5,                    -- 锚点 (0.5, 0.5 表示中心对齐)
-		anchorY            = 0.5,                    -- 锚点 (0.5, 0.5 表示中心对齐)
-		layerID            = "text-water-medium",    -- 符号所在的图层 (例如: "text-town", "text-building", "text-place")
-		matchPerspective   = true,                   -- (true/false) 标签是否匹配地图视角（通常为 true）
-		applyZoom          = true,                   -- (true/false) 标签是否随地图缩放而变化大小（通常为 true）
-		minZoom            = 0.0,                    -- 标签开始可见的最小缩放级别
-		maxZoom            = 14.50,                  -- 标签保持可见的最大缩放级别   
-		userDefined        = false,                  -- (true/false) 用户是否可自定义标签,如无特殊需求请保持false
+		scale              = 0.666,
+		rotation           = 43.0,
+		anchorX            = 0.5,
+		anchorY            = 0.5,
+		layerID            = "text-water-medium",
+		matchPerspective   = true,
+		applyZoom          = true,
+		minZoom            = 0.0,
+		maxZoom            = 14.50,
+		userDefined        = false,
 	},
 	River = {
-		-- 颜色与透明度
-		r = 0.00, g = 0.00, b = 255, a = 1.0,       -- 颜色和透明度 (RGBA)
+		r = 0.00, g = 0.00, b = 255, a = 1.0,
 
-		-- 默认外观与行为
-		scale              = 3.050,                  -- 缩放大小
-		rotation           = 43.0,                   -- 旋转角度
-		anchorX            = 0.5,                    -- 锚点 (0.5, 0.5 表示中心对齐)
-		anchorY            = 0.5,                    -- 锚点 (0.5, 0.5 表示中心对齐)
-		layerID            = "text-water-nofade",    -- 符号所在的图层 (例如: "text-town", "text-building", "text-place")
-		matchPerspective   = true,                   -- (true/false) 标签是否匹配地图视角（通常为 true）
-		applyZoom          = true,                   -- (true/false) 标签是否随地图缩放而变化大小（通常为 true）
-		minZoom            = 0.0,                    -- 标签开始可见的最小缩放级别
-		maxZoom            = 24.00,                  -- 标签保持可见的最大缩放级别   
-		userDefined        = false,                  -- (true/false) 用户是否可自定义标签,如无特殊需求请保持false
+		scale = 3.050,
+		rotation = 43.0,
+		anchorX            = 0.5,
+		anchorY            = 0.5,
+		layerID            = "text-water-nofade",
+		matchPerspective   = true,
+		applyZoom          = true,
+		minZoom            = 0.0,
+		maxZoom            = 24.00,
+		userDefined        = false,
+	},
+	Building = {
+		r = 1.00, g = 1.00, b = 1.00, a = 1.0,
+
+		scale              = 0.6,
+		rotation           = 0.0,
+		anchorX            = 0.5,
+		anchorY            = 0.5,
+		layerID            = "text-building",
+		matchPerspective   = true,
+		applyZoom          = true,
+		minZoom            = 13.5,
+		maxZoom            = 16.5,
+		userDefined        = false,
+	},
+	Place = {
+		r = 1.00, g = 1.00, b = 1.00, a = 1.0,
+
+		scale              = 0.6,
+		rotation           = 0.0,
+		anchorX            = 0.5,
+		anchorY            = 0.5,
+		layerID            = "text-place",
+		matchPerspective   = true,
+		applyZoom          = true,
+		minZoom            = 13.5,
+		maxZoom            = 16.5,
+		userDefined        = false,
 	},
 	-- 示例：
 	-- MilitaryBase = {
@@ -236,10 +260,10 @@ data.ModMapLabels = {
 	},
 	---Camden County[康登县]---(3504080284)---
 	["\\CamdenCountyB42"] = {
-		{ key = "MapLabel_CamdenCounty",          x = 16200,  y = 11456, type = "Town", scale = 0 },
+		{ key = "MapLabel_CamdenCounty",          x = 16200,  y = 11456, type = "Town", scale = 4.7 },
 		{ key = "MapLabel_Alton",          x = 15545,  y = 9999, type = "Town", scale = 4.7 },
-		{ key = "MapLabel_CampLynn",          x = 17275,  y = 9475, type = "Town", scale = 3.7 },
-		{ key = "MapLabel_DixieHomes",          x = 15115,  y = 9500, type = "Town", scale = 2.0 },
+		{ key = "MapLabel_CampLynn",          x = 17275,  y = 9475, type = "Place"},
+		{ key = "MapLabel_DixieHomes",          x = 15115,  y = 9500, type = "Place"},
 		{ key = "MapLabel_Ingles",          x = 16550,  y = 12870, type = "Town", scale = 4.7 },
 		{ key = "MapLabel_Kerson",          x = 17980,  y = 12730, type = "Town", scale = 4.7 },
 		{ key = "MapLabel_LakeMartin",          x = 17800,  y = 12965, type = "Lake", scale = 0.90, rotation = 39.0 },
@@ -247,7 +271,7 @@ data.ModMapLabels = {
 		{ key = "MapLabel_Robinsville",          x = 15430,  y = 10835, type = "Town", scale = 4.7 },
 		{ key = "MapLabel_SouthIngles",          x = 16470,  y = 13440, type = "Town", scale = 4.7 },
 		{ key = "MapLabel_Suggs",          x = 17100,  y = 11650, type = "Town", scale = 4.7 },
-		{ key = "MapLabel_Trenton",          x = 16260,  y = 9385, type = "Town", scale = 3.7 },
+		{ key = "MapLabel_Trenton",          x = 16260,  y = 9385, type = "Place"},
 		{ key = "MapLabel_VanHookRiverNN",          x = 18560,  y = 10520, type = "River", scale = 0.75, rotation = 20.0 },
 		{ key = "MapLabel_VanHookRiverN",          x = 17770,  y = 11367, type = "River", scale = 0.75, rotation = 23.0 },
 		{ key = "MapLabel_VanHookRiverM",          x = 16730,  y = 12430, type = "River", scale = 0.75, rotation = 37.0 },

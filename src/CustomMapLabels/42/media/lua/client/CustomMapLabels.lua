@@ -93,9 +93,11 @@ function CustomMapLabels.processAllMapLabels()
 					
 					if newKeyLowercase then
 						local matchedOriginalKey = managedKeysLookup[newKeyLowercase]
-						if matchedOriginalKey and getTextOrNull(matchedOriginalKey) then
+						if matchedOriginalKey then
+							table.insert(indicesToRemove, i)
+						elseif getTextOrNull(newKeyLowercase) then
 							local originalData = {
-								newTranslationKey = matchedOriginalKey,
+								newTranslationKey = newKeyLowercase,
 								x = sym:getWorldX(), y = sym:getWorldY(), layerID = sym:getLayerID(),
 								r = sym:getRed(), g = sym:getGreen(), b = sym:getBlue(), a = sym:getAlpha(),
 								scale = sym:getScale(), rotation = sym:getRotation(),

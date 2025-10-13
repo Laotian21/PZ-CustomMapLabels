@@ -17,6 +17,38 @@ data.Defaults = {
 		maxZoom            = 13.0,                   -- 标签保持可见的最大缩放级别   
 		userDefined        = false,                  -- (true/false) 用户是否可自定义标签,如无特殊需求请保持false
 	},
+	Lake = {
+		-- 颜色与透明度
+		r = 0.00, g = 0.00, b = 255, a = 1.0,       -- 颜色和透明度 (RGBA)
+
+		-- 默认外观与行为
+		scale              = 0.666,                  -- 缩放大小
+		rotation           = 43.0,                   -- 旋转角度
+		anchorX            = 0.5,                    -- 锚点 (0.5, 0.5 表示中心对齐)
+		anchorY            = 0.5,                    -- 锚点 (0.5, 0.5 表示中心对齐)
+		layerID            = "text-water-medium",    -- 符号所在的图层 (例如: "text-town", "text-building", "text-place")
+		matchPerspective   = true,                   -- (true/false) 标签是否匹配地图视角（通常为 true）
+		applyZoom          = true,                   -- (true/false) 标签是否随地图缩放而变化大小（通常为 true）
+		minZoom            = 0.0,                    -- 标签开始可见的最小缩放级别
+		maxZoom            = 14.50,                  -- 标签保持可见的最大缩放级别   
+		userDefined        = false,                  -- (true/false) 用户是否可自定义标签,如无特殊需求请保持false
+	},
+	River = {
+		-- 颜色与透明度
+		r = 0.00, g = 0.00, b = 255, a = 1.0,       -- 颜色和透明度 (RGBA)
+
+		-- 默认外观与行为
+		scale              = 3.050,                  -- 缩放大小
+		rotation           = 43.0,                   -- 旋转角度
+		anchorX            = 0.5,                    -- 锚点 (0.5, 0.5 表示中心对齐)
+		anchorY            = 0.5,                    -- 锚点 (0.5, 0.5 表示中心对齐)
+		layerID            = "text-water-nofade",    -- 符号所在的图层 (例如: "text-town", "text-building", "text-place")
+		matchPerspective   = true,                   -- (true/false) 标签是否匹配地图视角（通常为 true）
+		applyZoom          = true,                   -- (true/false) 标签是否随地图缩放而变化大小（通常为 true）
+		minZoom            = 0.0,                    -- 标签开始可见的最小缩放级别
+		maxZoom            = 24.00,                  -- 标签保持可见的最大缩放级别   
+		userDefined        = false,                  -- (true/false) 用户是否可自定义标签,如无特殊需求请保持false
+	},
 	-- 示例：
 	-- MilitaryBase = {
     -- inherits = "Town",
@@ -190,7 +222,7 @@ data.ModMapLabels = {
 	["\\Erikas_Furniture_Store"] = {
 		{ key = "MapLabel_ErikasFurnitureStore", x = 11541, y = 8267,  type = "Town", scale = 2.8 },
 	},
-	---Blackpine County[黑松县]---(3363546437)---
+	---Blackpine County[黑松县]---(3565649631)---
 	["\\BlackpineCounty"] = {
 		{ key = "MapLabel_BlackpineCounty", x = 10763, y = 14644,  type = "Town", scale = 5.5 },
 	},
@@ -202,9 +234,26 @@ data.ModMapLabels = {
 	["\\RMSafeHouseUnofficial"] = {
 		{ key = "MapLabel_RMSafeHouseUnofficial",          x = 5583,  y = 5309, type = "Town", scale = 2.7 },
 	},
-	---Camden County[康登县]---(3485388592)---
+	---Camden County[康登县]---(3504080284)---
 	["\\CamdenCountyB42"] = {
-		{ key = "MapLabel_CamdenCounty",          x = 16200,  y = 11456, type = "Town", scale = 8.5 },
+		{ key = "MapLabel_CamdenCounty",          x = 16200,  y = 11456, type = "Town", scale = 0 },
+		{ key = "MapLabel_Alton",          x = 15545,  y = 9999, type = "Town", scale = 4.7 },
+		{ key = "MapLabel_CampLynn",          x = 17275,  y = 9475, type = "Town", scale = 3.7 },
+		{ key = "MapLabel_DixieHomes",          x = 15115,  y = 9500, type = "Town", scale = 2.0 },
+		{ key = "MapLabel_Ingles",          x = 16550,  y = 12870, type = "Town", scale = 4.7 },
+		{ key = "MapLabel_Kerson",          x = 17980,  y = 12730, type = "Town", scale = 4.7 },
+		{ key = "MapLabel_LakeMartin",          x = 17800,  y = 12965, type = "Lake", scale = 0.90, rotation = 39.0 },
+		{ key = "MapLabel_Montgomery",          x = 14865,  y = 12300, type = "Town", scale = 4.7 },
+		{ key = "MapLabel_Robinsville",          x = 15430,  y = 10835, type = "Town", scale = 4.7 },
+		{ key = "MapLabel_SouthIngles",          x = 16470,  y = 13440, type = "Town", scale = 4.7 },
+		{ key = "MapLabel_Suggs",          x = 17100,  y = 11650, type = "Town", scale = 4.7 },
+		{ key = "MapLabel_Trenton",          x = 16260,  y = 9385, type = "Town", scale = 3.7 },
+		{ key = "MapLabel_VanHookRiverNN",          x = 18560,  y = 10520, type = "River", scale = 0.75, rotation = 20.0 },
+		{ key = "MapLabel_VanHookRiverN",          x = 17770,  y = 11367, type = "River", scale = 0.75, rotation = 23.0 },
+		{ key = "MapLabel_VanHookRiverM",          x = 16730,  y = 12430, type = "River", scale = 0.75, rotation = 37.0 },
+		{ key = "MapLabel_VanHookRiverS",          x = 16135,  y = 13320, type = "River", scale = 0.75, rotation = 50.0 },
+		{ key = "MapLabel_VanHookRiverSS",          x = 15140,  y = 14130, type = "River", scale = 0.75, rotation = 39.0 },
+		{ key = "MapLabel_WheelerCreek",          x = 18555,  y = 10400, type = "Town", scale = 4.7 },
 	},
 	---Hartburg[哈特堡]---(3576750203)---
 	["\\hartburgb42"] = {
@@ -225,7 +274,29 @@ data.ModMapLabels = {
 	---Brink[布林克镇]---(3551791831)---
 	["\\Brink"] = {
 		{ key = "MapLabel_Brink", x = 11250, y = 8324, type = "Town", scale = 4.5 },
+	},
+	---Fort Boonesborough[布恩斯伯勒堡]---(2968421358)---
+	["\\Fort_Boonesborough"] = {
+		{ key = "MapLabel_FortBoonesborough",          x = 14135,  y = 1990, type = "Town", scale = 2.0 },
+	},
+	---Project Indiana Expansion[印第安纳州扩建计划]---(3507117617)---
+	["\\PIE42"] = {
+		{ key = "MapLabel_Corydon",          x = 3700,  y = 800, type = "Town", scale = 4.7 },
+		{ key = "MapLabel_Central",          x = 1930,  y = 2860, type = "Town", scale = 4.7 },
+		{ key = "MapLabel_Charlestown",          x = 17685,  y = 160, type = "Town", scale = 4.7 },
+		{ key = "MapLabel_Clarksville",          x = 14295,  y = 235, type = "Town", scale = 4.7 },
+		{ key = "MapLabel_Edwardsville",          x = 10225,  y = 230, type = "Town", scale = 4.0 },
+		{ key = "MapLabel_Elizabeth",          x = 9450,  y = 2850, type = "Town", scale = 4.7 },
+		{ key = "MapLabel_EvansLanding",          x = 8845,  y = 6185, type = "Town", scale = 4.7 },
+		{ key = "MapLabel_Georgetown",          x = 9140,  y = 200, type = "Town", scale = 4.0 },
+		{ key = "MapLabel_Jeffersonville",          x = 15120,  y = 780, type = "Town", scale = 4.0 },
+		{ key = "MapLabel_Laconia",          x = 5850,  y = 4350, type = "Town", scale = 4.7 },
+		{ key = "MapLabel_Lanesville",          x = 8130,  y = 725, type = "Town", scale = 4.7 },
+		{ key = "MapLabel_Maukport",          x = 1380,  y = 4945, type = "Town", scale = 4.7 },
+		{ key = "MapLabel_NewAlbany",          x = 12600,  y = 720, type = "Town", scale = 4.7 },
+		{ key = "MapLabel_NewAmsterdam",          x = 215,  y = 3260, type = "Town", scale = 4.7 },
+		{ key = "MapLabel_NewMiddletown",          x = 6720,  y = 2015, type = "Town", scale = 4.7 },
+		{ key = "MapLabel_Utica",          x = 15985,  y = 730, type = "Town", scale = 4.7 },
 	}
 }
-
 return data

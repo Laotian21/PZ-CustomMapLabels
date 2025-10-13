@@ -52,6 +52,8 @@ Thanks to: 无聊的栀子 for providing a large number of map label coordinates
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3580819781]Atlanta [/url]
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3449473111]Frogtown [/url]
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3551791831]Brink [/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3507117617]Project Indiana Expansion[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2968421358]Fort Boonesborough[/url]
 
 [hr][/hr]
 [h1][b] Compatibility: [/b][/h1]

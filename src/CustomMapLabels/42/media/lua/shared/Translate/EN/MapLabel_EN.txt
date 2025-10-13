@@ -101,6 +101,7 @@ MapLabel_EN = {
 	MapLabel_Ingles = "INGLES",
 	MapLabel_Kerson = "KERSON",
 	MapLabel_LakeMartin = "LAKE MARTIN",
+    MapLabel_LakeMonica = "LAKE MONICA",
 	MapLabel_Montgomery = "MONGOMERY",
 	MapLabel_Robinsville = "ROBINSVILLE",
 	MapLabel_SouthIngles = "SOUTH INGLES",
@@ -130,5 +131,14 @@ MapLabel_EN = {
 	MapLabel_NewAlbany = "NEW ALBANY",
 	MapLabel_NewAmsterdam = "NEW AMSTERDAM",
 	MapLabel_NewMiddletown = "NEW MIDDLETOWN",
-	MapLabel_Utica = "UTICA",	
+	MapLabel_Utica = "UTICA",
+
+------Vanilla Wrecking Yards-----	
+	MapLabel_WreckingYardEchoCreek = "Wrecking Yard",
+	MapLabel_WreckingYardIrvingtonSNL = "Wrecking Yard",
+	MapLabel_WreckingYardIrvington = "Wrecking Yard",
+	MapLabel_WreckingYardLouisville = "Wrecking Yard",
+	MapLabel_WreckingYardMuldraugh = "Wrecking Yard",
+	MapLabel_WreckingYardRiverside = "Wrecking Yard",
+	MapLabel_WreckingYardValleyStation = "Wrecking Yard",	
 }

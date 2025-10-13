@@ -101,6 +101,7 @@ MapLabel_CN = {
     MapLabel_Ingles = "英格尔斯",
     MapLabel_Kerson = "克尔森",
     MapLabel_LakeMartin = "马丁湖",
+    MapLabel_LakeMonica = "莫尼卡湖",
     MapLabel_Montgomery = "蒙哥马利",
     MapLabel_Robinsville = "罗宾斯维尔",
     MapLabel_SouthIngles = "南英格尔斯",

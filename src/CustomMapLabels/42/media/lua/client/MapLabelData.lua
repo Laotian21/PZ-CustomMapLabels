@@ -267,7 +267,7 @@ data.ModMapLabels = {
 		{ key = "MapLabel_Ingles",          x = 16613,  y = 12974, type = "Town", scale = 4.0 },
 		{ key = "MapLabel_Kerson",          x = 17875,  y = 12673, type = "Town", scale = 4.0 },
 		{ key = "MapLabel_LakeMartin",          x = 17780,  y = 12970, type = "Lake", scale = 1.4, rotation = 39.0 },
-		{ key = "MapLabel_LakeMonica", 			x = 15750, y = 9550, type = "Lake", scale = 1.4, rotation = 90.0 },
+		{ key = "MapLabel_LakeMonica",          x = 15750,  y = 9550, type = "Lake", scale = 1.4, rotation = 90.0 },
 		{ key = "MapLabel_Montgomery",          x = 14953,  y = 12317, type = "Town", scale = 4.0 },
 		{ key = "MapLabel_Robinsville",          x = 15427,  y = 10827, type = "Town", scale = 2.8 },
 		{ key = "MapLabel_SouthIngles",          x = 16546,  y = 13477, type = "Town", scale = 3.4 },
@@ -323,5 +323,6 @@ data.ModMapLabels = {
 		{ key = "MapLabel_NewMiddletown",          x = 6720,  y = 2015, type = "Town", scale = 4.7 },
 		{ key = "MapLabel_Utica",          x = 15985,  y = 730, type = "Town", scale = 4.7 },
 	}
+
 }
 return data

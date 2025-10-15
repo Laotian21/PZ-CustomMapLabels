@@ -86,6 +86,10 @@ data.Defaults = {
 -- 可选: 任何需要覆盖默认值的属性 (例如 scale, rotation)
 ---------------------------------------------------------------------------------
 data.ModMapLabels = {
+	---Vanilla Wrecking Yards[香草破坏场]---(B42)---
+	["Vanilla"] = {
+		{},
+	},
 	---EchoCreek MilitaryBase[回音河军事基地]---(3476333350)---
 	["\\EchoCreek MilitaryBase"] = {
 		{ key = "MapLabel_EchoCreek_MilitaryBase", x = 3468,  y = 10257, type = "Town", scale = 2.5 },

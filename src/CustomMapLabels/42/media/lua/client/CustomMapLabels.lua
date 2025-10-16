@@ -62,7 +62,6 @@ function CustomMapLabels.processAllMapLabels()
     local activeModLabels = {}
 	if FullModMapLabels then
 		for modId, labels in pairs(FullModMapLabels) do
-			if getActivatedMods():contains(modId) then
 			if getActivatedMods():contains(modId) or modId == "Vanilla" then
                 table.insert(activeModLabels, labels)
 				for _, data in ipairs(labels) do

@@ -108,7 +108,7 @@ data.ModMapLabels = {
 		{ key = "MapLabel_WreckingYardLouisville",	x = 13695,  y = 1680, type = "POI", scale = 0.3 },
 		{ key = "MapLabel_WreckingYardMuldraugh",	x = 10760,  y = 10485, type = "POI", scale = 0.3, rotation = 90.0 },
 		{ key = "MapLabel_WreckingYardRiverside",	x = 5825,  y = 5410, type = "POI", scale = 0.3 },
-		{ key = "MapLabel_WreckingYardValleyStation",	x = 12590,  y = 5390, type = "POI", scale = 0.3, rotation = 90.0 },},
+		{ key = "MapLabel_WreckingYardValleyStation",	x = 12590,  y = 5390, type = "POI", scale = 0.3, rotation = 90.0 },
 	},
 	---EchoCreek MilitaryBase[回音河军事基地]---(3476333350)---
 	["\\EchoCreek MilitaryBase"] = {

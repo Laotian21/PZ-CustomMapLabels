@@ -73,6 +73,20 @@ data.Defaults = {
 		maxZoom            = 16.5,
 		userDefined        = false,
 	},
+	POI = {
+		r = 0.988, g = 0.788, b = 1, a = 1.0,
+
+		scale              = 0.6,
+		rotation           = 0.0,
+		anchorX            = 0.5,
+		anchorY            = 0.5,
+		layerID            = "text-place",
+		matchPerspective   = true,
+		applyZoom          = true,
+		minZoom            = 10.5,
+		maxZoom            = 13.5,
+		userDefined        = false,
+	},
 	-- 示例：
 	-- MilitaryBase = {
     -- inherits = "Town",
@@ -86,6 +100,15 @@ data.Defaults = {
 -- 可选: 任何需要覆盖默认值的属性 (例如 scale, rotation)
 ---------------------------------------------------------------------------------
 data.ModMapLabels = {
+	---Vanilla Wrecking Yards[香草破坏场]---(B42)---
+	["\\Vanilla"] = {
+		{ key = "MapLabel_WreckingYardEchoCreek",	x = 2940,  y = 12620, type = "POI", scale = 0.3, rotation = 90.0 },
+		{ key = "MapLabel_WreckingYardIrvingtonSNL",	x = 1940,  y = 13390, type = "POI", scale = 0.9 },
+		{ key = "MapLabel_WreckingYardIrvington",	x = 2530,  y = 14440, type = "POI", scale = 0.3 },
+		{ key = "MapLabel_WreckingYardLouisville",	x = 13695,  y = 1680, type = "POI", scale = 0.3 },
+		{ key = "MapLabel_WreckingYardMuldraugh",	x = 10760,  y = 10485, type = "POI", scale = 0.3, rotation = 90.0 },
+		{ key = "MapLabel_WreckingYardRiverside",	x = 5825,  y = 5410, type = "POI", scale = 0.3 },
+		{ key = "MapLabel_WreckingYardValleyStation",	x = 12590,  y = 5390, type = "POI", scale = 0.3, rotation = 90.0 },
 	---EchoCreek MilitaryBase[回音河军事基地]---(3476333350)---
 	["\\EchoCreek MilitaryBase"] = {
 		{ key = "MapLabel_EchoCreek_MilitaryBase", x = 3468,  y = 10257, type = "Town", scale = 2.5 },
@@ -93,6 +116,7 @@ data.ModMapLabels = {
 	---Willowbrook Bastion![柳溪镇]---(3479667649)---
 	["\\Willowbrook Bastion!"] = {
 		{ key = "MapLabel_Willowbrook_Bastion",  x = 9153,  y = 9879,  type = "Town", scale = 4.5 },
+		{ key = "MapLabel_WreckingYardWillowbrook_Bastion",	x = 8790,  y = 9635, type = "POI", scale = 0.3 },
 	},
 	---Asakusa lake town[浅草湖镇]---(3482962418)---
 	["\\Asakusa lake town"] = {
@@ -117,6 +141,7 @@ data.ModMapLabels = {
 	---Daisy County[雏菊镇]---(3390753141)---
 	["\\Daisy County B42 version"] = {
 		{ key = "MapLabel_DaisyCounty",          x = 10180, y = 7640,  type = "Town", scale = 4.5 },
+		{ key = "MapLabel_WreckingYardDaisyCounty",          x = 10460, y = 8025,  type = "POI", scale = 0.3, rotation = 90.0 },
 	},
 	---Fort Benning[本宁堡]---(3490580478)---
 	["\\FortBenningB42"] = {
@@ -177,6 +202,7 @@ data.ModMapLabels = {
 	---Nettle Township[荨麻镇]---(3391349130)---
 	["\\Nettle Township B42 version"] = {
 		{ key = "MapLabel_NettleTownship",      x = 6904,  y = 9292,  type = "Town", scale = 4.5 },
+		{ key = "MapLabel_DumpYardNettleTownship",	x = 6745,  y = 9560, type = "POI", scale = 0.3 },
 	},
 	---Oakshire[橡树郡]---(3535422434)---
 	["\\Oakshire42"] = {
@@ -213,6 +239,7 @@ data.ModMapLabels = {
 	---Tikitown[蒂基镇]---(3037854728)---
 	["\\tikitown"] = {
 		{ key = "MapLabel_Tikitown",             x = 7288,  y = 7354,  type = "Town", scale = 5.5 },
+		{ key = "MapLabel_ScrapYardTikitown",	x = 7555,  y = 7170, type = "POI", scale = 0.3 },
 	},
 	---Trapalake town[菱角湖]---(3390327877)---
 	["\\TrapalaketownB42"] = {
@@ -278,6 +305,8 @@ data.ModMapLabels = {
 		{ key = "MapLabel_VanHookRiverM",          x = 16730,  y = 12430, type = "River", scale = 0.75, rotation = 37.0 },
 		{ key = "MapLabel_VanHookRiverS",          x = 16135,  y = 13320, type = "River", scale = 0.75, rotation = 50.0 },
 		{ key = "MapLabel_VanHookRiverSS",          x = 15140,  y = 14130, type = "River", scale = 0.75, rotation = 39.0 },
+		{ key = "MapLabel_WreckingYardIngles",	x = 16465,  y = 13020, type = "POI", scale = 0.3 },
+		{ key = "MapLabel_WreckingYardSuggs",	x = 17000,  y = 11720, type = "POI", scale = 0.3 },
 		{ key = "MapLabel_WheelerCreek",          x = 18555,  y = 10400, type = "Town", scale = 4.7 },
 	},
 	---Hartburg[哈特堡]---(3576750203)---
@@ -303,6 +332,10 @@ data.ModMapLabels = {
 	---Fort Boonesborough[布恩斯伯勒堡]---(2968421358)---
 	["\\Fort_Boonesborough"] = {
 		{ key = "MapLabel_FortBoonesborough",          x = 14135,  y = 1990, type = "Town", scale = 2.0 },
+	},
+	---Buck's Hideaway[布恩斯伯勒堡]---(3553081863)---
+	["\\BucksHideaway"] = {
+		{ key = "MapLabel_BucksHideaway",          x = 10700,  y = 10900, type = "Town", scale = 2.0 },
 	},
 	---Project Indiana Expansion[印第安纳州扩建计划]---(3507117617)---
 	["\\PIE42"] = {

@@ -32,3 +32,12 @@ fix:修复地图标签重复的问题
 ---Fort Boonesborough[布恩斯伯勒堡]---(2968421358)---
 ---Project Indiana Expansion[印第安纳州扩建计划]---(3507117617)---
 ---
+
+## Version 1.4 - 2025-10-17
+感谢 [NKD] SyCO PRiNCESS 提交的信息
+新增:
+---Vanilla Wrecking Yards[原版废车场]---(B42)---
+---Muldraugh FireDept[马尔德劳消防局]---(3585472912)---
+---Buck's Hideaway[巴克的藏身处]---(3553081863)---
+---
+

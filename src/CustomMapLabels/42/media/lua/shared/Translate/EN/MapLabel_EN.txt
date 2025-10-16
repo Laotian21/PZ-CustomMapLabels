@@ -54,7 +54,6 @@ MapLabel_EN = {
     MapLabel_CathayaValley = "Cathaya<br>Valley",
     MapLabel_Constown = "Constown",
     MapLabel_CORYERDON = "Coryerdon",
-    MapLabel_DaisyCounty = "Daisy County",
     MapLabel_EchoCreek_MilitaryBase = "EchoCreek<br>MilitaryBase",
     MapLabel_EdsAutoSalvage = "Ed's Auto Salvage",
     MapLabel_ErikasFurnitureStore = "Erika's<br>Furniture Store",
@@ -90,6 +89,7 @@ MapLabel_EN = {
     MapLabel_WestPointExpansion = "West Point<br>Expansion",
     MapLabel_WhiteForest = "White Forest",
     MapLabel_WhiteWolfRidge = "White Wolf Ridge",
+    Maplabel_MuldraughFireDept = "Muldraugh<br>FireDept",
 
 ------Camden County Map-----
     MapLabel_CamdenCounty = "Camden<br>County",
@@ -115,7 +115,7 @@ MapLabel_EN = {
     MapLabel_WreckingYardSuggs = "Wrecking<br>Yard",
 	
 ------Daisy County Map-----	
-    MapLabel_NettleTownship = "Nettle Township",
+    MapLabel_DaisyCounty = "Daisy County",
 	MapLabel_WreckingYardDaisyCounty = "Wrecking<br>Yard",
 
 ------Project Indiana Map-----	

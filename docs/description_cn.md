@@ -53,7 +53,9 @@
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3449473111]Frogtown [/url](青蛙镇)
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3551791831]Brink [/url](布林克镇)
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3507117617]Project Indiana Expansion[/url](印第安纳州扩建计划)
-- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2968421358]Fort Boonesborough[/url](布恩斯伯勒堡)
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2968421358]Fort Boonesborough[/url](波恩斯伯勒堡)
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3585472912]Muldraugh FireDept[/url](马尔德劳消防局)
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3553081863]Buck's Hideaway[/url](巴克的藏身处)
 
 [hr][/hr]
 [h1][b] 兼容性: [/b][/h1]

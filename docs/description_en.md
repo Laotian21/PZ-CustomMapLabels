@@ -54,6 +54,8 @@ Thanks to: 无聊的栀子 for providing a large number of map label coordinates
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3551791831]Brink [/url]
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3507117617]Project Indiana Expansion[/url]
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2968421358]Fort Boonesborough[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3585472912]Muldraugh FireDept[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3553081863]Buck's Hideaway[/url]
 
 [hr][/hr]
 [h1][b] Compatibility: [/b][/h1]

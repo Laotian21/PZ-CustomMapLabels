@@ -50,6 +50,7 @@ MapLabel_CN = {
     MapLabel_AtlantaTowerSurvival = "亚特兰大",
     MapLabel_BlackpineCounty = "黑松县",
     MapLabel_Brink = "布林克镇",
+    MapLabel_BucksHideaway = "巴克的<br>藏身处",
     MapLabel_CathayaValley = "银杉谷",
     MapLabel_Constown = "康斯镇",
     MapLabel_CORYERDON = "科里尔登",
@@ -58,7 +59,7 @@ MapLabel_CN = {
     MapLabel_ErikasFurnitureStore = "艾丽卡家具店",
     MapLabel_Fairhaven = "费尔黑文",
     MapLabel_FORTBENNING = "本宁堡",
-    MapLabel_FortBoonesborough = "布恩斯伯勒堡",
+    MapLabel_FortBoonesborough = "波恩斯伯勒堡",
     MapLabel_FortJadeLake = "翡翠湖堡",
     MapLabel_FortPreston = "普雷斯顿堡",
     MapLabel_FORTWATERFRONT = "滨水要塞",
@@ -88,6 +89,7 @@ MapLabel_CN = {
     MapLabel_WestPointExpansion = "西点镇拓展",
     MapLabel_WhiteForest = "白森林",
     MapLabel_WhiteWolfRidge = "白狼岭",
+    MapLabel_MuldraughFireDept = "马尔德劳<br>消防局",
 	
 ------Camden County Map-----
     MapLabel_CamdenCounty = "康登县",
@@ -109,12 +111,12 @@ MapLabel_CN = {
     MapLabel_VanHookRiverS = "范霍克河",
     MapLabel_VanHookRiverSS = "范霍克河",
     MapLabel_WheelerCreek = "惠勒溪",
-    MapLabel_WreckingYardIngles = "破坏场",
-    MapLabel_WreckingYardSuggs = "破坏场",
+    MapLabel_WreckingYardIngles = "废车场",
+    MapLabel_WreckingYardSuggs = "废车场",
 
 ------Daisy County Map-----	
     MapLabel_DaisyCounty = "雏菊镇",
-	MapLabel_WreckingYardDaisyCounty = "破坏场",
+	MapLabel_WreckingYardDaisyCounty = "废车场",
 
 ------Project Indiana Map-----    
     MapLabel_Central = "中央区",
@@ -136,22 +138,22 @@ MapLabel_CN = {
 
 ------Nettle Township Map-----	
     MapLabel_NettleTownship = "荨麻镇",
-	MapLabel_DumpYardNettleTownship = "Garbage<br>Dump",
+	MapLabel_DumpYardNettleTownship = "垃圾填埋场",
 
 ------Tikitown Map-----	
     MapLabel_Tikitown = "蒂基镇",
-	MapLabel_ScrapYardTikitown = "Scrap<br>Yard",
+	MapLabel_ScrapYardTikitown = "废料场",
 
 ------Willowbrook Bastion Map-----	
     MapLabel_Willowbrook_Bastion = "柳溪镇",
-    MapLabel_WreckingYardWillowbrook_Bastion = "破坏场",
+    MapLabel_WreckingYardWillowbrook_Bastion = "废车场",
 
 ------Vanilla Wrecking Yards-----	
-	MapLabel_WreckingYardEchoCreek = "破坏场",
-	MapLabel_WreckingYardIrvingtonSNL = "破坏场",
-	MapLabel_WreckingYardIrvington = "破坏场",
-	MapLabel_WreckingYardLouisville = "破坏场",
-	MapLabel_WreckingYardMuldraugh = "破坏场",
-	MapLabel_WreckingYardRiverside = "破坏场",
-	MapLabel_WreckingYardValleyStation = "破坏场",
+	MapLabel_WreckingYardEchoCreek = "废车场",
+	MapLabel_WreckingYardIrvingtonSNL = "废车场",
+	MapLabel_WreckingYardIrvington = "废车场",
+	MapLabel_WreckingYardLouisville = "废车场",
+	MapLabel_WreckingYardMuldraugh = "废车场",
+	MapLabel_WreckingYardRiverside = "废车场",
+	MapLabel_WreckingYardValleyStation = "废车场",
 }

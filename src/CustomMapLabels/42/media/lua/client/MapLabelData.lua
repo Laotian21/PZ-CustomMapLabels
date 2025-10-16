@@ -59,22 +59,8 @@ data.Defaults = {
 		maxZoom            = 16.5,
 		userDefined        = false,
 	},
-	Place = {
-		r = 1.00, g = 1.00, b = 1.00, a = 1.0,
-
-		scale              = 0.6,
-		rotation           = 0.0,
-		anchorX            = 0.5,
-		anchorY            = 0.5,
-		layerID            = "text-place",
-		matchPerspective   = true,
-		applyZoom          = true,
-		minZoom            = 13.5,
-		maxZoom            = 16.5,
-		userDefined        = false,
-	},
 	POI = {
-		r = 0.988, g = 0.788, b = 1, a = 1.0,
+		r = 0.28, g = 0.36, b = 0.46, a = 1.0,
 
 		scale              = 0.6,
 		rotation           = 0.0,
@@ -100,7 +86,7 @@ data.Defaults = {
 -- 可选: 任何需要覆盖默认值的属性 (例如 scale, rotation)
 ---------------------------------------------------------------------------------
 data.ModMapLabels = {
-	---Vanilla Wrecking Yards[香草破坏场]---(B42)---
+	---Vanilla Wrecking Yards[原版废车场]---(B42)---
 	["Vanilla"] = {
 		{ key = "MapLabel_WreckingYardEchoCreek",	x = 2940,  y = 12620, type = "POI", scale = 0.3, rotation = 90.0 },
 		{ key = "MapLabel_WreckingYardIrvingtonSNL",	x = 1940,  y = 13390, type = "POI", scale = 0.9 },
@@ -154,7 +140,7 @@ data.ModMapLabels = {
 	},
 	---Fort Waterfront[滨水要塞]---(3486814612)---
 	["\\Fort Waterfront B42"] = {
-		{ key = "MapLabel_FORTWATERFRONT",       x = 10251, y = 10993, type = "Town" },
+		{ key = "MapLabel_FORTWATERFRONT",       x = 10251, y = 10993, type = "Town", scale = 3.0 },
 	},
 	---Grapeseed[葡萄籽镇]---(2463499011)---
 	["\\42Grapeseed"] = {
@@ -211,7 +197,7 @@ data.ModMapLabels = {
 	},
 	---Raccoon City[浣熊市]---(3388468313)---
 	["\\RaccoonCityB42"] = {
-		{ key = "MapLabel_RaccoonCity",          x = 10180, y = 10191, type = "Town", scale = 5.0 },
+		{ key = "MapLabel_RaccoonCity",          x = 10180, y = 10191, type = "Town", scale = 4.5 },
 	},
 	---Raven Creek[渡鸦港]---(3484263516)---
 	["\\RavenCreekB42"] = {
@@ -330,13 +316,13 @@ data.ModMapLabels = {
 	["\\Brink"] = {
 		{ key = "MapLabel_Brink", x = 11250, y = 8324, type = "Town", scale = 4.5 },
 	},
-	---Fort Boonesborough[布恩斯伯勒堡]---(2968421358)---
+	---Fort Boonesborough[波恩斯伯勒堡]---(2968421358)---
 	["\\Fort_Boonesborough"] = {
 		{ key = "MapLabel_FortBoonesborough",          x = 14135,  y = 1990, type = "Town", scale = 2.0 },
 	},
-	---Buck's Hideaway[布恩斯伯勒堡]---(3553081863)---
+	---Buck's Hideaway[巴克的藏身处]---(3553081863)---
 	["\\BucksHideaway"] = {
-		{ key = "MapLabel_BucksHideaway",          x = 10700,  y = 10900, type = "Town", scale = 2.0 },
+		{ key = "MapLabel_BucksHideaway",          x = 10700,  y = 10900, type = "Town", scale = 1.5 },
 	},
 	---Project Indiana Expansion[印第安纳州扩建计划]---(3507117617)---
 	["\\PIE42"] = {
@@ -356,6 +342,10 @@ data.ModMapLabels = {
 		{ key = "MapLabel_NewAmsterdam",          x = 215,  y = 3260, type = "Town", scale = 4.7 },
 		{ key = "MapLabel_NewMiddletown",          x = 6720,  y = 2015, type = "Town", scale = 4.7 },
 		{ key = "MapLabel_Utica",          x = 15985,  y = 730, type = "Town", scale = 4.7 },
+	},
+	---Muldraugh FireDept[马尔德劳消防局]---(3585472912)---
+	["\\beek_muldraugh_firedept"] = {
+		{key = "MapLabel_MuldraughFireDept",	x = 10546,y = 9204, type = "Town", scale = 1.5 },
 	}
 
 }

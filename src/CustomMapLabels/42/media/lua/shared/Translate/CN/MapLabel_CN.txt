@@ -48,6 +48,7 @@ MapLabel_CN = {
     MapLabel_Ashenwood = "灰木镇",
     MapLabel_Atlanta = "亚特兰大",
     MapLabel_AtlantaTowerSurvival = "亚特兰大",
+    MapLabel_BananaBeachHouse = "西点沙滩小屋",
     MapLabel_BlackpineCounty = "黑松县",
     MapLabel_Brink = "布林克镇",
     MapLabel_BucksHideaway = "巴克的<br>藏身处",

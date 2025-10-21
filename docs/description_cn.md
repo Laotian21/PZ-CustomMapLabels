@@ -52,11 +52,11 @@
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3037854728]Tikitown[/url](蒂基镇)
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3390327877]Trapalaketown[/url](菱角湖)
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3524981481]Vila Z[/url](维拉-Z)
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3528889511]West Point Beach Houses[/url](西点沙滩小屋)
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3475754603]West Point Expansion[/url](西点镇拓展)
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3519054686]White forest[/url](白森林)
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3499861271]White Wolf Ridge[/url](白狼岭)
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3479667649]Willowbrook Bastion[/url](柳溪镇)
-
 
 [hr][/hr]
 [h1][b] 兼容性: [/b][/h1]

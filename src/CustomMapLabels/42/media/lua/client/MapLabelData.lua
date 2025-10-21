@@ -251,7 +251,10 @@ data.ModMapLabels = {
 	---Muldraugh FireDept[马尔德劳消防局]---(3585472912)---
 	["\\beek_muldraugh_firedept"] = {
 		{key = "MapLabel_MuldraughFireDept",	x = 10546,y = 9204, type = "Town", scale = 1.5 },
-	}
-
+	},
+	---West Point Beach Houses[西点沙滩小屋]---(3528889511)---
+    ["\\BananaBeachHouse"] = {
+        {key = "MapLabel_BananaBeachHouse",    x = 9707,y = 6619, type = "Town", scale = 1.5 },
+    }
 }
 return data

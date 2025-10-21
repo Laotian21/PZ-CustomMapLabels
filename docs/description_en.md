@@ -52,6 +52,7 @@ Thanks to: 无聊的栀子 for providing a large number of map label coordinates
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3037854728]Tikitown[/url]
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3390327877]Trapalaketown[/url]
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3524981481]Vila Z[/url]
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3528889511]West Point Beach Houses[/url]
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3475754603]West Point Expansion[/url]
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3519054686]White forest[/url]
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3499861271]White Wolf Ridge[/url]

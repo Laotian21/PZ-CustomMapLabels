@@ -48,6 +48,7 @@ MapLabel_EN = {
     MapLabel_Ashenwood = "Ashenwood",
     MapLabel_Atlanta = "Atlanta",
     MapLabel_AtlantaTowerSurvival = "Atlanta",
+    MapLabel_BananaBeachHouse = "West Point<br>Beach Houses",
     MapLabel_BlackpineCounty = "Blackpine<br>County",
     MapLabel_Brink = "Brink",
     MapLabel_BucksHideaway = "Bucks<br>Hideaway",

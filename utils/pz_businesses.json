@@ -1,0 +1,5260 @@
+[
+    {
+        "title": "24-Hour Essentials",
+        "type": "Gas station",
+        "coordinates": [
+            "10138x12784"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/24-Hour_Essentials"
+    },
+    {
+        "title": "5 Bux or Less",
+        "type": "Discount store",
+        "coordinates": [
+            "12476x2083",
+            "13315x1295"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/5_Bux_or_Less"
+    },
+    {
+        "title": "A&S Trading Co.",
+        "type": "Office",
+        "coordinates": [
+            "12487x1728"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/A%26S_Trading_Co."
+    },
+    {
+        "title": "A-1 Hay",
+        "type": "Rural farmstead",
+        "coordinates": [
+            "2895x14428"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/A-1_Hay"
+    },
+    {
+        "title": "A-1 Laundry",
+        "type": "Laundromat",
+        "coordinates": [
+            "13173x1616",
+            "13945x2247"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/A-1_Laundry"
+    },
+    {
+        "title": "A.A.Ron Hunting Supply",
+        "type": "N/A",
+        "coordinates": [
+            "13951x3229"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/A.A.Ron_Hunting_Supply"
+    },
+    {
+        "title": "Abandoned orphanage",
+        "type": "Abandoned structure",
+        "coordinates": [
+            "2912x9104"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Abandoned_orphanage"
+    },
+    {
+        "title": "ABCDriving School",
+        "type": "Educational institution",
+        "coordinates": [
+            "12660x2206",
+            "13310x1317",
+            "10073x12784"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/ABCDriving_School"
+    },
+    {
+        "title": "Acorn Plaza",
+        "type": "N/A",
+        "coordinates": [
+            "10630x9919"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Acorn_Plaza"
+    },
+    {
+        "title": "Adult Education Center",
+        "type": "Education",
+        "coordinates": [
+            "10644x9906"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Adult_Education_Center"
+    },
+    {
+        "title": "Aitor Wire Company",
+        "type": "N/A",
+        "coordinates": [
+            "12180x1454"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Aitor_Wire_Company"
+    },
+    {
+        "title": "Al's Ales and All",
+        "type": "N/A",
+        "coordinates": [
+            "13951x3126"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Al%27s_Ales_and_All"
+    },
+    {
+        "title": "Al's Auto Shop",
+        "type": "Auto repair shop",
+        "coordinates": [
+            "12267x1566",
+            "5436x5950"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Al%27s_Auto_Shop"
+    },
+    {
+        "title": "Alliance Data Entry",
+        "type": "N/A",
+        "coordinates": [
+            "12659x2224"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Alliance_Data_Entry"
+    },
+    {
+        "title": "American Eats",
+        "type": "Restaurant",
+        "coordinates": [
+            "12775x1214"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/American_Eats"
+    },
+    {
+        "title": "American Tire",
+        "type": "Auto parts store/auto shop",
+        "coordinates": [
+            "13100x1761",
+            "13278x2964",
+            "12258x6931",
+            "1937x6407"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/American_Tire"
+    },
+    {
+        "title": "AmeriGlobe Communications",
+        "type": "N/A",
+        "coordinates": [
+            "12306x3534"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/AmeriGlobe_Communications"
+    },
+    {
+        "title": "AMZ Steel",
+        "type": "Abandoned structure",
+        "coordinates": [
+            "1924x10834"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/AMZ_Steel"
+    },
+    {
+        "title": "Andrei & Son Hand-Crafted Wallets",
+        "type": "N/A",
+        "coordinates": [
+            "12220x1578"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Andrei_%26_Son_Hand-Crafted_Wallets"
+    },
+    {
+        "title": "Appliance store (Muldraugh)",
+        "type": "Appliance store",
+        "coordinates": [
+            "10616x9883"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Appliance_store_(Muldraugh)"
+    },
+    {
+        "title": "Army barracks",
+        "type": "N/A",
+        "coordinates": [
+            "7444x7958",
+            "8131x10241",
+            "6797x9928",
+            "9326x8615",
+            "3248x13474",
+            "9121x11809"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Army_barracks"
+    },
+    {
+        "title": "Army surplus store",
+        "type": "N/A",
+        "coordinates": [],
+        "wiki_url": "https://pzwiki.net/wiki/Army_surplus_store"
+    },
+    {
+        "title": "Art Gallery of Louisville",
+        "type": "Art gallery",
+        "coordinates": [
+            "12565x1388"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Art_Gallery_of_Louisville"
+    },
+    {
+        "title": "Assembly hall (Fallas Lake)",
+        "type": "Social center",
+        "coordinates": [
+            "7413x8387"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Assembly_hall_(Fallas_Lake)"
+    },
+    {
+        "title": "Auto shop",
+        "type": "N/A",
+        "coordinates": [],
+        "wiki_url": "https://pzwiki.net/wiki/Auto_shop"
+    },
+    {
+        "title": "Auto shop (Muldraugh)",
+        "type": "Auto shop",
+        "coordinates": [
+            "10606x9406"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Auto_shop_(Muldraugh)"
+    },
+    {
+        "title": "Auto shop (Rosewood)",
+        "type": "Auto shop",
+        "coordinates": [
+            "8156x11329"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Auto_shop_(Rosewood)"
+    },
+    {
+        "title": "Awl Work and Sew Play",
+        "type": "Tailoring supply store",
+        "coordinates": [
+            "12486x1693",
+            "13332x3069",
+            "13905x5855",
+            "13524x1331",
+            "13173x1557",
+            "1952x6373"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Awl_Work_and_Sew_Play"
+    },
+    {
+        "title": "Back To The Nurture Chiropractic Services",
+        "type": "Chiropractic office/medical clinic",
+        "coordinates": [
+            "12411x2834",
+            "6190x5355"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Back_To_The_Nurture_Chiropractic_Services"
+    },
+    {
+        "title": "Bail Bonds",
+        "type": "Bond office",
+        "coordinates": [
+            "12376x1621",
+            "10629x10138",
+            "7992x11449"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Bail_Bonds"
+    },
+    {
+        "title": "Bait & Tackle",
+        "type": "N/A",
+        "coordinates": [
+            "3628x5720"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Bait_%26_Tackle"
+    },
+    {
+        "title": "Bait Shop",
+        "type": "Fishing store",
+        "coordinates": [
+            "8714x14159"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Bait_Shop"
+    },
+    {
+        "title": "Baker & Frye Tax",
+        "type": "Office",
+        "coordinates": [
+            "1770x14821"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Baker_%26_Frye_Tax"
+    },
+    {
+        "title": "Bakery",
+        "type": "Bakery",
+        "coordinates": [
+            "13575x2132",
+            "12486x1666"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Bakery"
+    },
+    {
+        "title": "Bakery (West Point)",
+        "type": "Bakery",
+        "coordinates": [
+            "11907x6866"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Bakery_(West_Point)"
+    },
+    {
+        "title": "Bank",
+        "type": "Historic building",
+        "coordinates": [
+            "3518x8187"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Bank"
+    },
+    {
+        "title": "Bar (March Ridge)",
+        "type": "Bar",
+        "coordinates": [
+            "10172x12674"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Bar_(March_Ridge)"
+    },
+    {
+        "title": "Bar (Riverside)",
+        "type": "Bar",
+        "coordinates": [
+            "5964x5416"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Bar_(Riverside)"
+    },
+    {
+        "title": "Barber of Yorke",
+        "type": "N/A",
+        "coordinates": [
+            "12374x1642"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Barber_of_Yorke"
+    },
+    {
+        "title": "Barber+Styling",
+        "type": "N/A",
+        "coordinates": [
+            "13947x3148"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Barber%2BStyling"
+    },
+    {
+        "title": "Barg-N-Clothes",
+        "type": "Clothing store",
+        "coordinates": [
+            "11599x8259",
+            "13332x3069",
+            "12407x1558",
+            "13610x1351",
+            "1951x6383"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Barg-N-Clothes"
+    },
+    {
+        "title": "Barrel o' Gun",
+        "type": "Gun store",
+        "coordinates": [
+            "435x9870"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Barrel_o%27_Gun"
+    },
+    {
+        "title": "Bateman Office Building",
+        "type": "Office building",
+        "coordinates": [
+            "12768x1524"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Bateman_Office_Building"
+    },
+    {
+        "title": "BBBQ",
+        "type": "N/A",
+        "coordinates": [
+            "12907x1393",
+            "13576x1360"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/BBBQ"
+    },
+    {
+        "title": "Be Beauty",
+        "type": "N/A",
+        "coordinates": [
+            "12577x1931"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Be_Beauty"
+    },
+    {
+        "title": "Beef Chunk Jerky Co.",
+        "type": "Factory",
+        "coordinates": [
+            "3066x14475"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Beef_Chunk_Jerky_Co."
+    },
+    {
+        "title": "Beef Roundup",
+        "type": "N/A",
+        "coordinates": [
+            "3650x5716"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Beef_Roundup"
+    },
+    {
+        "title": "Beer & Liquor",
+        "type": "Liquor store",
+        "coordinates": [
+            "12226x1348",
+            "13251x2982",
+            "13576x2144",
+            "512x9864"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Beer_%26_Liquor"
+    },
+    {
+        "title": "Beer + Liquor",
+        "type": "Liquor store",
+        "coordinates": [
+            "13955x3204",
+            "12713x5061"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Beer_%2B_Liquor"
+    },
+    {
+        "title": "Beever's",
+        "type": "Bar",
+        "coordinates": [
+            "12376x1426"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Beever%27s"
+    },
+    {
+        "title": "Ben's Cabin",
+        "type": "N/A",
+        "coordinates": [
+            "10181x6764"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Ben%27s_Cabin"
+    },
+    {
+        "title": "Bernard's Book Emporium",
+        "type": "Book store",
+        "coordinates": [
+            "12551x1930"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Bernard%27s_Book_Emporium"
+    },
+    {
+        "title": "Better Bed Than Dead",
+        "type": "N/A",
+        "coordinates": [
+            "13525x1350"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Better_Bed_Than_Dead"
+    },
+    {
+        "title": "Better Furnishings",
+        "type": "Furniture store",
+        "coordinates": [
+            "12662x2163",
+            "13553x1521"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Better_Furnishings"
+    },
+    {
+        "title": "Bible Spirit Baptist Church",
+        "type": "N/A",
+        "coordinates": [
+            "12421x3054"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Bible_Spirit_Baptist_Church"
+    },
+    {
+        "title": "Black Liquorice",
+        "type": "N/A",
+        "coordinates": [
+            "13611x1617"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Black_Liquorice"
+    },
+    {
+        "title": "Blair's Potted Paradise",
+        "type": "Farming supply store",
+        "coordinates": [
+            "3472x11511"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Blair%27s_Potted_Paradise"
+    },
+    {
+        "title": "Blinov's",
+        "type": "Fishing store",
+        "coordinates": [
+            "2419x6428"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Blinov%27s"
+    },
+    {
+        "title": "Bloomin' Coffee",
+        "type": "Coffee shop",
+        "coordinates": [
+            "12439x1486"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Bloomin%27_Coffee"
+    },
+    {
+        "title": "Blue & White Bar",
+        "type": "Bar",
+        "coordinates": [
+            "447x9843"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Blue_%26_White_Bar"
+    },
+    {
+        "title": "Blue Plate Diner",
+        "type": "N/A",
+        "coordinates": [
+            "13234x3486"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Blue_Plate_Diner"
+    },
+    {
+        "title": "Bluegrass State High School",
+        "type": "N/A",
+        "coordinates": [
+            "13043x1711"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Bluegrass_State_High_School"
+    },
+    {
+        "title": "Body Chisel Gym & Fitness",
+        "type": "N/A",
+        "coordinates": [
+            "12628x1151"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Body_Chisel_Gym_%26_Fitness"
+    },
+    {
+        "title": "Book Naked",
+        "type": "Book store",
+        "coordinates": [
+            "8087x11514",
+            "12376x1508",
+            "13380x3053",
+            "13524x1396",
+            "13926x5829",
+            "13925x5872",
+            "2126x5794"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Book_Naked"
+    },
+    {
+        "title": "Book store (Muldraugh)",
+        "type": "Book store",
+        "coordinates": [
+            "10611x10366"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Book_store_(Muldraugh)"
+    },
+    {
+        "title": "Bookman's Holiday",
+        "type": "Book store",
+        "coordinates": [
+            "453x9800"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Bookman%27s_Holiday"
+    },
+    {
+        "title": "Bow Wow Wow! Dog Nutrition",
+        "type": "N/A",
+        "coordinates": [
+            "12569x3521"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Bow_Wow_Wow!_Dog_Nutrition"
+    },
+    {
+        "title": "BoxPop Brewery",
+        "type": "N/A",
+        "coordinates": [
+            "13172x1589"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/BoxPop_Brewery"
+    },
+    {
+        "title": "Brac Brick Factory",
+        "type": "N/A",
+        "coordinates": [
+            "12120x1272"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Brac_Brick_Factory"
+    },
+    {
+        "title": "Brandenburg Airfield",
+        "type": "Transportation infrastructure",
+        "coordinates": [
+            "910x6075"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Brandenburg_Airfield"
+    },
+    {
+        "title": "Brandenburg Community Center",
+        "type": "Community Center",
+        "coordinates": [
+            "1869x5961"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Brandenburg_Community_Center"
+    },
+    {
+        "title": "Brandenburg Detention Center",
+        "type": "Prison",
+        "coordinates": [
+            "1424x5879"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Brandenburg_Detention_Center"
+    },
+    {
+        "title": "Brandenburg Fire",
+        "type": "Fire department",
+        "coordinates": [
+            "2067x6280"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Brandenburg_Fire"
+    },
+    {
+        "title": "Brandenburg Judicial Court",
+        "type": "Government building",
+        "coordinates": [
+            "1460x5838"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Brandenburg_Judicial_Court"
+    },
+    {
+        "title": "Brandenburg Walk-in Medical Clinic",
+        "type": "Medical clinic",
+        "coordinates": [
+            "1730x5756"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Brandenburg_Walk-in_Medical_Clinic"
+    },
+    {
+        "title": "Brenford's Quill Manor",
+        "type": "Historical structure",
+        "coordinates": [
+            "1254x7380"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Brenford%27s_Quill_Manor"
+    },
+    {
+        "title": "Brennan Movie Channel",
+        "type": "N/A",
+        "coordinates": [],
+        "wiki_url": "https://pzwiki.net/wiki/Brennan_Movie_Channel"
+    },
+    {
+        "title": "Bright Flag Inn",
+        "type": "Bar/inn",
+        "coordinates": [
+            "8020x11435"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Bright_Flag_Inn"
+    },
+    {
+        "title": "Brighted Whites",
+        "type": "laundromat",
+        "coordinates": [
+            "13954x3216"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Brighted_Whites"
+    },
+    {
+        "title": "Brooks Public Library of Louisville",
+        "type": "N/A",
+        "coordinates": [
+            "12567x1478"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Brooks_Public_Library_of_Louisville"
+    },
+    {
+        "title": "Brott Cattle Farm",
+        "type": "Rural farmstaed",
+        "coordinates": [
+            "3837x14432"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Brott_Cattle_Farm"
+    },
+    {
+        "title": "Bruno's Used Cars",
+        "type": "Car dealership",
+        "coordinates": [
+            "2046x6502"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Bruno%27s_Used_Cars"
+    },
+    {
+        "title": "Buffet",
+        "type": "Restaurant",
+        "coordinates": [
+            "10629x9441",
+            "12369x1718"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Buffet"
+    },
+    {
+        "title": "Burgers",
+        "type": "Fast food",
+        "coordinates": [
+            "7234x8203",
+            "10608x9475",
+            "5961x5260",
+            "12078x7076",
+            "12545x5267",
+            "13965x4866",
+            "12486x1714",
+            "12376x1549",
+            "12497x4070",
+            "13202x1284",
+            "13730x1897",
+            "3519x10954",
+            "1057x12993",
+            "1210x13012"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Burgers"
+    },
+    {
+        "title": "Bus station (Rosewood)",
+        "type": "Bus station",
+        "coordinates": [
+            "8242x12231"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Bus_station_(Rosewood)"
+    },
+    {
+        "title": "Bus station (Valley Station)",
+        "type": "Bus station",
+        "coordinates": [
+            "12733x5772"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Bus_station_(Valley_Station)"
+    },
+    {
+        "title": "Businesses",
+        "type": "N/A",
+        "coordinates": [],
+        "wiki_url": "https://pzwiki.net/wiki/Businesses"
+    },
+    {
+        "title": "C.G.E. Corp",
+        "type": "Industrial",
+        "coordinates": [
+            "3850x6211"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/C.G.E._Corp"
+    },
+    {
+        "title": "Cafe (Muldraugh)",
+        "type": "Cafe/restaurant",
+        "coordinates": [
+            "10649x9928"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Cafe_(Muldraugh)"
+    },
+    {
+        "title": "Cafe (Valley Station)",
+        "type": "Cafe",
+        "coordinates": [
+            "13088x5449"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Cafe_(Valley_Station)"
+    },
+    {
+        "title": "Cafe d'Eris",
+        "type": "N/A",
+        "coordinates": [
+            "13527x2146"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Cafe_d%27Eris"
+    },
+    {
+        "title": "Cafe of Wonders",
+        "type": "Cafe",
+        "coordinates": [
+            "13173x1678"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Cafe_of_Wonders"
+    },
+    {
+        "title": "Cafe Ole",
+        "type": "Cafe",
+        "coordinates": [
+            "12706x1333"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Cafe_Ole"
+    },
+    {
+        "title": "Cally's Gifts",
+        "type": "Gift store",
+        "coordinates": [
+            "13926x5829",
+            "12576x1307",
+            "12662x2216",
+            "13563x1261",
+            "15508x2932"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Cally%27s_Gifts"
+    },
+    {
+        "title": "Camp Arthur",
+        "type": "Campground",
+        "coordinates": [
+            "8313x14604"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Camp_Arthur"
+    },
+    {
+        "title": "Camp Busy Beaver",
+        "type": "N/A",
+        "coordinates": [
+            "5004x7993"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Camp_Busy_Beaver"
+    },
+    {
+        "title": "Camp Fitzgerald",
+        "type": "N/A",
+        "coordinates": [
+            "13766x6692"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Camp_Fitzgerald"
+    },
+    {
+        "title": "Camping store (Doe Valley)",
+        "type": "N/A",
+        "coordinates": [
+            "3800x8549"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Camping_store_(Doe_Valley)"
+    },
+    {
+        "title": "CandyTown, USA",
+        "type": "N/A",
+        "coordinates": [
+            "13947x3148"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/CandyTown,_USA"
+    },
+    {
+        "title": "Canto Records",
+        "type": "N/A",
+        "coordinates": [
+            "13382x2929"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Canto_Records"
+    },
+    {
+        "title": "Car dealership (Irvington)",
+        "type": "Car dealership",
+        "coordinates": [
+            "2364x14527"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Car_dealership_(Irvington)"
+    },
+    {
+        "title": "Car Fix-Ation",
+        "type": "Auto shop",
+        "coordinates": [
+            "12649x2110",
+            "12606x3516",
+            "11897x6807",
+            "2481x14030"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Car_Fix-Ation"
+    },
+    {
+        "title": "Cardinal Plaza",
+        "type": "Business center",
+        "coordinates": [
+            "12834x1316"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Cardinal_Plaza"
+    },
+    {
+        "title": "Carton & Sydney Law Services",
+        "type": "Office",
+        "coordinates": [
+            "12573x1750",
+            "13926x5829"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Carton_%26_Sydney_Law_Services"
+    },
+    {
+        "title": "Cat on a Hot Tin Grill",
+        "type": "Restaurant/bar",
+        "coordinates": [
+            "1937x6587"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Cat_on_a_Hot_Tin_Grill"
+    },
+    {
+        "title": "Cemetery",
+        "type": "Graveyard",
+        "coordinates": [
+            "5710x5334",
+            "12604x3367",
+            "11090x6716",
+            "12401x1470",
+            "1566x5747"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Cemetery"
+    },
+    {
+        "title": "Central Louisville Community Center",
+        "type": "N/A",
+        "coordinates": [
+            "12844x1695"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Central_Louisville_Community_Center"
+    },
+    {
+        "title": "Chapelmount Downs",
+        "type": "Racehorse track",
+        "coordinates": [
+            "12212x2628"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Chapelmount_Downs"
+    },
+    {
+        "title": "Chevalier",
+        "type": "N/A",
+        "coordinates": [],
+        "wiki_url": "https://pzwiki.net/wiki/Chevalier"
+    },
+    {
+        "title": "Chief Steakhouse & Bar",
+        "type": "Restaurant/bar",
+        "coordinates": [
+            "12728x1156"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Chief_Steakhouse_%26_Bar"
+    },
+    {
+        "title": "Chugg's",
+        "type": "N/A",
+        "coordinates": [
+            "13328x1242"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Chugg%27s"
+    },
+    {
+        "title": "Church",
+        "type": "N/A",
+        "coordinates": [],
+        "wiki_url": "https://pzwiki.net/wiki/Church"
+    },
+    {
+        "title": "Church of the Holy Redeemer",
+        "type": "Church",
+        "coordinates": [
+            "2083x6022"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Church_of_the_Holy_Redeemer"
+    },
+    {
+        "title": "Church of the Risen Christ",
+        "type": "N/A",
+        "coordinates": [
+            "12401x1470"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Church_of_the_Risen_Christ"
+    },
+    {
+        "title": "Churns-R-Us",
+        "type": "Ice cream parlor",
+        "coordinates": [
+            "6470x5224",
+            "13955x5807",
+            "13332x3069",
+            "13329x2492",
+            "12643x1155",
+            "13656x5781",
+            "13361x3057",
+            "1864x14775"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Churns-R-Us"
+    },
+    {
+        "title": "Circuital Healing Computer Repair",
+        "type": "Computer/electronics repair shop",
+        "coordinates": [
+            "440x9800"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Circuital_Healing_Computer_Repair"
+    },
+    {
+        "title": "Citr-8 Wave",
+        "type": "Bottling and shipping facility",
+        "coordinates": [
+            "15376x3255"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Citr-8_Wave"
+    },
+    {
+        "title": "City Hall",
+        "type": "N/A",
+        "coordinates": [
+            "12567x1528"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/City_Hall"
+    },
+    {
+        "title": "Clark Storage",
+        "type": "Self storage",
+        "coordinates": [
+            "10708x10121"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Clark_Storage"
+    },
+    {
+        "title": "Clothing store (Doe Valley)",
+        "type": "Clothing store",
+        "coordinates": [
+            "5501x9566"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Clothing_store_(Doe_Valley)"
+    },
+    {
+        "title": "Clothing store (Muldraugh)",
+        "type": "Clothing store",
+        "coordinates": [
+            "10611x10375"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Clothing_store_(Muldraugh)"
+    },
+    {
+        "title": "Clothing store (Riverside)",
+        "type": "Clothing store",
+        "coordinates": [
+            "6358x5298"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Clothing_store_(Riverside)"
+    },
+    {
+        "title": "Clothing stores (West Point)",
+        "type": "Clothing store",
+        "coordinates": [
+            "11881x6910",
+            "11680x7037",
+            "11858x6867"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Clothing_stores_(West_Point)"
+    },
+    {
+        "title": "Club Pamplemousse de la Croix",
+        "type": "Restaurant",
+        "coordinates": [
+            "13173x1777"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Club_Pamplemousse_de_la_Croix"
+    },
+    {
+        "title": "Coalfield Inn",
+        "type": "Historic building",
+        "coordinates": [
+            "3484x8203"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Coalfield_Inn"
+    },
+    {
+        "title": "Coalfield Public House",
+        "type": "Historic building",
+        "coordinates": [
+            "3525x8187"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Coalfield_Public_House"
+    },
+    {
+        "title": "Coffee Nirvana",
+        "type": "Coffee shop",
+        "coordinates": [
+            "12628x2354"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Coffee_Nirvana"
+    },
+    {
+        "title": "Coin Op Laundromat",
+        "type": "Laundromat",
+        "coordinates": [
+            "12375x1526",
+            "12373x1582",
+            "13337x2938",
+            "10917x9844",
+            "10608x9469",
+            "11931x6786",
+            "5470x9678",
+            "5950x5390",
+            "11682x8822",
+            "3611x10954"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Coin_Op_Laundromat"
+    },
+    {
+        "title": "Commander Publishing Inc",
+        "type": "N/A",
+        "coordinates": [
+            "12585x3500"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Commander_Publishing_Inc"
+    },
+    {
+        "title": "Commune",
+        "type": "Farm",
+        "coordinates": [
+            "3766x12254"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Commune"
+    },
+    {
+        "title": "Construction site",
+        "type": "N/A",
+        "coordinates": [],
+        "wiki_url": "https://pzwiki.net/wiki/Construction_site"
+    },
+    {
+        "title": "Conven-U-Mart",
+        "type": "Convenience store",
+        "coordinates": [
+            "12373x1561",
+            "12280x2525",
+            "10622x9905",
+            "12882x2035"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Conven-U-Mart"
+    },
+    {
+        "title": "Convenience store",
+        "type": "N/A",
+        "coordinates": [],
+        "wiki_url": "https://pzwiki.net/wiki/Convenience_store"
+    },
+    {
+        "title": "Convenience store (West Point)",
+        "type": "Convenience store",
+        "coordinates": [
+            "11670x7037"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Convenience_store_(West_Point)"
+    },
+    {
+        "title": "Corner store (Muldraugh)",
+        "type": "Grocery store",
+        "coordinates": [
+            "10840x10030"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Corner_store_(Muldraugh)"
+    },
+    {
+        "title": "Cortman Medical",
+        "type": "Medical clinic",
+        "coordinates": [
+            "10880x10031"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Cortman_Medical"
+    },
+    {
+        "title": "County Clerk and Records",
+        "type": "N/A",
+        "coordinates": [
+            "12627x1467"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/County_Clerk_and_Records"
+    },
+    {
+        "title": "County Offices",
+        "type": "N/A",
+        "coordinates": [
+            "5432x9682"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/County_Offices"
+    },
+    {
+        "title": "Courthouse",
+        "type": "Government building",
+        "coordinates": [
+            "12476x1538"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Courthouse"
+    },
+    {
+        "title": "Crossroads Mall",
+        "type": "Mall",
+        "coordinates": [
+            "13926x5829"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Crossroads_Mall"
+    },
+    {
+        "title": "Dash",
+        "type": "Vehicle manufacturer",
+        "coordinates": [],
+        "wiki_url": "https://pzwiki.net/wiki/Dash"
+    },
+    {
+        "title": "Daycare (West Point)",
+        "type": "Daycare",
+        "coordinates": [
+            "11739x6923"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Daycare_(West_Point)"
+    },
+    {
+        "title": "Deep Fried Heaven",
+        "type": "N/A",
+        "coordinates": [
+            "13159x2971"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Deep_Fried_Heaven"
+    },
+    {
+        "title": "Deerhead Lake Park Ranger",
+        "type": "N/A",
+        "coordinates": [
+            "4669x8598"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Deerhead_Lake_Park_Ranger"
+    },
+    {
+        "title": "Dentistry",
+        "type": "Dentistry clinic",
+        "coordinates": [
+            "11878x6885"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Dentistry"
+    },
+    {
+        "title": "Di Marco",
+        "type": "N/A",
+        "coordinates": [
+            "12572x1781"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Di_Marco"
+    },
+    {
+        "title": "Dia de los Tacos",
+        "type": "Mexican restaurant",
+        "coordinates": [
+            "1753x14793"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Dia_de_los_Tacos"
+    },
+    {
+        "title": "Diner",
+        "type": "Diner",
+        "coordinates": [
+            "12487x2052",
+            "12909x1409",
+            "13356x2278",
+            "13340x1738",
+            "10619x10561",
+            "1714x5772",
+            "11462x8809",
+            "3698x8462",
+            "3565x10901",
+            "10110x11151",
+            "5418x5913"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Diner"
+    },
+    {
+        "title": "Diner (Valley Station)",
+        "type": "N/A",
+        "coordinates": [
+            "12743x5712"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Diner_(Valley_Station)"
+    },
+    {
+        "title": "Diner in the Woods",
+        "type": "Picnic area/Restaurant",
+        "coordinates": [
+            "12047x7377"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Diner_in_the_Woods"
+    },
+    {
+        "title": "Discount Account",
+        "type": "N/A",
+        "coordinates": [
+            "12625x3669",
+            "12327x1317"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Discount_Account"
+    },
+    {
+        "title": "Dogs A-Flamin'",
+        "type": "N/A",
+        "coordinates": [
+            "13078x1588"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Dogs_A-Flamin%27"
+    },
+    {
+        "title": "Dotty 4 Donuts",
+        "type": "Donut Shop",
+        "coordinates": [
+            "13473x1354",
+            "6491x5226"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Dotty_4_Donuts"
+    },
+    {
+        "title": "Dr. Lewin Family MD",
+        "type": "Medical clinic",
+        "coordinates": [
+            "2394x13952"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Dr._Lewin_Family_MD"
+    },
+    {
+        "title": "Drag Racing",
+        "type": "Race track",
+        "coordinates": [
+            "12837x6402"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Drag_Racing"
+    },
+    {
+        "title": "Dressed to the 90s",
+        "type": "Clothing store",
+        "coordinates": [
+            "13677x5670",
+            "13329x1296",
+            "12575x1325"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Dressed_to_the_90s"
+    },
+    {
+        "title": "Drug lab",
+        "type": "N/A",
+        "coordinates": [
+            "11597x9295"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Drug_lab"
+    },
+    {
+        "title": "Du Case Apartments",
+        "type": "N/A",
+        "coordinates": [
+            "12272x1285"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Du_Case_Apartments"
+    },
+    {
+        "title": "E-Z Go Banking",
+        "type": "Bank",
+        "coordinates": [
+            "415x9870"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/E-Z_Go_Banking"
+    },
+    {
+        "title": "E. Wrayburn Building",
+        "type": "N/A",
+        "coordinates": [
+            "12662x1413"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/E._Wrayburn_Building"
+    },
+    {
+        "title": "E.P. Tools",
+        "type": "Hardware store",
+        "coordinates": [
+            "13513x1316",
+            "13952x3101",
+            "13174x1547",
+            "7255x8231"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/E.P._Tools"
+    },
+    {
+        "title": "Econo Rooms",
+        "type": "Motel",
+        "coordinates": [
+            "12424x2773",
+            "13214x3519",
+            "8076x11418"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Econo_Rooms"
+    },
+    {
+        "title": "Eden's Oasis",
+        "type": "Leisure center",
+        "coordinates": [
+            "12779x1265"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Eden%27s_Oasis"
+    },
+    {
+        "title": "Egener EX",
+        "type": "N/A",
+        "coordinates": [
+            "12196x1258"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Egener_EX"
+    },
+    {
+        "title": "Ekron Community College",
+        "type": "Educational instutution",
+        "coordinates": [
+            "768x9854"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Ekron_Community_College"
+    },
+    {
+        "title": "Ekron Fire Department",
+        "type": "Fire department",
+        "coordinates": [
+            "760x9762"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Ekron_Fire_Department"
+    },
+    {
+        "title": "El Grande Saloon",
+        "type": "Historic builidng",
+        "coordinates": [
+            "3446x8187"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/El_Grande_Saloon"
+    },
+    {
+        "title": "Electron House",
+        "type": "Electronics store",
+        "coordinates": [
+            "13175x1639",
+            "13516x1297"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Electron_House"
+    },
+    {
+        "title": "Elementary school (Rosewood)",
+        "type": "School",
+        "coordinates": [
+            "8342x11610"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Elementary_school_(Rosewood)"
+    },
+    {
+        "title": "Elvee Arena",
+        "type": "Sports arena",
+        "coordinates": [
+            "13045x1386"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Elvee_Arena"
+    },
+    {
+        "title": "Emma's Eatery",
+        "type": "Restaurant",
+        "coordinates": [
+            "12881x2056"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Emma%27s_Eatery"
+    },
+    {
+        "title": "Enigma Books",
+        "type": "Book store",
+        "coordinates": [
+            "6437x5266",
+            "11895x6890"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Enigma_Books"
+    },
+    {
+        "title": "Eternal Light Chapel",
+        "type": "Religious building",
+        "coordinates": [
+            "14542x4973"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Eternal_Light_Chapel"
+    },
+    {
+        "title": "Evan Philips Tax & Accounting",
+        "type": "N/A",
+        "coordinates": [
+            "12559x3625",
+            "13957x3091",
+            "13178x1717"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Evan_Philips_Tax_%26_Accounting"
+    },
+    {
+        "title": "Evergreen Hill Community Center",
+        "type": "N/A",
+        "coordinates": [
+            "13673x2804"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Evergreen_Hill_Community_Center"
+    },
+    {
+        "title": "Evergreen Public School",
+        "type": "N/A",
+        "coordinates": [
+            "13575x2778"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Evergreen_Public_School"
+    },
+    {
+        "title": "Expresso Espress",
+        "type": "Cafe/coffee shop",
+        "coordinates": [
+            "13581x1262",
+            "12904x1221",
+            "13177x1722",
+            "12665x1639"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Expresso_Espress"
+    },
+    {
+        "title": "F. Arable",
+        "type": "Industrial farming facility",
+        "coordinates": [
+            "3835x14628"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/F._Arable"
+    },
+    {
+        "title": "Factory (West Point)",
+        "type": "Factory",
+        "coordinates": [
+            "12141x7085"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Factory_(West_Point)"
+    },
+    {
+        "title": "Family Dentistry",
+        "type": "N/A",
+        "coordinates": [
+            "13605x1566"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Family_Dentistry"
+    },
+    {
+        "title": "Family Fashion",
+        "type": "Clothing store",
+        "coordinates": [
+            "12377x1613",
+            "10613x9440",
+            "13949x3136"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Family_Fashion"
+    },
+    {
+        "title": "Family Funzone",
+        "type": "N/A",
+        "coordinates": [
+            "13126x1672"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Family_Funzone"
+    },
+    {
+        "title": "Family Medical Center",
+        "type": "Medical clinic",
+        "coordinates": [
+            "10159x12753",
+            "430x9800"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Family_Medical_Center"
+    },
+    {
+        "title": "Farmer's Fair",
+        "type": "N/A",
+        "coordinates": [
+            "13708x3636"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Farmer%27s_Fair"
+    },
+    {
+        "title": "Farmer's market (Rosewood)",
+        "type": "Produce market",
+        "coordinates": [
+            "9071x12154"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Farmer%27s_market_(Rosewood)"
+    },
+    {
+        "title": "Farming & Rural Supply",
+        "type": "Farming supply store",
+        "coordinates": [
+            "7252x8321",
+            "2476x14322",
+            "7250x8320"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Farming_%26_Rural_Supply"
+    },
+    {
+        "title": "FashionaBelle",
+        "type": "Clothing store",
+        "coordinates": [
+            "13176x1625",
+            "8089x11490",
+            "13881x5866",
+            "13598x1273",
+            "442x9815"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/FashionaBelle"
+    },
+    {
+        "title": "Filigree Fashions",
+        "type": "Clothing store",
+        "coordinates": [
+            "12573x2016",
+            "10068x12816"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Filigree_Fashions"
+    },
+    {
+        "title": "Finnegan Research Group",
+        "type": "N/A",
+        "coordinates": [
+            "13608x1698"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Finnegan_Research_Group"
+    },
+    {
+        "title": "Fire department",
+        "type": "Community services",
+        "coordinates": [
+            "13944x3046",
+            "12353x1762",
+            "13685x1788",
+            "8137x11737",
+            "2498x14071",
+            "760x9762"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Fire_department"
+    },
+    {
+        "title": "First Baptist Chapel",
+        "type": "Religious building",
+        "coordinates": [
+            "10721x9712"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/First_Baptist_Chapel"
+    },
+    {
+        "title": "First Cross Baptist Church",
+        "type": "Church",
+        "coordinates": [
+            "3551x11207"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/First_Cross_Baptist_Church"
+    },
+    {
+        "title": "First Train Inn",
+        "type": "Motel",
+        "coordinates": [
+            "12628x2354"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/First_Train_Inn"
+    },
+    {
+        "title": "Five Alarm Firehouse Chili",
+        "type": "Restaurant",
+        "coordinates": [
+            "2070x6315"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Five_Alarm_Firehouse_Chili"
+    },
+    {
+        "title": "Food Market",
+        "type": "Grocery store",
+        "coordinates": [
+            "12481x1930",
+            "13558x3025",
+            "10850x9763",
+            "13343x1750",
+            "13779x2537",
+            "5458x9574",
+            "13931x4864",
+            "11662x8793",
+            "11984x6914",
+            "7252x8285",
+            "12572x5730"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Food_Market"
+    },
+    {
+        "title": "Forno Della Mamma",
+        "type": "Restaurant",
+        "coordinates": [
+            "12578x2084"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Forno_Della_Mamma"
+    },
+    {
+        "title": "Fort Knox",
+        "type": "Military base/research facility",
+        "coordinates": [],
+        "wiki_url": "https://pzwiki.net/wiki/Fort_Knox"
+    },
+    {
+        "title": "Fossoil",
+        "type": "Gas station",
+        "coordinates": [
+            "2059x6425",
+            "649x9923",
+            "2525x14484",
+            "12263x1611",
+            "13376x1417",
+            "12910x3028",
+            "12442x3535",
+            "10625x9762",
+            "6078x5305",
+            "8312x12218",
+            "12077x1615",
+            "12078x7142",
+            "12693x6534"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Fossoil"
+    },
+    {
+        "title": "Fossoil Field",
+        "type": "Baseball stadium",
+        "coordinates": [
+            "13008x1586"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Fossoil_Field"
+    },
+    {
+        "title": "Fossoil Refinery",
+        "type": "N/A",
+        "coordinates": [
+            "12077x1615"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Fossoil_Refinery"
+    },
+    {
+        "title": "Franklin",
+        "type": "N/A",
+        "coordinates": [],
+        "wiki_url": "https://pzwiki.net/wiki/Franklin"
+    },
+    {
+        "title": "From the Dugout",
+        "type": "Gift store",
+        "coordinates": [
+            "13038x1639"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/From_the_Dugout"
+    },
+    {
+        "title": "Fryer Tooks Fish N' Chips",
+        "type": "Restaurant",
+        "coordinates": [
+            "12375x1367"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Fryer_Tooks_Fish_N%27_Chips"
+    },
+    {
+        "title": "Fun Xtreme",
+        "type": "N/A",
+        "coordinates": [
+            "12366x1323"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Fun_Xtreme"
+    },
+    {
+        "title": "Fun-2-3 Childcare",
+        "type": "Daycare",
+        "coordinates": [
+            "13577x5670"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Fun-2-3_Childcare"
+    },
+    {
+        "title": "Furniture store (West Point)",
+        "type": "Furniture store",
+        "coordinates": [
+            "11931x6942"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Furniture_store_(West_Point)"
+    },
+    {
+        "title": "Gable-roofed skyscraper",
+        "type": "Mixed-use building",
+        "coordinates": [
+            "12706x1550"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Gable-roofed_skyscraper"
+    },
+    {
+        "title": "Gas",
+        "type": "Gas station",
+        "coordinates": [
+            "3652x5963"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Gas"
+    },
+    {
+        "title": "Gas 2 Go",
+        "type": "Gas station",
+        "coordinates": [
+            "10661x10625",
+            "11603x8309",
+            "13737x5654",
+            "12069x1433",
+            "13373x2951",
+            "13953x3260",
+            "13604x1519",
+            "13130x1314",
+            "12705x2222",
+            "3574x10904",
+            "2324x14479"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Gas_2_Go"
+    },
+    {
+        "title": "Gas Corner",
+        "type": "Gas station/Auto shop",
+        "coordinates": [
+            "1663x5760"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Gas_Corner"
+    },
+    {
+        "title": "Gas N More",
+        "type": "Gas station",
+        "coordinates": [
+            "3695x8497",
+            "5421x5873"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Gas_N_More"
+    },
+    {
+        "title": "Gas station",
+        "type": "N/A",
+        "coordinates": [],
+        "wiki_url": "https://pzwiki.net/wiki/Gas_station"
+    },
+    {
+        "title": "Gated community",
+        "type": "N/A",
+        "coordinates": [
+            "8024x11531",
+            "14123x2807",
+            "6724x5406",
+            "10855x10109"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Gated_community"
+    },
+    {
+        "title": "GBC",
+        "type": "N/A",
+        "coordinates": [],
+        "wiki_url": "https://pzwiki.net/wiki/GBC"
+    },
+    {
+        "title": "General store",
+        "type": "N/A",
+        "coordinates": [],
+        "wiki_url": "https://pzwiki.net/wiki/General_store"
+    },
+    {
+        "title": "General store (Fallas Lake)",
+        "type": "General store",
+        "coordinates": [
+            "7293x8254"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/General_store_(Fallas_Lake)"
+    },
+    {
+        "title": "General store (Muldraugh)",
+        "type": "General store",
+        "coordinates": [
+            "10837x9536"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/General_store_(Muldraugh)"
+    },
+    {
+        "title": "General Store (Riverside outskirts)",
+        "type": "N/A",
+        "coordinates": [
+            "3676x5742"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/General_Store_(Riverside_outskirts)"
+    },
+    {
+        "title": "General store (Riverside)",
+        "type": "General store",
+        "coordinates": [
+            "5970x5356"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/General_store_(Riverside)"
+    },
+    {
+        "title": "General store (West Point)",
+        "type": "General store",
+        "coordinates": [
+            "11831x6913"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/General_store_(West_Point)"
+    },
+    {
+        "title": "Genny's Diner",
+        "type": "Diner",
+        "coordinates": [
+            "12710x1211"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Genny%27s_Diner"
+    },
+    {
+        "title": "Genteel-y Used",
+        "type": "Second-hand store",
+        "coordinates": [
+            "10631x9905"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Genteel-y_Used"
+    },
+    {
+        "title": "GigaMart",
+        "type": "Supermarket",
+        "coordinates": [
+            "6515x5350",
+            "12029x6858",
+            "12570x2547",
+            "13570x1406",
+            "12652x1667",
+            "13449x3050",
+            "1869x6362",
+            "1847x14778"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/GigaMart"
+    },
+    {
+        "title": "Go 2 Bread",
+        "type": "Bakery",
+        "coordinates": [
+            "10073x12802"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Go_2_Bread"
+    },
+    {
+        "title": "Go Flash",
+        "type": "Photography store",
+        "coordinates": [
+            "12409x2824",
+            "13363x1318",
+            "6191x5346",
+            "1894x6397"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Go_Flash"
+    },
+    {
+        "title": "Golden Dragon Buffet",
+        "type": "Restaurant",
+        "coordinates": [
+            "12573x1885"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Golden_Dragon_Buffet"
+    },
+    {
+        "title": "Golden Sunset Nursing Home",
+        "type": "Nursing Home",
+        "coordinates": [
+            "2206x5788"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Golden_Sunset_Nursing_Home"
+    },
+    {
+        "title": "Goodman Legal Services",
+        "type": "Law firm",
+        "coordinates": [
+            "13183x1612",
+            "12664x2188"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Goodman_Legal_Services"
+    },
+    {
+        "title": "Greene's",
+        "type": "Grocery store",
+        "coordinates": [
+            "425x9870",
+            "2468x14477",
+            "13185x1605",
+            "13512x2152",
+            "13361x1302",
+            "13142x2134",
+            "12587x2054",
+            "13340x2962",
+            "10609x10266"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Greene%27s"
+    },
+    {
+        "title": "Greengrocer Dry Goods",
+        "type": "Historic building",
+        "coordinates": [
+            "3435x8187"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Greengrocer_Dry_Goods"
+    },
+    {
+        "title": "Greenwood Office Building",
+        "type": "N/A",
+        "coordinates": [
+            "12527x1482"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Greenwood_Office_Building"
+    },
+    {
+        "title": "Grocery store",
+        "type": "N/A",
+        "coordinates": [],
+        "wiki_url": "https://pzwiki.net/wiki/Grocery_store"
+    },
+    {
+        "title": "Grocery store (Riverside western outskirts)",
+        "type": "Grocery store",
+        "coordinates": [
+            "5970x5390"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Grocery_store_(Riverside_western_outskirts)"
+    },
+    {
+        "title": "Grocery store (Rosewood)",
+        "type": "Grocery store",
+        "coordinates": [
+            "8135x11478"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Grocery_store_(Rosewood)"
+    },
+    {
+        "title": "Grocery store (Valley Station)",
+        "type": "Grocery store",
+        "coordinates": [
+            "12627x5326"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Grocery_store_(Valley_Station)"
+    },
+    {
+        "title": "Grocery store (West Point)",
+        "type": "Grocery store",
+        "coordinates": [
+            "11354x6723"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Grocery_store_(West_Point)"
+    },
+    {
+        "title": "Groovy Chic",
+        "type": "Hair salon",
+        "coordinates": [
+            "13883x5816"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Groovy_Chic"
+    },
+    {
+        "title": "Grow Haven",
+        "type": "Farming supply store",
+        "coordinates": [
+            "1926x6355"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Grow_Haven"
+    },
+    {
+        "title": "Gun store",
+        "type": "N/A",
+        "coordinates": [],
+        "wiki_url": "https://pzwiki.net/wiki/Gun_store"
+    },
+    {
+        "title": "Gun store (Doe Valley)",
+        "type": "N/A",
+        "coordinates": [
+            "3806x8513"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Gun_store_(Doe_Valley)"
+    },
+    {
+        "title": "Gun store (Louisville strip mall)",
+        "type": "N/A",
+        "coordinates": [
+            "13589x1533"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Gun_store_(Louisville_strip_mall)"
+    },
+    {
+        "title": "Gun store (Louisville)",
+        "type": "Gun store",
+        "coordinates": [
+            "12356x1719"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Gun_store_(Louisville)"
+    },
+    {
+        "title": "Guns Unlimited",
+        "type": "Gun store/Army surplus/Training facility",
+        "coordinates": [
+            "2581x10891"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Guns_Unlimited"
+    },
+    {
+        "title": "Guns-a-BlazInn",
+        "type": "Motel",
+        "coordinates": [
+            "13003x5322"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Guns-a-BlazInn"
+    },
+    {
+        "title": "Gusto D'Italia",
+        "type": "N/A",
+        "coordinates": [
+            "13508x3025",
+            "2095x5787"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Gusto_D%27Italia"
+    },
+    {
+        "title": "H. Smith Attorney",
+        "type": "Law firm",
+        "coordinates": [
+            "10629x10138"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/H._Smith_Attorney"
+    },
+    {
+        "title": "Hair O Genesis",
+        "type": "Hair salon/barber shop",
+        "coordinates": [
+            "6411x5266",
+            "12824x1213",
+            "13538x1273",
+            "13324x2971",
+            "13253x1288",
+            "11859x6886"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Hair_O_Genesis"
+    },
+    {
+        "title": "Hair salon (March Ridge)",
+        "type": "Hair salon",
+        "coordinates": [
+            "10183x12817"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Hair_salon_(March_Ridge)"
+    },
+    {
+        "title": "Hair salon (Muldraugh)",
+        "type": "Hair salon",
+        "coordinates": [
+            "10649x9928"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Hair_salon_(Muldraugh)"
+    },
+    {
+        "title": "Haircuts n' More",
+        "type": "Barber shop/hair salon",
+        "coordinates": [
+            "12298x1332",
+            "13177x1663",
+            "8090x11552",
+            "2536x14469"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Haircuts_n%27_More"
+    },
+    {
+        "title": "Happy Restaurant",
+        "type": "N/A",
+        "coordinates": [
+            "13960x3207"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Happy_Restaurant"
+    },
+    {
+        "title": "Hardware store",
+        "type": "N/A",
+        "coordinates": [],
+        "wiki_url": "https://pzwiki.net/wiki/Hardware_store"
+    },
+    {
+        "title": "Have a Butcher's",
+        "type": "N/A",
+        "coordinates": [
+            "13174x1736",
+            "12491x1446",
+            "13570x1406"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Have_a_Butcher%27s"
+    },
+    {
+        "title": "Hickory Bakery Box",
+        "type": "Bakery",
+        "coordinates": [
+            "12925x1487"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Hickory_Bakery_Box"
+    },
+    {
+        "title": "High Street Apartments",
+        "type": "Apartments",
+        "coordinates": [
+            "12844x1472"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/High_Street_Apartments"
+    },
+    {
+        "title": "Hit Vids!",
+        "type": "Video rental store",
+        "coordinates": [
+            "10609x10452",
+            "13428x1291",
+            "12795x1212",
+            "12428x2820",
+            "10164x12733",
+            "6199x5345",
+            "2300x14480"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Hit_Vids!"
+    },
+    {
+        "title": "Hitz FM",
+        "type": "N/A",
+        "coordinates": [],
+        "wiki_url": "https://pzwiki.net/wiki/Hitz_FM"
+    },
+    {
+        "title": "Hobbs & Perkins Hardware",
+        "type": "Hardware store",
+        "coordinates": [
+            "2160x14545"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Hobbs_%26_Perkins_Hardware"
+    },
+    {
+        "title": "Holy Grace Church",
+        "type": "N/A",
+        "coordinates": [
+            "10778x10172"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Holy_Grace_Church"
+    },
+    {
+        "title": "Holy Haven Cemetary",
+        "type": "N/A",
+        "coordinates": [
+            "12604x3367"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Holy_Haven_Cemetary"
+    },
+    {
+        "title": "Holy Light Baptist Church",
+        "type": "N/A",
+        "coordinates": [
+            "12400x1935"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Holy_Light_Baptist_Church"
+    },
+    {
+        "title": "Home Sweet Gnome",
+        "type": "Factory",
+        "coordinates": [
+            "635x9840"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Home_Sweet_Gnome"
+    },
+    {
+        "title": "Homeward Real Estate",
+        "type": "N/A",
+        "coordinates": [
+            "13955x3168",
+            "13177x1669"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Homeward_Real_Estate"
+    },
+    {
+        "title": "Horseshoe Taphouse",
+        "type": "Historic building",
+        "coordinates": [
+            "3479x8190"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Horseshoe_Taphouse"
+    },
+    {
+        "title": "Hugo Plush",
+        "type": "Clothing store",
+        "coordinates": [
+            "6251x5272",
+            "12577x1818",
+            "12781x1338",
+            "13393x3053",
+            "13525x1365",
+            "13881x5799",
+            "2089x5794"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Hugo_Plush"
+    },
+    {
+        "title": "I ❤️ Wok & Rolls",
+        "type": "Restaurant",
+        "coordinates": [
+            "13878x5760",
+            "13663x1270",
+            "12484x2069",
+            "12376x1535",
+            "13340x3056",
+            "1903x6332"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/I_%E2%9D%A4%EF%B8%8F_Wok_%26_Rolls"
+    },
+    {
+        "title": "Ice cream parlor (Doe Valley)",
+        "type": "Ice Cream Parlor",
+        "coordinates": [
+            "7134x8977"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Ice_cream_parlor_(Doe_Valley)"
+    },
+    {
+        "title": "Ice Ice Tasty",
+        "type": "N/A",
+        "coordinates": [
+            "13236x1287"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Ice_Ice_Tasty"
+    },
+    {
+        "title": "Inkr Alley",
+        "type": "N/A",
+        "coordinates": [
+            "13246x1287"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Inkr_Alley"
+    },
+    {
+        "title": "Iron West Hardware",
+        "type": "Historic building",
+        "coordinates": [
+            "3454x8178"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Iron_West_Hardware"
+    },
+    {
+        "title": "Iroquois Park",
+        "type": "N/A",
+        "coordinates": [
+            "13237x2681"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Iroquois_Park"
+    },
+    {
+        "title": "Irvington Elementary",
+        "type": "School",
+        "coordinates": [
+            "2033x12919"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Irvington_Elementary"
+    },
+    {
+        "title": "Irvington Fire Department",
+        "type": "Fire station",
+        "coordinates": [
+            "2498x14071"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Irvington_Fire_Department"
+    },
+    {
+        "title": "Irvington First Chapel",
+        "type": "Religious building",
+        "coordinates": [
+            "2724x13826"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Irvington_First_Chapel"
+    },
+    {
+        "title": "Irvington Gun Club",
+        "type": "Gun store",
+        "coordinates": [
+            "1854x14152"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Irvington_Gun_Club"
+    },
+    {
+        "title": "Irvington Public Pool",
+        "type": "Recreation/social center",
+        "coordinates": [
+            "1885x14472"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Irvington_Public_Pool"
+    },
+    {
+        "title": "Irvington Speedway",
+        "type": "Race track",
+        "coordinates": [
+            "916x13045"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Irvington_Speedway"
+    },
+    {
+        "title": "Irvington Town Hall",
+        "type": "Government building",
+        "coordinates": [
+            "2474x14098"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Irvington_Town_Hall"
+    },
+    {
+        "title": "Ivanov Factory & Showroom",
+        "type": "N/A",
+        "coordinates": [
+            "12609x3626"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Ivanov_Factory_%26_Showroom"
+    },
+    {
+        "title": "J. Tinsley Elementary School",
+        "type": "School",
+        "coordinates": [
+            "12847x4867"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/J._Tinsley_Elementary_School"
+    },
+    {
+        "title": "Jaime's Jam Delights",
+        "type": "Bakery",
+        "coordinates": [
+            "12573x2001"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Jaime%27s_Jam_Delights"
+    },
+    {
+        "title": "Jamieton Army Surplus",
+        "type": "N/A",
+        "coordinates": [
+            "5465x9512"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Jamieton_Army_Surplus"
+    },
+    {
+        "title": "Jay's Chicken",
+        "type": "Fast food",
+        "coordinates": [
+            "1941x6459",
+            "12266x1381",
+            "12788x2229",
+            "12740x2231",
+            "13466x2975",
+            "10618x9566",
+            "13628x1277",
+            "15453x2846x1"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Jay%27s_Chicken"
+    },
+    {
+        "title": "Jenny's Table",
+        "type": "Restaurant",
+        "coordinates": [
+            "8078x11454"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Jenny%27s_Table"
+    },
+    {
+        "title": "Jim's Autoshop",
+        "type": "N/A",
+        "coordinates": [
+            "12232x1374"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Jim%27s_Autoshop"
+    },
+    {
+        "title": "Jimmy's",
+        "type": "Cafeteria/Restaurant",
+        "coordinates": [
+            "6445x5265"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Jimmy%27s"
+    },
+    {
+        "title": "Jimmy's Pre-owned Cars",
+        "type": "Car dealership",
+        "coordinates": [
+            "13152x1457"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Jimmy%27s_Pre-owned_Cars"
+    },
+    {
+        "title": "Joey's Cuppa",
+        "type": "Cafe",
+        "coordinates": [
+            "2044x6004"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Joey%27s_Cuppa"
+    },
+    {
+        "title": "Jolly Good Fish + Chips",
+        "type": "Fast food",
+        "coordinates": [
+            "13881x5775",
+            "13636x1271",
+            "1902x6340"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Jolly_Good_Fish_%2B_Chips"
+    },
+    {
+        "title": "Juke Box Bowling",
+        "type": "Bowling alley",
+        "coordinates": [
+            "12439x2077"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Juke_Box_Bowling"
+    },
+    {
+        "title": "Junk Baron",
+        "type": "Wrecking yard",
+        "coordinates": [
+            "12582x5387"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Junk_Baron"
+    },
+    {
+        "title": "Keep Afloat Debt Consolidation",
+        "type": "N/A",
+        "coordinates": [
+            "12882x2068"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Keep_Afloat_Debt_Consolidation"
+    },
+    {
+        "title": "Kegsplosion",
+        "type": "N/A",
+        "coordinates": [
+            "13431x1295"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Kegsplosion"
+    },
+    {
+        "title": "Kentucky Court of Justice",
+        "type": "Courthouse",
+        "coordinates": [
+            "8065x11652"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Kentucky_Court_of_Justice"
+    },
+    {
+        "title": "Kentucky Rail",
+        "type": "Rail office",
+        "coordinates": [
+            "12586x4397"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Kentucky_Rail"
+    },
+    {
+        "title": "Kentucky State Prison",
+        "type": "Correctional facility",
+        "coordinates": [
+            "7718x11881"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Kentucky_State_Prison"
+    },
+    {
+        "title": "Kitten Knives",
+        "type": "N/A",
+        "coordinates": [
+            "12171x1392"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Kitten_Knives"
+    },
+    {
+        "title": "Knob Creek Hunting Lodge",
+        "type": "Social center",
+        "coordinates": [
+            "13094x5306"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Knob_Creek_Hunting_Lodge"
+    },
+    {
+        "title": "Knox Bank",
+        "type": "Bank",
+        "coordinates": [
+            "12569x1699",
+            "13598x3024",
+            "10625x9694",
+            "6506x5302",
+            "8087x11592",
+            "13652x5744",
+            "11904x6913",
+            "13401x1346",
+            "2101x5854",
+            "2426x13974"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Knox_Bank"
+    },
+    {
+        "title": "Knox Distillery",
+        "type": "N/A",
+        "coordinates": [
+            "12910x1370"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Knox_Distillery"
+    },
+    {
+        "title": "Knox Military Apartments",
+        "type": "Apartment building",
+        "coordinates": [
+            "10070x12624"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Knox_Military_Apartments"
+    },
+    {
+        "title": "Knox Pack Kitchens",
+        "type": "N/A",
+        "coordinates": [
+            "12900x1451",
+            "12597x3751"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Knox_Pack_Kitchens"
+    },
+    {
+        "title": "Knox Telecommunications",
+        "type": "Communication sector",
+        "coordinates": [],
+        "wiki_url": "https://pzwiki.net/wiki/Knox_Telecommunications"
+    },
+    {
+        "title": "KnoxTalk Radio",
+        "type": "News media (radio)",
+        "coordinates": [
+            "13562x1583"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/KnoxTalk_Radio"
+    },
+    {
+        "title": "KPATV",
+        "type": "N/A",
+        "coordinates": [],
+        "wiki_url": "https://pzwiki.net/wiki/KPATV"
+    },
+    {
+        "title": "KPK Consulting Business Investments",
+        "type": "N/A",
+        "coordinates": [
+            "12625x3488"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/KPK_Consulting_Business_Investments"
+    },
+    {
+        "title": "KY Transit",
+        "type": "N/A",
+        "coordinates": [
+            "12567x2412"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/KY_Transit"
+    },
+    {
+        "title": "KY Wastewater Treatment Plant",
+        "type": "Utility infrastructure",
+        "coordinates": [
+            "8044x15292"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/KY_Wastewater_Treatment_Plant"
+    },
+    {
+        "title": "L&B Warehousing",
+        "type": "Warehouse",
+        "coordinates": [
+            "10712x10443",
+            "12792x2180"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/L%26B_Warehousing"
+    },
+    {
+        "title": "La Vie En Gastronomie",
+        "type": "Grocery store/restaurant",
+        "coordinates": [
+            "12578x1292"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/La_Vie_En_Gastronomie"
+    },
+    {
+        "title": "Laces",
+        "type": "Shoe store",
+        "coordinates": [
+            "12539x1330"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Laces"
+    },
+    {
+        "title": "Laundr-o-max",
+        "type": "Laundromat",
+        "coordinates": [
+            "7260x8499",
+            "12872x2084"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Laundr-o-max"
+    },
+    {
+        "title": "Laundromat",
+        "type": "N/A",
+        "coordinates": [],
+        "wiki_url": "https://pzwiki.net/wiki/Laundromat"
+    },
+    {
+        "title": "LBMW - Kentucky Radio",
+        "type": "News media (radio)",
+        "coordinates": [
+            "12477x1770"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/LBMW_-_Kentucky_Radio"
+    },
+    {
+        "title": "LBMW Network",
+        "type": "News media (TV)",
+        "coordinates": [
+            "12342x2068"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/LBMW_Network"
+    },
+    {
+        "title": "Leafhill Heights Elementary School",
+        "type": "N/A",
+        "coordinates": [
+            "12340x3251"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Leafhill_Heights_Elementary_School"
+    },
+    {
+        "title": "Leafhill Heights Offices",
+        "type": "N/A",
+        "coordinates": [
+            "12233x3537"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Leafhill_Heights_Offices"
+    },
+    {
+        "title": "Lectromax Manufacturing",
+        "type": "Factory",
+        "coordinates": [
+            "5568x5914"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Lectromax_Manufacturing"
+    },
+    {
+        "title": "Legal Services",
+        "type": "N/A",
+        "coordinates": [
+            "10629x10138",
+            "13952x3113"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Legal_Services"
+    },
+    {
+        "title": "Lenny's Car Repair",
+        "type": "N/A",
+        "coordinates": [
+            "5466x9658"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Lenny%27s_Car_Repair"
+    },
+    {
+        "title": "Les Tartes de Mademoiselle Celine",
+        "type": "N/A",
+        "coordinates": [
+            "12744x1188"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Les_Tartes_de_Mademoiselle_Celine"
+    },
+    {
+        "title": "Let There Be Light",
+        "type": "Lamp store",
+        "coordinates": [
+            "1846x6413"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Let_There_Be_Light"
+    },
+    {
+        "title": "Line by Line Designs",
+        "type": "N/A",
+        "coordinates": [
+            "12541x3770"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Line_by_Line_Designs"
+    },
+    {
+        "title": "Liquor store",
+        "type": "N/A",
+        "coordinates": [],
+        "wiki_url": "https://pzwiki.net/wiki/Liquor_store"
+    },
+    {
+        "title": "Liquorty-Split",
+        "type": "Liquor store",
+        "coordinates": [
+            "12616x2294",
+            "12409x2843",
+            "13544x3027",
+            "10612x9906",
+            "6189x5368",
+            "1853x6402"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Liquorty-Split"
+    },
+    {
+        "title": "Logging camp (Rosewood)",
+        "type": "Logging area",
+        "coordinates": [
+            "8225x11833"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Logging_camp_(Rosewood)"
+    },
+    {
+        "title": "Lola Limon",
+        "type": "Clothing store",
+        "coordinates": [
+            "12834x1335",
+            "13919x5895",
+            "13525x1273",
+            "6505x5266"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Lola_Limon"
+    },
+    {
+        "title": "Louisville Animal Hospital",
+        "type": "N/A",
+        "coordinates": [
+            "12577x1993"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Louisville_Animal_Hospital"
+    },
+    {
+        "title": "Louisville Animal Shelter",
+        "type": "Animal shelter",
+        "coordinates": [
+            "12267x1447"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Louisville_Animal_Shelter"
+    },
+    {
+        "title": "Louisville Boat Club",
+        "type": "Social center",
+        "coordinates": [
+            "12776x1148"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Louisville_Boat_Club"
+    },
+    {
+        "title": "Louisville border camp",
+        "type": "Army checkpoint & refugee camp",
+        "coordinates": [
+            "12517x4230"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Louisville_border_camp"
+    },
+    {
+        "title": "Louisville Bruiser",
+        "type": "Factory",
+        "coordinates": [
+            "13243x1236"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Louisville_Bruiser"
+    },
+    {
+        "title": "Louisville Expo Center",
+        "type": "N/A",
+        "coordinates": [
+            "12970x1308"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Louisville_Expo_Center"
+    },
+    {
+        "title": "Louisville Fire Department",
+        "type": "Community services",
+        "coordinates": [
+            "13685x1788",
+            "13944x3046",
+            "12353x1762"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Louisville_Fire_Department"
+    },
+    {
+        "title": "Louisville General Hospital",
+        "type": "Hospital",
+        "coordinates": [
+            "12944x2093"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Louisville_General_Hospital"
+    },
+    {
+        "title": "Louisville industrial substation",
+        "type": "Substation",
+        "coordinates": [
+            "12093x1750"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Louisville_industrial_substation"
+    },
+    {
+        "title": "Louisville Police Department and Detention Services",
+        "type": "Law enforcement",
+        "coordinates": [
+            "12496x1615"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Louisville_Police_Department_and_Detention_Services"
+    },
+    {
+        "title": "Louisville State University",
+        "type": "N/A",
+        "coordinates": [
+            "12397x2156"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Louisville_State_University"
+    },
+    {
+        "title": "Louisville terminal substation",
+        "type": "Electrical substation",
+        "coordinates": [
+            "14760x4084"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Louisville_terminal_substation"
+    },
+    {
+        "title": "Louisville Train Station",
+        "type": "N/A",
+        "coordinates": [
+            "12684x2331"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Louisville_Train_Station"
+    },
+    {
+        "title": "Love Duet Bride & Groom Boutique",
+        "type": "Clothing store",
+        "coordinates": [
+            "1836x14860"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Love_Duet_Bride_%26_Groom_Boutique"
+    },
+    {
+        "title": "Lowry Court",
+        "type": "Apartment complex",
+        "coordinates": [
+            "12982x1912"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Lowry_Court"
+    },
+    {
+        "title": "LSU Athletic Center",
+        "type": "N/A",
+        "coordinates": [
+            "12424x2364"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/LSU_Athletic_Center"
+    },
+    {
+        "title": "LSU Attenborough Sciences Building",
+        "type": "N/A",
+        "coordinates": [
+            "12388x2210"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/LSU_Attenborough_Sciences_Building"
+    },
+    {
+        "title": "LSU Library",
+        "type": "N/A",
+        "coordinates": [
+            "12340x2133"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/LSU_Library"
+    },
+    {
+        "title": "LSU Rogers Humanities Building",
+        "type": "N/A",
+        "coordinates": [
+            "12446x2251"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/LSU_Rogers_Humanities_Building"
+    },
+    {
+        "title": "LSU South Dorms",
+        "type": "N/A",
+        "coordinates": [
+            "12344x2360"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/LSU_South_Dorms"
+    },
+    {
+        "title": "LSU Student Union",
+        "type": "N/A",
+        "coordinates": [
+            "12326x2220"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/LSU_Student_Union"
+    },
+    {
+        "title": "LSU West Dorms",
+        "type": "N/A",
+        "coordinates": [
+            "12328x2258"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/LSU_West_Dorms"
+    },
+    {
+        "title": "Lucky Noodle",
+        "type": "Chinese restaurant",
+        "coordinates": [
+            "1822x14789"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Lucky_Noodle"
+    },
+    {
+        "title": "Mad Dan's Den",
+        "type": "Furniture store",
+        "coordinates": [
+            "4282x9720"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Mad_Dan%27s_Den"
+    },
+    {
+        "title": "Maison du Boeuf",
+        "type": "Restaurant/bar",
+        "coordinates": [
+            "12575x1592"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Maison_du_Boeuf"
+    },
+    {
+        "title": "Maj. Saunders Middle School",
+        "type": "School",
+        "coordinates": [
+            "2079x6194"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Maj._Saunders_Middle_School"
+    },
+    {
+        "title": "Mama McFudgington's",
+        "type": "Bakery",
+        "coordinates": [
+            "6492x5267",
+            "8087x11608",
+            "13523x1380",
+            "13924x5779",
+            "2042x5820"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Mama_McFudgington%27s"
+    },
+    {
+        "title": "Maps Unlimited",
+        "type": "N/A",
+        "coordinates": [
+            "12221x1622"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Maps_Unlimited"
+    },
+    {
+        "title": "March Ridge Community Center",
+        "type": "Social center",
+        "coordinates": [
+            "10034x12733"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/March_Ridge_Community_Center"
+    },
+    {
+        "title": "March Ridge School",
+        "type": "School",
+        "coordinates": [
+            "10000x12656"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/March_Ridge_School"
+    },
+    {
+        "title": "Markson & Co.",
+        "type": "Office",
+        "coordinates": [
+            "8089x11600",
+            "12665x2228"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Markson_%26_Co."
+    },
+    {
+        "title": "Marple & Christie Legal Services",
+        "type": "Law firm",
+        "coordinates": [
+            "8090x11537"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Marple_%26_Christie_Legal_Services"
+    },
+    {
+        "title": "Martin's Essentials & Laundry",
+        "type": "Laundromat/convenience store",
+        "coordinates": [
+            "12489x1995",
+            "13502x3089",
+            "12096x2116"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Martin%27s_Essentials_%26_Laundry"
+    },
+    {
+        "title": "Mashie Signs & Paintings",
+        "type": "N/A",
+        "coordinates": [
+            "12605x3707"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Mashie_Signs_%26_Paintings"
+    },
+    {
+        "title": "Mass-Genfac Co.",
+        "type": "Factory",
+        "coordinates": [
+            "12105x1314",
+            "12540x3644",
+            "10617x9313",
+            "3118x14474"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Mass-Genfac_Co."
+    },
+    {
+        "title": "Masterson",
+        "type": "N/A",
+        "coordinates": [],
+        "wiki_url": "https://pzwiki.net/wiki/Masterson"
+    },
+    {
+        "title": "McCoy Estate",
+        "type": "Residential",
+        "coordinates": [
+            "10091x8264"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/McCoy_Estate"
+    },
+    {
+        "title": "McCoy Logging Co.",
+        "type": "Logging company/Timber yard/Processing facility",
+        "coordinates": [
+            "10324x9594"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/McCoy_Logging_Co."
+    },
+    {
+        "title": "Mead, Drink and Bloody Merry",
+        "type": "N/A",
+        "coordinates": [
+            "13176x1686"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Mead,_Drink_and_Bloody_Merry"
+    },
+    {
+        "title": "Med U Well",
+        "type": "Pharmacy/medical clinic",
+        "coordinates": [
+            "12950x1487",
+            "13218x2969"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Med_U_Well"
+    },
+    {
+        "title": "Medical Center",
+        "type": "Medical clinic",
+        "coordinates": [
+            "12411x1769"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Medical_Center"
+    },
+    {
+        "title": "Medical clinic (Doe Valley)",
+        "type": "Medical clinic",
+        "coordinates": [
+            "5499x9582"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Medical_clinic_(Doe_Valley)"
+    },
+    {
+        "title": "Medical clinic (Fallas Lake)",
+        "type": "Medical clinic",
+        "coordinates": [
+            "7293x8386"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Medical_clinic_(Fallas_Lake)"
+    },
+    {
+        "title": "Medical clinic (West Point)",
+        "type": "Medical clinic",
+        "coordinates": [
+            "11867x6911"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Medical_clinic_(West_Point)"
+    },
+    {
+        "title": "Memento Ammori",
+        "type": "Gun store",
+        "coordinates": [
+            "2052x5833"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Memento_Ammori"
+    },
+    {
+        "title": "Mendy's Eatery",
+        "type": "Restaurant",
+        "coordinates": [
+            "10130x12754",
+            "11904x6883"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Mendy%27s_Eatery"
+    },
+    {
+        "title": "Mercia Lang",
+        "type": "N/A",
+        "coordinates": [],
+        "wiki_url": "https://pzwiki.net/wiki/Mercia_Lang"
+    },
+    {
+        "title": "Metalhead Tool Shop",
+        "type": "Metal workshop",
+        "coordinates": [
+            "2380x14475"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Metalhead_Tool_Shop"
+    },
+    {
+        "title": "Military blockade",
+        "type": "N/A",
+        "coordinates": [
+            "1501x5628"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Military_blockade"
+    },
+    {
+        "title": "Military Research Facility",
+        "type": "Laboratory/research facility",
+        "coordinates": [
+            "5687x12472"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Military_Research_Facility"
+    },
+    {
+        "title": "Milk 'N' More",
+        "type": "Convenience/grocery store",
+        "coordinates": [
+            "13960x3245",
+            "13374x2281",
+            "6141x5371",
+            "12669x2128",
+            "13947x2238"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Milk_%27N%27_More"
+    },
+    {
+        "title": "Milk Monarchy",
+        "type": "Ice cream parlor",
+        "coordinates": [
+            "12512x1322"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Milk_Monarchy"
+    },
+    {
+        "title": "Millhauser Office Building",
+        "type": "N/A",
+        "coordinates": [
+            "12663x2240"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Millhauser_Office_Building"
+    },
+    {
+        "title": "Mind Peace Insurance",
+        "type": "N/A",
+        "coordinates": [
+            "12447x1486"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Mind_Peace_Insurance"
+    },
+    {
+        "title": "Miss Honey's Beauty Parlor",
+        "type": "Historical building",
+        "coordinates": [
+            "3482x8187"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Miss_Honey%27s_Beauty_Parlor"
+    },
+    {
+        "title": "Morris' Bait Shop",
+        "type": "Fishing shop",
+        "coordinates": [
+            "12532x5286",
+            "5916x5243"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Morris%27_Bait_Shop"
+    },
+    {
+        "title": "Motel (West Point)",
+        "type": "Motel",
+        "coordinates": [
+            "12024x6917"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Motel_(West_Point)"
+    },
+    {
+        "title": "Mounted Police Training",
+        "type": "N/A",
+        "coordinates": [
+            "13031x2825"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Mounted_Police_Training"
+    },
+    {
+        "title": "Movie theater (March Ridge)",
+        "type": "Movie theater",
+        "coordinates": [
+            "10171x12645"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Movie_theater_(March_Ridge)"
+    },
+    {
+        "title": "Mr. Sunshine Diner",
+        "type": "Diner",
+        "coordinates": [
+            "2485x14476"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Mr._Sunshine_Diner"
+    },
+    {
+        "title": "Muldraugh Elementary",
+        "type": "School",
+        "coordinates": [
+            "10619x9966"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Muldraugh_Elementary"
+    },
+    {
+        "title": "Muldraugh Police Department",
+        "type": "Law enforcement",
+        "coordinates": [
+            "10649x10421"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Muldraugh_Police_Department"
+    },
+    {
+        "title": "Music Video Channel",
+        "type": "N/A",
+        "coordinates": [],
+        "wiki_url": "https://pzwiki.net/wiki/Music_Video_Channel"
+    },
+    {
+        "title": "My Sunday Market",
+        "type": "N/A",
+        "coordinates": [
+            "12435x3111"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/My_Sunday_Market"
+    },
+    {
+        "title": "Nails & Nuts Tool Store",
+        "type": "Hardware store",
+        "coordinates": [
+            "6359x5327",
+            "13909x5801",
+            "1943x6361"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Nails_%26_Nuts_Tool_Store"
+    },
+    {
+        "title": "Nat's Cafe",
+        "type": "Cafe",
+        "coordinates": [
+            "13164x2128"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Nat%27s_Cafe"
+    },
+    {
+        "title": "National Sports TV",
+        "type": "N/A",
+        "coordinates": [],
+        "wiki_url": "https://pzwiki.net/wiki/National_Sports_TV"
+    },
+    {
+        "title": "Neon Flower Salon",
+        "type": "Hair salon",
+        "coordinates": [
+            "12645x1207"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Neon_Flower_Salon"
+    },
+    {
+        "title": "Newton Freight Warehouse",
+        "type": "N/A",
+        "coordinates": [
+            "12172x1609"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Newton_Freight_Warehouse"
+    },
+    {
+        "title": "Nite Glo",
+        "type": "Nightclub",
+        "coordinates": [
+            "12417x1327"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Nite_Glo"
+    },
+    {
+        "title": "Nolan's Used Cars",
+        "type": "Vehicle dealership",
+        "coordinates": [
+            "11687x8367"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Nolan%27s_Used_Cars"
+    },
+    {
+        "title": "Norm's Shake n' Sandwiches",
+        "type": "Restaurant",
+        "coordinates": [
+            "1845x6392"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Norm%27s_Shake_n%27_Sandwiches"
+    },
+    {
+        "title": "Noteworthy",
+        "type": "N/A",
+        "coordinates": [
+            "13210x1288"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Noteworthy"
+    },
+    {
+        "title": "Nourish Food Mart",
+        "type": "Grocery store",
+        "coordinates": [
+            "6273x5265",
+            "12661x1637",
+            "10121x12794"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Nourish_Food_Mart"
+    },
+    {
+        "title": "O'Brien's Kitchen",
+        "type": "Burger joint",
+        "coordinates": [
+            "12374x1478"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/O%27Brien%27s_Kitchen"
+    },
+    {
+        "title": "Oak Park Apartments",
+        "type": "N/A",
+        "coordinates": [
+            "12372x1691"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Oak_Park_Apartments"
+    },
+    {
+        "title": "Office buildings (West Point)",
+        "type": "Office building",
+        "coordinates": [
+            "11856x6924",
+            "11979x6940",
+            "11979x6885"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Office_buildings_(West_Point)"
+    },
+    {
+        "title": "Office complex (Muldraugh)",
+        "type": "Office building",
+        "coordinates": [
+            "10694x10340"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Office_complex_(Muldraugh)"
+    },
+    {
+        "title": "Office unit (March Ridge)",
+        "type": "Office",
+        "coordinates": [
+            "10183x12791"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Office_unit_(March_Ridge)"
+    },
+    {
+        "title": "Offices (Central Louisville)",
+        "type": "N/A",
+        "coordinates": [
+            "12778x1707"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Offices_(Central_Louisville)"
+    },
+    {
+        "title": "Offices (West Central Louisville)",
+        "type": "N/A",
+        "coordinates": [
+            "12482x1970"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Offices_(West_Central_Louisville)"
+    },
+    {
+        "title": "Ol' Rodney's Countrytime Steakhouse",
+        "type": "Restaurant",
+        "coordinates": [
+            "2459x14478"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Ol%27_Rodney%27s_Countrytime_Steakhouse"
+    },
+    {
+        "title": "Ol' Scratch",
+        "type": "N/A",
+        "coordinates": [
+            "13176x2974"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Ol%27_Scratch"
+    },
+    {
+        "title": "Olympia Department Store",
+        "type": "N/A",
+        "coordinates": [
+            "13570x1406"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Olympia_Department_Store"
+    },
+    {
+        "title": "Onyx Drive-In Theater",
+        "type": "Drive-in movie theater",
+        "coordinates": [
+            "8417x12232"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Onyx_Drive-In_Theater"
+    },
+    {
+        "title": "Optima Eyes",
+        "type": "Optometrist",
+        "coordinates": [
+            "13613x1599",
+            "13907x5797"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Optima_Eyes"
+    },
+    {
+        "title": "Orio Office Place",
+        "type": "Mixed-use building",
+        "coordinates": [
+            "12754x1630"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Orio_Office_Place"
+    },
+    {
+        "title": "Outside Notes",
+        "type": "Bar",
+        "coordinates": [
+            "2423x5793"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Outside_Notes"
+    },
+    {
+        "title": "Outskirts factories (Muldraugh)",
+        "type": "Factories",
+        "coordinates": [
+            "10045x10934"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Outskirts_factories_(Muldraugh)"
+    },
+    {
+        "title": "Ovo Farms",
+        "type": "Farmstead",
+        "coordinates": [
+            "4022x10830"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Ovo_Farms"
+    },
+    {
+        "title": "P.S. Delilah",
+        "type": "N/A",
+        "coordinates": [
+            "2041x5687"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/P.S._Delilah"
+    },
+    {
+        "title": "Painful Tooth",
+        "type": "Dental clinic",
+        "coordinates": [
+            "2081x5905"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Painful_Tooth"
+    },
+    {
+        "title": "Palette Pop Art Supplies",
+        "type": "Art supply store",
+        "coordinates": [
+            "13173x1746",
+            "13512x1346"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Palette_Pop_Art_Supplies"
+    },
+    {
+        "title": "Palm Travel",
+        "type": "Office unit",
+        "coordinates": [
+            "6424x5267",
+            "13513x1384",
+            "13917x5789",
+            "8082x11561"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Palm_Travel"
+    },
+    {
+        "title": "Pawn $$$hop",
+        "type": "Pawn shop",
+        "coordinates": [
+            "12312x1331"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Pawn_$$$hop"
+    },
+    {
+        "title": "Pawn shop (Brandenburg)",
+        "type": "Pawn shop",
+        "coordinates": [
+            "1986x6381"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Pawn_shop_(Brandenburg)"
+    },
+    {
+        "title": "Pawn shop (Central Louisville)",
+        "type": "Pawn shop",
+        "coordinates": [
+            "12486x1381"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Pawn_shop_(Central_Louisville)"
+    },
+    {
+        "title": "Pawn shop (South Louisville)",
+        "type": "N/A",
+        "coordinates": [
+            "13118x2974"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Pawn_shop_(South_Louisville)"
+    },
+    {
+        "title": "PawsTV",
+        "type": "N/A",
+        "coordinates": [],
+        "wiki_url": "https://pzwiki.net/wiki/PawsTV"
+    },
+    {
+        "title": "Perfick Potato Co.",
+        "type": "N/A",
+        "coordinates": [
+            "12278x1355"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Perfick_Potato_Co."
+    },
+    {
+        "title": "Pet Health Pawmise",
+        "type": "N/A",
+        "coordinates": [
+            "13209x3048"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Pet_Health_Pawmise"
+    },
+    {
+        "title": "Pharmahug",
+        "type": "Pharmacy",
+        "coordinates": [
+            "6468x5266",
+            "12807x1336",
+            "13235x1291",
+            "13118x2126",
+            "13520x1264",
+            "11929x6804",
+            "10143x12752",
+            "13913x5837",
+            "402x9870",
+            "2475x14478",
+            "15508x2920"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Pharmahug"
+    },
+    {
+        "title": "Phil's Fine & Fair Pawn Shop",
+        "type": "Pawn shop",
+        "coordinates": [
+            "12375x1467"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Phil%27s_Fine_%26_Fair_Pawn_Shop"
+    },
+    {
+        "title": "Pile o' Crepe",
+        "type": "Restaurant",
+        "coordinates": [
+            "10621x9510",
+            "13602x5757",
+            "13412x1416",
+            "13601x5756",
+            "12618x2242",
+            "12638x1262",
+            "6396x5303",
+            "2131x6436",
+            "1775x14876"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Pile_o%27_Crepe"
+    },
+    {
+        "title": "Pizza Whirled",
+        "type": "Pizzeria",
+        "coordinates": [
+            "10606x10111",
+            "12438x3833",
+            "12481x1330",
+            "13218x2105",
+            "8074x11308",
+            "13650x1269",
+            "11662x7085",
+            "13876x5753",
+            "12486x2009",
+            "13468x1410",
+            "13690x4111",
+            "13765x1871",
+            "1893x6350",
+            "15454x2854x1"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Pizza_Whirled"
+    },
+    {
+        "title": "Pleasant Motel",
+        "type": "Motel",
+        "coordinates": [
+            "2528x14538"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Pleasant_Motel"
+    },
+    {
+        "title": "Police station",
+        "type": "Law enforcement",
+        "coordinates": [
+            "7252x8378",
+            "13221x3086",
+            "13783x2554",
+            "12968x1366",
+            "12496x1615",
+            "10636x10408",
+            "6081x5261",
+            "8063x11737",
+            "11902x6945",
+            "13668x4117",
+            "2485x13940",
+            "2043x5978"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Police_station"
+    },
+    {
+        "title": "Pondview Shopping Center",
+        "type": "Shopping center",
+        "coordinates": [
+            "1900x6352"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Pondview_Shopping_Center"
+    },
+    {
+        "title": "Pony Roam-O",
+        "type": "N/A",
+        "coordinates": [
+            "8547x8525"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Pony_Roam-O"
+    },
+    {
+        "title": "Porkin' Chophouse",
+        "type": "Restaurant",
+        "coordinates": [
+            "2044x5839"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Porkin%27_Chophouse"
+    },
+    {
+        "title": "Porter & Son General Store",
+        "type": "Historic building",
+        "coordinates": [
+            "3511x8187"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Porter_%26_Son_General_Store"
+    },
+    {
+        "title": "Posh Box",
+        "type": "Clothing store",
+        "coordinates": [
+            "12540x1315"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Posh_Box"
+    },
+    {
+        "title": "Post office (March Ridge)",
+        "type": "Post office",
+        "coordinates": [
+            "10108x12714"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Post_office_(March_Ridge)"
+    },
+    {
+        "title": "Post office (West Point)",
+        "type": "Post office",
+        "coordinates": [
+            "11961x6912"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Post_office_(West_Point)"
+    },
+    {
+        "title": "Premium Technologies",
+        "type": "N/A",
+        "coordinates": [],
+        "wiki_url": "https://pzwiki.net/wiki/Premium_Technologies"
+    },
+    {
+        "title": "Produce warehouses",
+        "type": "N/A",
+        "coordinates": [
+            "13547x3641",
+            "10507x7177",
+            "10254x7789",
+            "8284x10038",
+            "7919x8863",
+            "7659x9342",
+            "9385x9299",
+            "7485x11081",
+            "6737x10021",
+            "6677x10064",
+            "6567x9323",
+            "6559x8945",
+            "5891x9862",
+            "9219x11836"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Produce_warehouses"
+    },
+    {
+        "title": "Produce warehouses (Rosewood)",
+        "type": "Produce storage",
+        "coordinates": [
+            "9219x11834"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Produce_warehouses_(Rosewood)"
+    },
+    {
+        "title": "Purple + Black",
+        "type": "Clothing store",
+        "coordinates": [
+            "12661x1209"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Purple_%2B_Black"
+    },
+    {
+        "title": "Purrfect Barkner Pet Supplies",
+        "type": "Pet store",
+        "coordinates": [
+            "12881x2085"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Purrfect_Barkner_Pet_Supplies"
+    },
+    {
+        "title": "Quicker Liquor",
+        "type": "Liquor store",
+        "coordinates": [
+            "2548x14476"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Quicker_Liquor"
+    },
+    {
+        "title": "R. Johnson Office Building",
+        "type": "N/A",
+        "coordinates": [
+            "12639x2016"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/R._Johnson_Office_Building"
+    },
+    {
+        "title": "Radio relay station",
+        "type": "Radio relay station",
+        "coordinates": [
+            "1635x5764",
+            "10275x8744",
+            "4843x6280"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Radio_relay_station"
+    },
+    {
+        "title": "Railyard (Muldraugh)",
+        "type": "Railyard",
+        "coordinates": [
+            "11645x9938"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Railyard_(Muldraugh)"
+    },
+    {
+        "title": "Rancher Chophouse",
+        "type": "Historic building",
+        "coordinates": [
+            "3496x8187"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Rancher_Chophouse"
+    },
+    {
+        "title": "Raney & Daye Investment Firm",
+        "type": "N/A",
+        "coordinates": [
+            "12572x1437"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Raney_%26_Daye_Investment_Firm"
+    },
+    {
+        "title": "Ready Prep Army Issue Surplus",
+        "type": "Camping/Survival/Gun store",
+        "coordinates": [
+            "12222x1320"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Ready_Prep_Army_Issue_Surplus"
+    },
+    {
+        "title": "Red Brick Restaurant",
+        "type": "Restaurant",
+        "coordinates": [
+            "12886x1637"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Red_Brick_Restaurant"
+    },
+    {
+        "title": "Red Oak Apartments",
+        "type": "N/A",
+        "coordinates": [
+            "13514x1525"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Red_Oak_Apartments"
+    },
+    {
+        "title": "Red Owl Inn",
+        "type": "Motel",
+        "coordinates": [
+            "12344x1266"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Red_Owl_Inn"
+    },
+    {
+        "title": "Reed Office Building",
+        "type": "N/A",
+        "coordinates": [
+            "12574x1837"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Reed_Office_Building"
+    },
+    {
+        "title": "Rely Manufacturing Co.",
+        "type": "N/A",
+        "coordinates": [
+            "12014x1846"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Rely_Manufacturing_Co."
+    },
+    {
+        "title": "Restaurant (Doe Valley)",
+        "type": "Restaurant",
+        "coordinates": [
+            "5546x9664"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Restaurant_(Doe_Valley)"
+    },
+    {
+        "title": "Restaurant (Fallas Lake)",
+        "type": "Restaurant",
+        "coordinates": [
+            "7293x8296"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Restaurant_(Fallas_Lake)"
+    },
+    {
+        "title": "Restaurant (March Ridge)",
+        "type": "Restaurant",
+        "coordinates": [
+            "10105x12751"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Restaurant_(March_Ridge)"
+    },
+    {
+        "title": "Restaurant (Muldraugh)",
+        "type": "Restaurant",
+        "coordinates": [
+            "10620x10530"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Restaurant_(Muldraugh)"
+    },
+    {
+        "title": "Restaurant (West Point)",
+        "type": "Restaurant",
+        "coordinates": [
+            "11935x6913"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Restaurant_(West_Point)"
+    },
+    {
+        "title": "Resting Pines Chapel",
+        "type": "Chapel",
+        "coordinates": [
+            "1566x5747"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Resting_Pines_Chapel"
+    },
+    {
+        "title": "Riparian Entertainment",
+        "type": "Bar/Restaurant",
+        "coordinates": [
+            "6380x5206"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Riparian_Entertainment"
+    },
+    {
+        "title": "Riverside Suites",
+        "type": "Hotel",
+        "coordinates": [
+            "6365x5255"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Riverside_Suites"
+    },
+    {
+        "title": "Riverwood Boat Club",
+        "type": "Social center",
+        "coordinates": [
+            "6560x5215"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Riverwood_Boat_Club"
+    },
+    {
+        "title": "Romero Center for the Performing Arts",
+        "type": "Theater",
+        "coordinates": [
+            "12521x1777"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Romero_Center_for_the_Performing_Arts"
+    },
+    {
+        "title": "Romuald Dron Memorial Park",
+        "type": "N/A",
+        "coordinates": [
+            "13855x1873"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Romuald_Dron_Memorial_Park"
+    },
+    {
+        "title": "Rosewood Christian Church",
+        "type": "Church",
+        "coordinates": [
+            "8124x11552"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Rosewood_Christian_Church"
+    },
+    {
+        "title": "Rosewood Country Buffet",
+        "type": "Restaurant",
+        "coordinates": [
+            "8086x11500"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Rosewood_Country_Buffet"
+    },
+    {
+        "title": "Rosewood Fire Department",
+        "type": "Fire station",
+        "coordinates": [
+            "8137x11737"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Rosewood_Fire_Department"
+    },
+    {
+        "title": "Rosewood Medical",
+        "type": "Medical clinic",
+        "coordinates": [
+            "8092x11527"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Rosewood_Medical"
+    },
+    {
+        "title": "Roxy's Roller Rink",
+        "type": "Roller skating rink",
+        "coordinates": [
+            "12975x1444"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Roxy%27s_Roller_Rink"
+    },
+    {
+        "title": "Ruby Gas",
+        "type": "Gas station",
+        "coordinates": [
+            "12739x5066"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Ruby_Gas"
+    },
+    {
+        "title": "Sacred Flame Church",
+        "type": "Church",
+        "coordinates": [
+            "12840x4955"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Sacred_Flame_Church"
+    },
+    {
+        "title": "Sammie's",
+        "type": "N/A",
+        "coordinates": [
+            "13416x1467",
+            "2016x6373",
+            "13974x5879"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Sammie%27s"
+    },
+    {
+        "title": "Sandstone Apartments",
+        "type": "N/A",
+        "coordinates": [
+            "12914x1842"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Sandstone_Apartments"
+    },
+    {
+        "title": "Sanguine Spirits",
+        "type": "N/A",
+        "coordinates": [
+            "12704x1156"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Sanguine_Spirits"
+    },
+    {
+        "title": "Sasha Sashay",
+        "type": "Clothing store",
+        "coordinates": [
+            "12737x1334"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Sasha_Sashay"
+    },
+    {
+        "title": "Saucy",
+        "type": "Clothing Store",
+        "coordinates": [
+            "13879x5843",
+            "6401x5266",
+            "13541x1266"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Saucy"
+    },
+    {
+        "title": "Scarlet Oak Distillery",
+        "type": "Bourbon distillery and distributor",
+        "coordinates": [
+            "12022x1943"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Scarlet_Oak_Distillery"
+    },
+    {
+        "title": "Scenic Mile Car Dealership",
+        "type": "N/A",
+        "coordinates": [
+            "13248x1325"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Scenic_Mile_Car_Dealership"
+    },
+    {
+        "title": "School (Riverside)",
+        "type": "School",
+        "coordinates": [
+            "6437x5445"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/School_(Riverside)"
+    },
+    {
+        "title": "School (West Point)",
+        "type": "School",
+        "coordinates": [
+            "11342x6774"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/School_(West_Point)"
+    },
+    {
+        "title": "Seahorse Coffee",
+        "type": "Coffee shop",
+        "coordinates": [
+            "13907x5812",
+            "13518x1713",
+            "10183x12807",
+            "11963x6882",
+            "12576x1638",
+            "12617x1212",
+            "12914x1842",
+            "13082x1598",
+            "12422x3695",
+            "12610x1897",
+            "12615x1774",
+            "13110x1582",
+            "12775x1812",
+            "13212x1383",
+            "12704x2318",
+            "6400x5253",
+            "15508x2896x1"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Seahorse_Coffee"
+    },
+    {
+        "title": "Seat Yourself Furniture",
+        "type": "Furniture store",
+        "coordinates": [
+            "6234x5269",
+            "12757x1339",
+            "13977x5810"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Seat_Yourself_Furniture"
+    },
+    {
+        "title": "Secure Storage",
+        "type": "Self storage lot",
+        "coordinates": [
+            "12173x1328",
+            "10615x9376"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Secure_Storage"
+    },
+    {
+        "title": "Self storage",
+        "type": "N/A",
+        "coordinates": [],
+        "wiki_url": "https://pzwiki.net/wiki/Self_storage"
+    },
+    {
+        "title": "Self storage (Valley Station)",
+        "type": "Self storage",
+        "coordinates": [
+            "12960x4878"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Self_storage_(Valley_Station)"
+    },
+    {
+        "title": "Self storage (West Point)",
+        "type": "Self storage lot",
+        "coordinates": [
+            "12136x7021"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Self_storage_(West_Point)"
+    },
+    {
+        "title": "Shady Oaks Nursing Home",
+        "type": "N/A",
+        "coordinates": [
+            "13078x2025"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Shady_Oaks_Nursing_Home"
+    },
+    {
+        "title": "Shaken and Stirred",
+        "type": "N/A",
+        "coordinates": [
+            "13176x1729"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Shaken_and_Stirred"
+    },
+    {
+        "title": "Sheba Jewellers",
+        "type": "Jewelry store",
+        "coordinates": [
+            "13905x5814",
+            "12670x1188",
+            "13568x1273",
+            "6479x5267"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Sheba_Jewellers"
+    },
+    {
+        "title": "Sheriff",
+        "type": "Historic building",
+        "coordinates": [
+            "3489x8187"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Sheriff"
+    },
+    {
+        "title": "Shoed for the Stars",
+        "type": "Shoe store",
+        "coordinates": [
+            "13177x1573",
+            "12491x1436",
+            "13926x5829"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Shoed_for_the_Stars"
+    },
+    {
+        "title": "Shooting range (Valley Station)",
+        "type": "N/A",
+        "coordinates": [
+            "13259x5440"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Shooting_range_(Valley_Station)"
+    },
+    {
+        "title": "Silken Belles",
+        "type": "Hair salon",
+        "coordinates": [
+            "13611x5669"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Silken_Belles"
+    },
+    {
+        "title": "Sky Blue Banking",
+        "type": "N/A",
+        "coordinates": [
+            "13121x2164"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Sky_Blue_Banking"
+    },
+    {
+        "title": "Sleep Eazzze Inn",
+        "type": "Motel",
+        "coordinates": [
+            "12483x1482"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Sleep_Eazzze_Inn"
+    },
+    {
+        "title": "Slimtax Accounting",
+        "type": "Accounting firm",
+        "coordinates": [
+            "6359x5318"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Slimtax_Accounting"
+    },
+    {
+        "title": "Smith & Farrier",
+        "type": "Historic building",
+        "coordinates": [
+            "3532x8187"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Smith_%26_Farrier"
+    },
+    {
+        "title": "Smokey's Saloon & Restaurant",
+        "type": "Restaurant",
+        "coordinates": [
+            "10621x9224"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Smokey%27s_Saloon_%26_Restaurant"
+    },
+    {
+        "title": "Sooky's",
+        "type": "Restuarant",
+        "coordinates": [
+            "13172x1704"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Sooky%27s"
+    },
+    {
+        "title": "Soup kitchen (Muldraugh)",
+        "type": "Communal dining",
+        "coordinates": [
+            "10610x10304"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Soup_kitchen_(Muldraugh)"
+    },
+    {
+        "title": "Soup kitchen (Valley Station)",
+        "type": "Communal dining",
+        "coordinates": [
+            "13058x5294"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Soup_kitchen_(Valley_Station)"
+    },
+    {
+        "title": "South Louisville Elementary",
+        "type": "N/A",
+        "coordinates": [
+            "12944x3178"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/South_Louisville_Elementary"
+    },
+    {
+        "title": "South Louisville mall",
+        "type": "Mall",
+        "coordinates": [
+            "13345x3063"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/South_Louisville_mall"
+    },
+    {
+        "title": "Speedy GO",
+        "type": "Transporting company",
+        "coordinates": [
+            "3692x10903"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Speedy_GO"
+    },
+    {
+        "title": "Speedy Legal",
+        "type": "N/A",
+        "coordinates": [
+            "12627x3503"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Speedy_Legal"
+    },
+    {
+        "title": "Spiffo's",
+        "type": "Fast food",
+        "coordinates": [
+            "13926x5829",
+            "11663x8302",
+            "10623x9651",
+            "6128x5309",
+            "8069x11343",
+            "13947x5758",
+            "11978x6812",
+            "12716x1635",
+            "12442x3786",
+            "13077x1637",
+            "13297x1353",
+            "12311x1936",
+            "13456x2929",
+            "13657x1321",
+            "1896x6344",
+            "1983x6434",
+            "881x13059",
+            "2039x14657",
+            "15454x2862x1"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Spiffo%27s"
+    },
+    {
+        "title": "Spitfire Fashion",
+        "type": "Clothing store",
+        "coordinates": [
+            "13199x1728",
+            "6357x5309"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Spitfire_Fashion"
+    },
+    {
+        "title": "St. Michael's Cathedral",
+        "type": "Church",
+        "coordinates": [
+            "12761x1421"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/St._Michael%27s_Cathedral"
+    },
+    {
+        "title": "St. Peregrin Hospital",
+        "type": "Medical",
+        "coordinates": [
+            "12467x3702"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/St._Peregrin_Hospital"
+    },
+    {
+        "title": "St. Vincent De Paul Church",
+        "type": "N/A",
+        "coordinates": [
+            "12879x2851"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/St._Vincent_De_Paul_Church"
+    },
+    {
+        "title": "Stalls",
+        "type": "N/A",
+        "coordinates": [
+            "12556x1109"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Stalls"
+    },
+    {
+        "title": "StarEPlex",
+        "type": "Movie theater",
+        "coordinates": [
+            "12466x1280",
+            "13605x5885"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/StarEPlex"
+    },
+    {
+        "title": "Stars & Stripes",
+        "type": "Gun store",
+        "coordinates": [
+            "13555x1273"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Stars_%26_Stripes"
+    },
+    {
+        "title": "Steely Revolve Metal Working",
+        "type": "N/A",
+        "coordinates": [
+            "12580x3646"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Steely_Revolve_Metal_Working"
+    },
+    {
+        "title": "Stendo's Firearms Emporium",
+        "type": "Gun store",
+        "coordinates": [
+            "12068x6760"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Stendo%27s_Firearms_Emporium"
+    },
+    {
+        "title": "Stor-A-Max",
+        "type": "Self storage building",
+        "coordinates": [
+            "10752x10348"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Stor-A-Max"
+    },
+    {
+        "title": "Strip mall (Riverside)",
+        "type": "Toy store/office building/furniture store",
+        "coordinates": [
+            "6450x5298"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Strip_mall_(Riverside)"
+    },
+    {
+        "title": "Stuart & Log",
+        "type": "Wrecking yard and auto shop",
+        "coordinates": [
+            "2040x13440"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Stuart_%26_Log"
+    },
+    {
+        "title": "Sucrafruit Circus",
+        "type": "Candy store",
+        "coordinates": [
+            "13175x1633"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Sucrafruit_Circus"
+    },
+    {
+        "title": "Sunderland Hills Sanatorium",
+        "type": "Abandoned structure",
+        "coordinates": [
+            "4049x6515"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Sunderland_Hills_Sanatorium"
+    },
+    {
+        "title": "Sunset Pines Funeral Home",
+        "type": "Eldercare service",
+        "coordinates": [
+            "13164x1523"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Sunset_Pines_Funeral_Home"
+    },
+    {
+        "title": "Sunstar Motel",
+        "type": "Motel",
+        "coordinates": [
+            "10628x9814"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Sunstar_Motel"
+    },
+    {
+        "title": "Superklean",
+        "type": "Laundromat",
+        "coordinates": [
+            "10184x12731"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Superklean"
+    },
+    {
+        "title": "Supper Delight",
+        "type": "N/A",
+        "coordinates": [
+            "13176x1581"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Supper_Delight"
+    },
+    {
+        "title": "Sure Fitness & Boxing Club",
+        "type": "N/A",
+        "coordinates": [
+            "12320x1435"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Sure_Fitness_%26_Boxing_Club"
+    },
+    {
+        "title": "Sweet Eats!",
+        "type": "Restaurant",
+        "coordinates": [
+            "13640x5668",
+            "12081x2012"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Sweet_Eats!"
+    },
+    {
+        "title": "Sweet Pea Restaurant",
+        "type": "Restaurant",
+        "coordinates": [
+            "12415x2819",
+            "6190x5355"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Sweet_Pea_Restaurant"
+    },
+    {
+        "title": "Sweet Sugar Beauty",
+        "type": "Beauty salon",
+        "coordinates": [
+            "12578x1613"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Sweet_Sugar_Beauty"
+    },
+    {
+        "title": "Sweets Satisfaction",
+        "type": "Restaurant",
+        "coordinates": [
+            "12752x1203"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Sweets_Satisfaction"
+    },
+    {
+        "title": "T.I.S. Construction",
+        "type": "Construction",
+        "coordinates": [
+            "12665x2137",
+            "10079x9593",
+            "13560x1641"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/T.I.S._Construction"
+    },
+    {
+        "title": "Taco del Pancho",
+        "type": "Restaurant",
+        "coordinates": [
+            "13926x5829",
+            "12578x2071",
+            "13527x3026"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Taco_del_Pancho"
+    },
+    {
+        "title": "Tastee Foodz",
+        "type": "Restaurant",
+        "coordinates": [
+            "12663x2200"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Tastee_Foodz"
+    },
+    {
+        "title": "Tattoo 42",
+        "type": "Tattoo parlor",
+        "coordinates": [
+            "10619x10158",
+            "12362x1643"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Tattoo_42"
+    },
+    {
+        "title": "Temari Pearl",
+        "type": "Sushi restaurant",
+        "coordinates": [
+            "1981x6352"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Temari_Pearl"
+    },
+    {
+        "title": "Temp Agency",
+        "type": "N/A",
+        "coordinates": [
+            "12586x3507"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Temp_Agency"
+    },
+    {
+        "title": "The Black Saddle",
+        "type": "Restaurant",
+        "coordinates": [
+            "13188x1323"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/The_Black_Saddle"
+    },
+    {
+        "title": "The Blue Fox",
+        "type": "Restaurant",
+        "coordinates": [
+            "12666x1154"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/The_Blue_Fox"
+    },
+    {
+        "title": "The Bulls Stool",
+        "type": "Bar",
+        "coordinates": [
+            "2477x14664"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/The_Bulls_Stool"
+    },
+    {
+        "title": "The Caban Center For Wildlife Rehabilitation",
+        "type": "Wildlife rehabilitation facility",
+        "coordinates": [
+            "3185x12133"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/The_Caban_Center_For_Wildlife_Rehabilitation"
+    },
+    {
+        "title": "The Cosy Crockpot",
+        "type": "Restaurant",
+        "coordinates": [
+            "13949x3188",
+            "469x9795"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/The_Cosy_Crockpot"
+    },
+    {
+        "title": "The Darkwallow Lake Guest House",
+        "type": "Hotel",
+        "coordinates": [
+            "8535x14417"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/The_Darkwallow_Lake_Guest_House"
+    },
+    {
+        "title": "The Drake",
+        "type": "Bar",
+        "coordinates": [
+            "11906x6852"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/The_Drake"
+    },
+    {
+        "title": "The Exquisite Pearl",
+        "type": "N/A",
+        "coordinates": [
+            "12530x1336"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/The_Exquisite_Pearl"
+    },
+    {
+        "title": "The Good Book",
+        "type": "Book store",
+        "coordinates": [
+            "7256x8431"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/The_Good_Book"
+    },
+    {
+        "title": "The Grand Ohio Mall",
+        "type": "Mall",
+        "coordinates": [
+            "13570x1406"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/The_Grand_Ohio_Mall"
+    },
+    {
+        "title": "The Hardy Har Bar",
+        "type": "Bar",
+        "coordinates": [
+            "12573x1911"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/The_Hardy_Har_Bar"
+    },
+    {
+        "title": "The Havisham Hotel Suites",
+        "type": "Hotel",
+        "coordinates": [
+            "12619x1335"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/The_Havisham_Hotel_Suites"
+    },
+    {
+        "title": "The Horseshoe",
+        "type": "Bar",
+        "coordinates": [
+            "7246x8522"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/The_Horseshoe"
+    },
+    {
+        "title": "The Kentucky Herald",
+        "type": "N/A",
+        "coordinates": [
+            "12595x3552"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/The_Kentucky_Herald"
+    },
+    {
+        "title": "The National Dispatch",
+        "type": "Newspaper",
+        "coordinates": [],
+        "wiki_url": "https://pzwiki.net/wiki/The_National_Dispatch"
+    },
+    {
+        "title": "The Orange Anchor",
+        "type": "N/A",
+        "coordinates": [
+            "13260x1288"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/The_Orange_Anchor"
+    },
+    {
+        "title": "The Plump Cornucopia",
+        "type": "Grocery store",
+        "coordinates": [
+            "12728x1214"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/The_Plump_Cornucopia"
+    },
+    {
+        "title": "The Real Sweat",
+        "type": "Sports club",
+        "coordinates": [
+            "12853x1385"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/The_Real_Sweat"
+    },
+    {
+        "title": "The Rusty Rifle",
+        "type": "Bar/inn",
+        "coordinates": [
+            "10747x10562"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/The_Rusty_Rifle"
+    },
+    {
+        "title": "The Sea Shanty",
+        "type": "Restaurant/bar",
+        "coordinates": [
+            "12844x1213"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/The_Sea_Shanty"
+    },
+    {
+        "title": "The Slugger",
+        "type": "Bar",
+        "coordinates": [
+            "12324x1304"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/The_Slugger"
+    },
+    {
+        "title": "The Straight Shooter",
+        "type": "Bar",
+        "coordinates": [
+            "13001x5267"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/The_Straight_Shooter"
+    },
+    {
+        "title": "The Top Hanger",
+        "type": "Clothing store",
+        "coordinates": [
+            "12689x1210"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/The_Top_Hanger"
+    },
+    {
+        "title": "The Velvet Tassel",
+        "type": "Strip club",
+        "coordinates": [
+            "12313x1277"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/The_Velvet_Tassel"
+    },
+    {
+        "title": "The Wandering Sashimi",
+        "type": "N/A",
+        "coordinates": [
+            "13513x1368"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/The_Wandering_Sashimi"
+    },
+    {
+        "title": "The Waterfront",
+        "type": "N/A",
+        "coordinates": [
+            "13034x1217"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/The_Waterfront"
+    },
+    {
+        "title": "The Wizard's Keep",
+        "type": "Comic book store",
+        "coordinates": [
+            "1764x14792"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/The_Wizard%27s_Keep"
+    },
+    {
+        "title": "The Wooden Stein",
+        "type": "Restaurant/bar",
+        "coordinates": [
+            "12778x1295"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/The_Wooden_Stein"
+    },
+    {
+        "title": "Thumbs of Green",
+        "type": "Farming supply store",
+        "coordinates": [
+            "13129x1777"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Thumbs_of_Green"
+    },
+    {
+        "title": "Thunder Gas",
+        "type": "Gas station",
+        "coordinates": [
+            "11824x6870",
+            "7314x8185",
+            "8158x11265",
+            "8730x14090",
+            "2437x13874",
+            "11824x6873"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Thunder_Gas"
+    },
+    {
+        "title": "Tim's Bakery",
+        "type": "Bakery",
+        "coordinates": [
+            "12631x1211"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Tim%27s_Bakery"
+    },
+    {
+        "title": "Time 4 Sport",
+        "type": "Sporting goods store",
+        "coordinates": [
+            "6262x5270",
+            "13524x1315",
+            "13955x5807",
+            "13332x3069",
+            "1863x14868"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Time_4_Sport"
+    },
+    {
+        "title": "Tita Maria's Cantina",
+        "type": "N/A",
+        "coordinates": [
+            "13303x2973"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Tita_Maria%27s_Cantina"
+    },
+    {
+        "title": "Tobacco (business)",
+        "type": "Smoke shop",
+        "coordinates": [
+            "2578x14479"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Tobacco_(business)"
+    },
+    {
+        "title": "Tomcat Tavern",
+        "type": "Bar",
+        "coordinates": [
+            "12904x1363"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Tomcat_Tavern"
+    },
+    {
+        "title": "Topcrown Plaza",
+        "type": "Mixed-use building",
+        "coordinates": [
+            "12659x1608"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Topcrown_Plaza"
+    },
+    {
+        "title": "Town hall (Fallas Lake)",
+        "type": "Government building",
+        "coordinates": [
+            "7296x8335"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Town_hall_(Fallas_Lake)"
+    },
+    {
+        "title": "Toys-R-Mine",
+        "type": "N/A",
+        "coordinates": [],
+        "wiki_url": "https://pzwiki.net/wiki/Toys-R-Mine"
+    },
+    {
+        "title": "Toyz",
+        "type": "Toy store",
+        "coordinates": [
+            "12576x1307",
+            "13327x3057",
+            "13522x1298",
+            "13925x5792"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Toyz"
+    },
+    {
+        "title": "Train station (Ekron)",
+        "type": "Train station",
+        "coordinates": [
+            "811x11846"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Train_station_(Ekron)"
+    },
+    {
+        "title": "Train station (Muldraugh)",
+        "type": "N/A",
+        "coordinates": [
+            "11085x9236"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Train_station_(Muldraugh)"
+    },
+    {
+        "title": "Trapper's house",
+        "type": "Residential",
+        "coordinates": [
+            "3933x6214"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Trapper%27s_house"
+    },
+    {
+        "title": "Triple-N",
+        "type": "N/A",
+        "coordinates": [
+            "12621x1926"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Triple-N"
+    },
+    {
+        "title": "TURBO",
+        "type": "Entertainment (television)",
+        "coordinates": [
+            "13074x1480"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/TURBO"
+    },
+    {
+        "title": "Twiggy's",
+        "type": "Bar",
+        "coordinates": [
+            "12067x6800"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Twiggy%27s"
+    },
+    {
+        "title": "U-Store It",
+        "type": "Self storage",
+        "coordinates": [
+            "5540x6055",
+            "13662x1599",
+            "10686x9830",
+            "1987x6547",
+            "13122x1714",
+            "2469x13899"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/U-Store_It"
+    },
+    {
+        "title": "U.S. Mail Service",
+        "type": "Post office",
+        "coordinates": [
+            "12624x2076",
+            "6315x5265",
+            "12579x3585",
+            "694x9860",
+            "2051x5908",
+            "15511x3179",
+            "2447x14527"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/U.S._Mail_Service"
+    },
+    {
+        "title": "United Shipping Logistics",
+        "type": "Office",
+        "coordinates": [
+            "12205x1348",
+            "12662x2216",
+            "12626x3704",
+            "10073x12776"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/United_Shipping_Logistics"
+    },
+    {
+        "title": "Upscale Mobility Auto Dealership",
+        "type": "Car dealership",
+        "coordinates": [
+            "13154x1398"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Upscale_Mobility_Auto_Dealership"
+    },
+    {
+        "title": "USR",
+        "type": "N/A",
+        "coordinates": [],
+        "wiki_url": "https://pzwiki.net/wiki/USR"
+    },
+    {
+        "title": "Valu In$urance",
+        "type": "Insurance",
+        "coordinates": [
+            "13659x5671",
+            "13951x3126",
+            "12376x1627",
+            "10623x10131",
+            "12101x2013",
+            "12562x3619",
+            "11867x6887",
+            "10610x10346"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Valu_In$urance"
+    },
+    {
+        "title": "ValuTech",
+        "type": "N/A",
+        "coordinates": [
+            "12545x3699"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/ValuTech"
+    },
+    {
+        "title": "Waites Motel",
+        "type": "Motel",
+        "coordinates": [
+            "10899x9756"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Waites_Motel"
+    },
+    {
+        "title": "Walter & Perry Legal Firm",
+        "type": "N/A",
+        "coordinates": [
+            "12569x1674"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Walter_%26_Perry_Legal_Firm"
+    },
+    {
+        "title": "Warehouse (Valley Station)",
+        "type": "Warehouse",
+        "coordinates": [
+            "12622x4714"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Warehouse_(Valley_Station)"
+    },
+    {
+        "title": "Well Regulated Militia Gear & Supply",
+        "type": "Army surplus store",
+        "coordinates": [
+            "1775x14792"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Well_Regulated_Militia_Gear_%26_Supply"
+    },
+    {
+        "title": "Wellington Heights Golf Club",
+        "type": "N/A",
+        "coordinates": [
+            "12963x2240"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Wellington_Heights_Golf_Club"
+    },
+    {
+        "title": "West Maple Country Club",
+        "type": "Country club",
+        "coordinates": [
+            "5770x6461"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/West_Maple_Country_Club"
+    },
+    {
+        "title": "West Point DIY",
+        "type": "Hardware store",
+        "coordinates": [
+            "11973x6912"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/West_Point_DIY"
+    },
+    {
+        "title": "West Point Town Hall",
+        "type": "Government building",
+        "coordinates": [
+            "11940x6869"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/West_Point_Town_Hall"
+    },
+    {
+        "title": "Window (business)",
+        "type": "N/A",
+        "coordinates": [
+            "13408x1295"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Window_(business)"
+    },
+    {
+        "title": "Worm of Books",
+        "type": "Book store",
+        "coordinates": [
+            "13344x1296",
+            "13600x5668"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Worm_of_Books"
+    },
+    {
+        "title": "Wrecking yard",
+        "type": "Vehicle salvage yard",
+        "coordinates": [
+            "2915x12580",
+            "2040x13440",
+            "2509x14450",
+            "13655x1695",
+            "10762x10460",
+            "5798x5390",
+            "12605x5387"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Wrecking_yard"
+    },
+    {
+        "title": "Your Closet",
+        "type": "N/A",
+        "coordinates": [
+            "13210x1288"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Your_Closet"
+    },
+    {
+        "title": "Yummmers",
+        "type": "Restaurant",
+        "coordinates": [
+            "12881x1337",
+            "13568x5759"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Yummmers"
+    },
+    {
+        "title": "Yuri Design",
+        "type": "N/A",
+        "coordinates": [
+            "12807x1211"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Yuri_Design"
+    },
+    {
+        "title": "Zac's Hardware",
+        "type": "Hardware store",
+        "coordinates": [
+            "12373x1377",
+            "13306x1304"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Zac%27s_Hardware"
+    },
+    {
+        "title": "Zippee Market",
+        "type": "Convenience store",
+        "coordinates": [
+            "8088x11562",
+            "10605x9613",
+            "11663x7069",
+            "13876x5818",
+            "13655x5767",
+            "13875x5818",
+            "12641x2296",
+            "12727x1965",
+            "12664x1366",
+            "12219x3030",
+            "12990x3115",
+            "12512x1483",
+            "13519x1670",
+            "12351x1365",
+            "12811x1297",
+            "13225x1394",
+            "12127x2039",
+            "12713x2317",
+            "2235x14473",
+            "12730x6450"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Zippee_Market"
+    },
+    {
+        "title": "Zlatko's",
+        "type": "N/A",
+        "coordinates": [
+            "12280x2546"
+        ],
+        "wiki_url": "https://pzwiki.net/wiki/Zlatko%27s"
+    },
+    {
+        "title": "Bar",
+        "type": "N/A",
+        "coordinates": [],
+        "wiki_url": "https://pzwiki.net/wiki/Bar"
+    }
+]

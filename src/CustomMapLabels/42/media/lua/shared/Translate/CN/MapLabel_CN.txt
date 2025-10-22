@@ -69,6 +69,7 @@ MapLabel_CN = {
     MapLabel_Hartburg = "哈特堡",
     MapLabel_HazelnutManor = "榛果庄园",
     MapLabel_IrisEyot = "艾瑞斯岛",
+    MapLabel_KentuckyCenterManor_Renovation = "肯塔基中心庄园",
     MapLabel_KINGSMOUTH = "王口岛",
     MapLabel_KINGSMOUTHNORTH = "王口岛",
     MapLabel_LittleTownship = "小马驹镇",

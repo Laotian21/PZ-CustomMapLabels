@@ -255,6 +255,10 @@ data.ModMapLabels = {
 	---West Point Beach Houses[西点沙滩小屋]---(3528889511)---
     ["\\BananaBeachHouse"] = {
         {key = "MapLabel_BananaBeachHouse",    x = 9707,y = 6619, type = "Town", scale = 1.5 },
+    },
+	---Kentucky Center Manor[肯塔基中心庄园]---(3528889511)---
+    ["\\Kentucky Center Manor_Renovation"] = {
+        {key = "MapLabel_KentuckyCenterManor_Renovation",    x = 8215,y = 9695, type = "Town", scale = 1.8 },
     }
 }
 return data

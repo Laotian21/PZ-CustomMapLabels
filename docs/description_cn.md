@@ -31,6 +31,7 @@
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3576750203]Hartburg [/url](哈特堡)
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3495993590]Hazelnut Manor[/url](榛果庄园 )
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3545473388]Iris Eyot[/url](艾瑞斯岛)
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3494693499]Kentucky Center Manor_Renovation [/url] （肯塔基中心庄园_改）
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3498269494]Kingsmouth North[/url](王口岛)
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3477336014]LittleTownship[/url](小马驹镇)
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3540209438]Louisville Mall Base[/url](路易维尔商场基地)

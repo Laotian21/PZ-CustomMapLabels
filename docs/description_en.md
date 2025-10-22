@@ -31,6 +31,7 @@ Thanks to: 无聊的栀子 for providing a large number of map label coordinates
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3576750203]Hartburg [/url]
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3495993590]Hazelnut Manor[/url]
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3545473388]Iris Eyot[/url]
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3494693499]Kentucky Center Manor_Renovation [/url]
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3498269494]Kingsmouth North[/url]
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3477336014]LittleTownship[/url]
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3540209438]Louisville Mall Base[/url]

@@ -69,6 +69,7 @@ MapLabel_EN = {
     MapLabel_Hartburg = "Hartburg",
     MapLabel_HazelnutManor = "Hazelnut Manor",
     MapLabel_IrisEyot = "Iris Eyot",
+    MapLabel_KentuckyCenterManor_Renovation = "Kentucky Center Manor",
     MapLabel_KINGSMOUTH = "Kingsmouth",
     MapLabel_KINGSMOUTHNORTH = "Kingsmouth",
     MapLabel_LittleTownship = "Little<br>Township",

@@ -150,6 +150,20 @@ MapLabel_EN = {
     MapLabel_Willowbrook_Bastion = "Willowbrook Bastion",
     MapLabel_WreckingYardWillowbrook_Bastion = "Wrecking<br>Yard",
 
+------Vanilla Stroage Units-----
+    MapLabel_StorageUnitSelfStorageValleyStation = "Self<br>Storage,
+    MapLabel_StorageUnitSelfStorageWestPoint = "Self<br>Storage",
+	MapLabel_StorageUnitClarkStorageMuldraugh = "Clark<br>Storage",
+    MapLabel_StorageUnitSecureStorageLouisville = "Secure<br>Storage",
+    MapLabel_StorageUnitSecureStorageMuldraugh = "Secure<br>Storage",
+    MapLabel_StorageUnitStoreAMaxMuldraugh = "Store-A-Max",
+    MapLabel_StorageUnitUStorItBrandenburg = "U-Store It",
+    MapLabel_StorageUnitUStorItIrvington = "U-Store It",
+    MapLabel_StorageUnitUStoreItLouisville1 = "U-Store It",
+    MapLabel_StorageUnitUStoreItLouisville2 = "U-Store It",
+    MapLabel_StorageUnitUStorItMuldraugh = "U-Store It",
+    MapLabel_StorageUnitUStorItRiverside = "U-Store It",
+    
 ------Vanilla Wrecking Yards-----	
 	MapLabel_WreckingYardEchoCreek = "Wrecking<br>Yard",
 	MapLabel_WreckingYardIrvingtonSNL = "Wrecking<br>Yard",

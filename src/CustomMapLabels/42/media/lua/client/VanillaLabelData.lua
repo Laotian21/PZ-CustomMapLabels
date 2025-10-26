@@ -2,7 +2,19 @@ local data = {}
 
 data.VanillaMapLabels = {
 	["Vanilla"] = {
-		---Vanilla Wrecking Yards[原版废车场]---(B42)---
+		---Vanilla [香草]---(B42)---
+		{ key = "MapLabel_StorageUnitClarkStorageMuldraugh",	x = 10717,  y = 10121, type = "Building", scale = 0.2 },
+		{ key = "MapLabel_StorageUnitSecureStorageLouisville",	x = 12180,  y = 1338, type = "Building", scale = 0.2 },
+		{ key = "MapLabel_StorageUnitSecureStorageMuldraugh",	x = 10615,  y = 9376, type = "Building", scale = 0.3 },
+		{ key = "MapLabel_StorageUnitSelfStorageValleyStation",	x = 12965,  y = 4890, type = "Building", scale = 0.2 },		
+		{ key = "MapLabel_StorageUnitSelfStorageSelfStorageWestPoint",	x = 12136,  y = 7021, type = "Building", scale = 0.2 },		
+		{ key = "MapLabel_StorageUnitStoreAMaxMuldraugh",	x = 10752,  y = 10348, type = "Building", scale = 0.2 },
+		{ key = "MapLabel_StorageUnitUStorItBrandenburg",	x = 2000,  y = 6520, type = "Building", scale = 0.2 },
+		{ key = "MapLabel_StorageUnitUStorItIrvington",	x = 2469,  y = 13899, type = "Building", scale = 0.2 },
+		{ key = "MapLabel_StorageUnitUStoreItLouisville1",	x = 13670,  y = 1599, type = "Building", scale = 0.2 },
+		{ key = "MapLabel_StorageUnitUStoreItLouisville2",	x = 13128,  y = 1714, type = "Building", scale = 0.2 },
+		{ key = "MapLabel_StorageUnitUStorItMuldraugh",	x = 10686,  y = 9830, type = "Building", scale = 0.2, rotation = 270.0 },
+		{ key = "MapLabel_StorageUnitUStorItRiverside",	x = 5540,  y = 6055, type = "Building", scale = 0.2 },
 		{ key = "MapLabel_WreckingYardEchoCreek",	x = 2940,  y = 12620, type = "POI", scale = 0.3, rotation = 90.0 },
 		{ key = "MapLabel_WreckingYardIrvingtonSNL",	x = 1940,  y = 13390, type = "POI", scale = 0.9 },
 		{ key = "MapLabel_WreckingYardIrvington",	x = 2530,  y = 14440, type = "POI", scale = 0.3 },

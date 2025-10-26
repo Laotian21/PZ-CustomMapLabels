@@ -168,7 +168,7 @@ MapLabel_EN = {
     MapLabel_Tikitown = "Tikitown",
 	MapLabel_ScrapYardTikitown = "Scrap<br>Yard",
 
-------WestPoint Expansion Map-----	
+------West Point Expansion Map-----	
     MapLabel_WestPointExpansion = "West Point<br>Expansion",
     MapLabel_StorageUnitSelfStorageWestPointExpansion = "Self<br>Storage",
 

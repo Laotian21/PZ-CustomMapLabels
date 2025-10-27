@@ -108,7 +108,7 @@ MapLabel_CN = {
     MapLabel_VanHookRiverS = "范霍克河",
     MapLabel_VanHookRiverSS = "范霍克河",
     MapLabel_WheelerCreek = "惠勒溪",
-    MapLabel_StorageUnitStoreAMaxAlton = "商店-A-Max",
+    MapLabel_StorageUnitStoreAMaxAlton = "极致仓储",
     MapLabel_StorageUnitSelfStorageIngles = "自助仓储",
     MapLabel_TrainyardKerson = "铁路调度站",
     MapLabel_WreckingYardIngles = "废车场",
@@ -139,8 +139,8 @@ MapLabel_CN = {
     MapLabel_NewAmsterdam = "新阿姆斯特丹",
     MapLabel_NewMiddletown = "米德尔敦",
     MapLabel_Utica = "由提卡",
-    MapLabel_StorageUnitSecureStorageGeorgetown = "安全存储",
-    MapLabel_StorageUnitSecureStorageNewAlbany = "安全存储",
+    MapLabel_StorageUnitSecureStorageGeorgetown = "安保仓储",
+    MapLabel_StorageUnitSecureStorageNewAlbany = "安保仓储",
     MapLabel_StorageUnitSelfStorageCorydon1 = "自助仓储",
     MapLabel_StorageUnitSelfStorageCorydon2 = "自助仓储",
     MapLabel_StorageUnitSelfStorageNewAlbany1 = "自助仓储",
@@ -153,8 +153,8 @@ MapLabel_CN = {
 ------Raven Creek Map-----	
     MapLabel_RAVENCREEK = "渡鸦港",
     MapLabel_StorageUnitSelfStorageRavenCreek = "自助仓储",
-    MapLabel_StorageUnitUStoreItRavenCreek1 = "U-Store 它",
-    MapLabel_StorageUnitUStoreItRavenCreek2 = "U-Store 它",
+    MapLabel_StorageUnitUStoreItRavenCreek1 = "优存自助仓储",
+    MapLabel_StorageUnitUStoreItRavenCreek2 = "优存自助仓储",
 
 ------Safeharbor Garrison Map-----
     MapLabel_SafeharborGarrison = "安泊戍镇",
@@ -162,13 +162,13 @@ MapLabel_CN = {
 
 ------Sector-7 Breach Map-----	
     MapLabel_Sector7Breach = "七号沦陷区",
-    MapLabel_StorageUnitStoreAMaxSector7Breach = "商店-A-Max",
+    MapLabel_StorageUnitStoreAMaxSector7Breach = "极致仓储",
 
 ------Tikitown Map-----	
     MapLabel_Tikitown = "蒂基镇",
 	MapLabel_ScrapYardTikitown = "废料场",
 
-------WestPoint Expansion Map-----	
+------West Point Expansion Map-----	
     MapLabel_WestPointExpansion = "西点镇拓展",
     MapLabel_StorageUnitSelfStorageWestPointExpansion = "自助仓储",
 
@@ -179,16 +179,16 @@ MapLabel_CN = {
 ------Vanilla Storage Units-----
     MapLabel_StorageUnitSelfStorageValleyStation = "自助仓储",
     MapLabel_StorageUnitSelfStorageWestPoint = "自助仓储",
-	MapLabel_StorageUnitClarkStorageMuldraugh = "克拉克存储",
-    MapLabel_StorageUnitSecureStorageLouisville = "安全存储",
-    MapLabel_StorageUnitSecureStorageMuldraugh = "安全存储",
-    MapLabel_StorageUnitStoreAMaxMuldraugh = "商店-A-Max",
-    MapLabel_StorageUnitUStorItBrandenburg = "U-Store 它",
-    MapLabel_StorageUnitUStorItIrvington = "U-Store 它",
-    MapLabel_StorageUnitUStoreItLouisville1 = "U-Store 它",
-    MapLabel_StorageUnitUStoreItLouisville2 = "U-Store 它",
-    MapLabel_StorageUnitUStorItMuldraugh = "U-Store 它",
-    MapLabel_StorageUnitUStorItRiverside = "U-Store 它",
+	MapLabel_StorageUnitClarkStorageMuldraugh = "克拉克仓储",
+    MapLabel_StorageUnitSecureStorageLouisville = "安保仓储",
+    MapLabel_StorageUnitSecureStorageMuldraugh = "安保仓储",
+    MapLabel_StorageUnitStoreAMaxMuldraugh = "极致仓储",
+    MapLabel_StorageUnitUStorItBrandenburg = "优存自助仓储",
+    MapLabel_StorageUnitUStorItIrvington = "优存自助仓储",
+    MapLabel_StorageUnitUStoreItLouisville1 = "优存自助仓储",
+    MapLabel_StorageUnitUStoreItLouisville2 = "优存自助仓储",
+    MapLabel_StorageUnitUStorItMuldraugh = "优存自助仓储",
+    MapLabel_StorageUnitUStorItRiverside = "优存自助仓储",
 
 ------Vanilla Wrecking Yards-----	
 	MapLabel_WreckingYardEchoCreek = "废车场",

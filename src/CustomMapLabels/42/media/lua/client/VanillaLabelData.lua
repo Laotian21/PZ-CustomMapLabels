@@ -2,7 +2,7 @@ local data = {}
 
 data.VanillaMapLabels = {
 	["Vanilla"] = {
-		---Vanilla [香草]---(B42)---
+		---Vanilla Storage Units[原版仓储单元]---(B42)---
 		{ key = "MapLabel_StorageUnitClarkStorageMuldraugh",	x = 10717,  y = 10121, type = "Building", scale = 0.2 },
 		{ key = "MapLabel_StorageUnitSecureStorageLouisville",	x = 12180,  y = 1338, type = "Building", scale = 0.2 },
 		{ key = "MapLabel_StorageUnitSecureStorageMuldraugh",	x = 10615,  y = 9376, type = "Building", scale = 0.3 },
@@ -15,6 +15,7 @@ data.VanillaMapLabels = {
 		{ key = "MapLabel_StorageUnitUStoreItLouisville2",	x = 13128,  y = 1714, type = "Building", scale = 0.2 },
 		{ key = "MapLabel_StorageUnitUStorItMuldraugh",	x = 10688,  y = 9834, type = "Building", scale = 0.2 },
 		{ key = "MapLabel_StorageUnitUStorItRiverside",	x = 5540,  y = 6055, type = "Building", scale = 0.2 },
+		---Vanilla Wrecking Yards[原版废车场]---(B42)---
 		{ key = "MapLabel_WreckingYardEchoCreek",	x = 2940,  y = 12620, type = "POI", scale = 0.3, rotation = 90.0 },
 		{ key = "MapLabel_WreckingYardIrvingtonSNL",	x = 1940,  y = 13390, type = "POI", scale = 0.9 },
 		{ key = "MapLabel_WreckingYardIrvington",	x = 2530,  y = 14440, type = "POI", scale = 0.3 },

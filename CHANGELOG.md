@@ -62,3 +62,16 @@ fix:修复地图标签重复的问题
 ---West Point Beach Houses[西点沙滩小屋]---(3528889511)---
 
 ---
+## Version 1.7 - 2025-10-27
+
++ Added "Self Storage" Location POI Labels For Vanilla Locations.
++ Added "Self Storage" Location POI Labels For Mod Map Locations:
+   - Camden County.
+   - Constown.
+   - Project Indiana.
+   - Raven Creek.
+   - Safeharbor Garrison.
+   - Sector-7 Breach.
+   - West Point Expansion
++ Added "Train yard" Location POI Label For Mod Map Locations:
+   - Camden County.

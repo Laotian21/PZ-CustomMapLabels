@@ -25,6 +25,7 @@ data.ModMapLabels = {
 	---Constown[康斯镇]---(3480990544)---
 	["\\Constown42"] = {
 		{ key = "MapLabel_Constown",             x = 5652,  y = 11100, type = "Town", scale = 4.0 },
+		{ key = "MapLabel_StorageUnitSelfStorageConstown",	x = 5985,  y = 11238, type = "Building", scale = 0.2 },		
 	},
 	---Coryerdon[科里尔登]---(3502623745)---
 	["\\CoryerdonB42"] = {
@@ -107,10 +108,14 @@ data.ModMapLabels = {
 	---Raven Creek[渡鸦港]---(3484263516)---
 	["\\RavenCreekB42"] = {
 		{ key = "MapLabel_RAVENCREEK",           x = 5115,  y = 16364, type = "Town", scale = 6.5 },
+		{ key = "MapLabel_StorageUnitSelfStorageRavenCreek",	x = 4822,  y = 15975, type = "Building", scale = 0.2 },
+		{ key = "MapLabel_StorageUnitUStoreItRavenCreek1",	x = 5263,  y = 15825, type = "Building", scale = 0.2 },
+		{ key = "MapLabel_StorageUnitUStoreItRavenCreek2",	x = 5123,  y = 16740, type = "Building", scale = 0.2 },
 	},
 	---Safeharbor Garrison[安泊戍镇]---(3522517059)---
 	["\\modid"] = {
 		{ key = "MapLabel_SafeharborGarrison",   x = 12169, y = 10769, type = "Town", scale = 5.5 },
+		{ key = "MapLabel_StorageUnitSelfStorageSafeharborGarrison",	x = 12054,  y = 10825, type = "Building", scale = 0.2 },
 	},
 	---SafeWay Hamlet[途安里]---(3533315055)---
 	["\\SafeWayHamlet"] = {
@@ -119,6 +124,7 @@ data.ModMapLabels = {
 	---Sector-7 Breach[七号沦陷区]---(3513107552)---
 	["\\Sector-7 Breach"] = {
 		{ key = "MapLabel_Sector7Breach",        x = 9262,  y = 7558,  type = "Town", scale = 3.0, rotation = 45.0 },
+		{ key = "MapLabel_StorageUnitStoreAMaxSector7Breach",	x = 9080,  y = 7750, type = "Building", scale = 0.2 },
 	},
 	---Taibei Road[台北路]---(3401261192)---
 	["\\Taibeiroad4"] = {
@@ -144,6 +150,7 @@ data.ModMapLabels = {
 	---West Point Expansion[西点镇拓展]---(3475754603)---
 	["\\WestPointExpansionB42"] = {
 		{ key = "MapLabel_WestPointExpansion",   x = 12472, y = 6977,  type = "Town" },
+		{ key = "MapLabel_StorageUnitSelfStorageWestPointExpansion",	x = 12515,  y = 7045, type = "Building", scale = 0.2 },
 	},
 	---White Wolf Ridge[白狼岭]---(3499861271)---
 	["\\White Wolf Ridge"] = {
@@ -197,6 +204,9 @@ data.ModMapLabels = {
 		{ key = "MapLabel_VanHookRiverM",          x = 16730,  y = 12430, type = "River", scale = 0.75, rotation = 37.0 },
 		{ key = "MapLabel_VanHookRiverS",          x = 16135,  y = 13320, type = "River", scale = 0.75, rotation = 50.0 },
 		{ key = "MapLabel_VanHookRiverSS",          x = 15140,  y = 14130, type = "River", scale = 0.75, rotation = 39.0 },
+		{ key = "MapLabel_StorageUnitStoreAMaxAlton",	x = 15475,  y = 10045, type = "Building", scale = 0.2 },
+		{ key = "MapLabel_StorageUnitSelfStorageIngles",	x = 16605,  y = 13075, type = "Building", scale = 0.2 },
+		{ key = "MapLabel_TrainyardKerson",	x = 18306,  y = 13005, type = "Building", scale = 0.6 },
 		{ key = "MapLabel_WreckingYardIngles",	x = 16465,  y = 13020, type = "POI", scale = 0.3 },
 		{ key = "MapLabel_WreckingYardSuggs",	x = 17000,  y = 11720, type = "POI", scale = 0.3 },
 		{ key = "MapLabel_WheelerCreek",          x = 18555,  y = 10400, type = "Town", scale = 4.7 },
@@ -247,6 +257,12 @@ data.ModMapLabels = {
 		{ key = "MapLabel_NewAmsterdam",          x = 215,  y = 3260, type = "Town", scale = 4.7 },
 		{ key = "MapLabel_NewMiddletown",          x = 6720,  y = 2015, type = "Town", scale = 4.7 },
 		{ key = "MapLabel_Utica",          x = 15985,  y = 730, type = "Town", scale = 4.7 },
+		{ key = "MapLabel_StorageUnitSecureStorageGeorgetown",	x = 8870,  y = 315, type = "Building", scale = 0.2 },
+		{ key = "MapLabel_StorageUnitSecureStorageNewAlbany",	x = 12635,  y = 865, type = "Building", scale = 0.2 },
+		{ key = "MapLabel_StorageUnitSelfStorageCorydon1",	x = 3790,  y = 1080, type = "Building", scale = 0.2 },
+		{ key = "MapLabel_StorageUnitSelfStorageCorydon2",	x = 3235,  y = 915, type = "Building", scale = 0.2 },
+		{ key = "MapLabel_StorageUnitSelfStorageNewAlbany1",	x = 13182,  y = 359, type = "Building", scale = 0.2 },
+		{ key = "MapLabel_StorageUnitSelfStorageNewAlbany2",	x = 12485,  y = 745, type = "Building", scale = 0.2 },
 	},
 	---Muldraugh FireDept[马尔德劳消防局]---(3585472912)---
 	["\\beek_muldraugh_firedept"] = {

@@ -275,6 +275,31 @@ data.ModMapLabels = {
 	---Kentucky Center Manor[肯塔基中心庄园]---(3528889511)---
     ["\\Kentucky Center Manor_Renovation"] = {
         {key = "MapLabel_KentuckyCenterManor_Renovation",    x = 8215,y = 9695, type = "Town", scale = 1.8 },
+    },
+	---Greenleaf B42 version[绿叶镇 B42版本]---(3602388131)---
+    ["\\Greenleaf B42 version"] = {
+        {key = "MapLabel_GreenleafB42",    x = 6600,y = 10509, type = "Town", scale = 3.5 },
+    },
+	---GTA 6 - Jason's house - B42[杰森的房子]---(3594561992)---
+    ["\\GTAJasonsHouse"] = {
+        {key = "MapLabel_GTAJasonsHouse",    x = 12077,y = 1165, type = "Town", scale = 1.5 },
+    },
+	---Brandenburg Beach Houses - B42[勃兰登堡沙滩小屋]---(3591833551)---
+    ["\\BrandenburgBeachHouse"] = {
+        {key = "MapLabel_BrandenburgBeachHouse",    x = 2549,y = 5682, type = "Town", scale = 1.5 },
+    },
+	---Foxtrot Warehouse B42[福克斯军事仓库]---(3600377019)---
+    ["\\FoxtrotWarehouse"] = {
+        {key = "MapLabel_FoxtrotWarehouse",    x = 10701,y = 13405, type = "Town", scale = 2.5 },
+    },
+	---Rockville[岩石镇]---(3600376699)---
+    ["\\Building_01"] = {
+        {key = "MapLabel_Rockville",    x = 8214,y = 10926, type = "Town", scale = 2.5 },
+    },
+	---Bunker Zero[零号地堡]---(3598255959)---
+    ["\\BunkerZero"] = {
+        {key = "MapLabel_BunkerZero",    x = 5541,y = 7338, type = "Town", scale = 2.3 },
     }
+
 }
 return data

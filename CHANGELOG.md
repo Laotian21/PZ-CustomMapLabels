@@ -75,3 +75,15 @@ fix:修复地图标签重复的问题
    - West Point Expansion
 + Added "Train yard" Location POI Label For Mod Map Locations:
    - Camden County.
+
+---
+## Version 1.8 - 2025-11-09
++ Added Labels For Mod Map
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3602388131]Greenleaf B42 version[/url](绿叶镇 B42版本)
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3594561992]GTA 6 - Jason's house - B42[/url](杰森的房子)
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3591833551]Brandenburg Beach Houses - B42[/url](勃兰登堡沙滩小屋)
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3600377019]Foxtrot Warehouse B42[/url](福克斯军事仓库)
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3600376699]Rockville[/url](岩石镇)
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3598255959]Bunker Zero[/url](零号地堡)
+
+---

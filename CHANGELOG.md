@@ -87,3 +87,8 @@ fix:修复地图标签重复的问题
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3598255959]Bunker Zero[/url](零号地堡)
 
 ---
+## Version 1.9 - 2025-12-13
++ Added Labels For Mod Map
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3606927986]Estate 39[/url](39号公馆)
+
+---

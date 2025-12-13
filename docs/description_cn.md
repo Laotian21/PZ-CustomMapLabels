@@ -22,6 +22,7 @@
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3476333350]EchoCreek MilitaryBase[/url](回音河军事基地)
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3478900814]Ed's Auto Salavage[/url](艾德的汽修厂)
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3363546437]Erika's Furniture Store[/url](艾丽卡家具店)
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3606927986]Estate 39[/url](39号公馆)
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3533512793]Fairhaven[/url](费尔黑文)
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3490580478]Fort Benning[/url](本宁堡)
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2968421358]Fort Boonesborough[/url](波恩斯伯勒堡)

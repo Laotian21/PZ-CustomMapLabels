@@ -299,7 +299,10 @@ data.ModMapLabels = {
 	---Bunker Zero[零号地堡]---(3598255959)---
     ["\\BunkerZero"] = {
         {key = "MapLabel_BunkerZero",    x = 5541,y = 7338, type = "Town", scale = 2.3 },
+    },
+	---Estate 39[39号公馆]---(3606927986)---
+    ["\\Estate 39"] = {
+        {key = "MapLabel_Estate39",    x = 8454,y = 10096, type = "Town", scale = 2.3 },
     }
-
 }
 return data

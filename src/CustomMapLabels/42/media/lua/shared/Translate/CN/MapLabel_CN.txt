@@ -59,6 +59,7 @@ MapLabel_CN = {
     MapLabel_EchoCreek_MilitaryBase = "回音河军事基地",
     MapLabel_EdsAutoSalvage = "艾德的汽修厂",
     MapLabel_ErikasFurnitureStore = "艾丽卡家具店",
+    MapLabel_Estate39 = "39号公馆",
     MapLabel_Fairhaven = "费尔黑文",
     MapLabel_FORTBENNING = "本宁堡",
     MapLabel_FortBoonesborough = "波恩斯伯勒堡",

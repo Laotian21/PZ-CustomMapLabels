@@ -22,6 +22,7 @@ Thanks to: 无聊的栀子 for providing a large number of map label coordinates
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3476333350]EchoCreek MilitaryBase[/url]
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3478900814]Ed's Auto Salavage[/url]
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3363546437]Erika's Furniture Store[/url]
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3606927986]Estate 39[/url]
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3533512793]Fairhaven[/url]
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3490580478]Fort Benning[/url]
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2968421358]Fort Boonesborough[/url]

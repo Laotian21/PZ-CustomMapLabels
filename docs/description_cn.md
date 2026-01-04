@@ -48,6 +48,7 @@
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3535422434]Oakshire[/url](橡树郡)
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3561017137]PeaceTown[/url](寂静镇)
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3507117617]Project Indiana Expansion[/url](印第安纳州扩建计划)
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3609837689]Quella's Castle[/url](瑰拉城堡)
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3388468313]RaccoonCity[/url](浣熊市)
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3484263516]Raven Creek[/url](渡鸦港)
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3485388592]Riverside Mansion Unofficial[/url](河畔豪宅)
@@ -55,6 +56,7 @@
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3533315055]SafeWayHamlet[/url](途安里 安泊戍拓展)
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3522517059]Safeharbor Garrison[/url](安泊戍镇)
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3513107552]Sector-7 Breach[/url](7号沦陷区)
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3629346494]Shamrock Farm[/url](三叶草农场)
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3401261192]Taibeiroad[/url](台北路)
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3134394569]Taylorsville[/url](泰勒斯维尔)
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3037854728]Tikitown[/url](蒂基镇)
@@ -65,6 +67,7 @@
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3519054686]White forest[/url](白森林)
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3499861271]White Wolf Ridge[/url](白狼岭)
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3479667649]Willowbrook Bastion[/url](柳溪镇)
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3638880637]Yanghu Town[/url](杨湖镇)
 
 [hr][/hr]
 [h1][b] 兼容性: [/b][/h1]

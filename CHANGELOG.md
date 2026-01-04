@@ -92,3 +92,10 @@ fix:修复地图标签重复的问题
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3606927986]Estate 39[/url](39号公馆)
 
 ---
+## Version 2.0 - 2026-01-05
++ Added Labels For Mod Map
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3638880637]Yanghu Town[/url](杨湖镇)
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3629346494]Shamrock Farm[/url](三叶草农场)
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3609837689]Quella's Castle[/url](瑰拉城堡)
+
+---

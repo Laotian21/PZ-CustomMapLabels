@@ -83,10 +83,12 @@ MapLabel_EN = {
     MapLabel_MEIYATOWN = "Meiya's Town", 
     MapLabel_Oakshire = "Oakshire",
     MapLabel_PeaceTown = "PeaceTown",
+    MapLabel_QuellasCastle = "Quella's Castle",
     MapLabel_RaccoonCity = "RaccoonCity", 
     MapLabel_RMSafeHouseUnofficial = "Riverside<br>Mansion",
     MapLabel_Rockville = "Rockville",
     MapLabel_SafeWayHamlet = "Safe Way Hamlet",
+    MapLabel_ShamrockFarm = "Shamrock Farm",
     MapLabel_TAIBEIROAD = "Taibeiroad",
     MapLabel_Taylorsville = "Taylorsville",
     MapLabel_Trapalaketown = "Trapalaketown",
@@ -94,6 +96,7 @@ MapLabel_EN = {
     MapLabel_WhiteForest = "White Forest",
     MapLabel_WhiteWolfRidge = "White Wolf Ridge",
     Maplabel_MuldraughFireDept = "Muldraugh<br>FireDept",
+    MapLabel_YanghuTown = "Yanghu Town",
 
 ------Camden County Map-----
     MapLabel_CamdenCounty = "Camden<br>County",

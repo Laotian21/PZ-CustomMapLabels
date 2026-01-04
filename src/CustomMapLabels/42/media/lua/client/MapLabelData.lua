@@ -303,6 +303,18 @@ data.ModMapLabels = {
 	---Estate 39[39号公馆]---(3606927986)---
     ["\\Estate 39"] = {
         {key = "MapLabel_Estate39",    x = 8454,y = 10096, type = "Town", scale = 2.3 },
+    },
+	---Yanghu Town[杨湖镇]---(3638880637)---
+    ["\\Yanghu Town"] = {
+        {key = "MapLabel_YanghuTown",    x = 9105,y = 9253, type = "Town", scale = 4.5 },
+    },
+	---Shamrock Farm[三叶草农场]---(3629346494)---
+    ["\\ShamrockFarm"] = {
+        {key = "MapLabel_ShamrockFarm",    x = 2632,y = 7252, type = "Town", scale = 2.3 },
+    },
+	---Quella's Castle[瑰拉城堡]---(3609837689)---
+    ["\\Quella's Castle"] = {
+        {key = "MapLabel_QuellasCastle",    x = 5542,y = 5224, type = "Town", scale = 2.3 },
     }
 }
 return data

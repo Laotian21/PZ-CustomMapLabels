@@ -48,6 +48,7 @@ Thanks to: 无聊的栀子 for providing a large number of map label coordinates
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3535422434]Oakshire[/url]
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3561017137]PeaceTown[/url]
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3507117617]Project Indiana Expansion[/url]
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3609837689]Quella's Castle[/url]
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3388468313]RaccoonCity[/url]
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3484263516]Raven Creek[/url]
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3600376699]Rockville[/url]
@@ -55,6 +56,7 @@ Thanks to: 无聊的栀子 for providing a large number of map label coordinates
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3533315055]SafeWayHamlet[/url]
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3522517059]Safeharbor Garrison[/url]
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3513107552]Sector-7 Breach[/url]
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3629346494]Shamrock Farm[/url]
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3401261192]Taibeiroad[/url] (Taipei Road)
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3134394569]Taylorsville[/url]
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3037854728]Tikitown[/url]
@@ -65,6 +67,7 @@ Thanks to: 无聊的栀子 for providing a large number of map label coordinates
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3519054686]White forest[/url]
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3499861271]White Wolf Ridge[/url]
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3479667649]Willowbrook Bastion[/url]
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3638880637]Yanghu Town[/url]
 
 
 [hr][/hr]

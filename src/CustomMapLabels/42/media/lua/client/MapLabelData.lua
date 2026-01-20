@@ -316,7 +316,7 @@ data.ModMapLabels = {
     ["\\Quella's Castle"] = {
         {key = "MapLabel_QuellasCastle",    x = 5542,y = 5224, type = "Town", scale = 2.3 },
     }
-		---Maplewood [瑰拉城堡]---(3644794945)---
+		---Maplewood [楓木鎮]---(3644794945)---
     ["\\Maplewood"] = {
         {key = "MapLabel_Maplewood",    x = 8275,y = 8260, type = "Town", scale = 2.3 },
     }

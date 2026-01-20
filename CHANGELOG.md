@@ -99,3 +99,8 @@ fix:修复地图标签重复的问题
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3609837689]Quella's Castle[/url](瑰拉城堡)
 
 ---
+## Version 2.1 - 2026-01-20
++ Added Labels For Mod Map
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3644794945]Maplewood[/url](枫木镇)
+
+---

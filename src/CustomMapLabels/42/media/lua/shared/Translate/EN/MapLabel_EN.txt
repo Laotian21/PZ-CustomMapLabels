@@ -97,6 +97,7 @@ MapLabel_EN = {
     MapLabel_WhiteWolfRidge = "White Wolf Ridge",
     Maplabel_MuldraughFireDept = "Muldraugh<br>FireDept",
     MapLabel_YanghuTown = "Yanghu Town",
+    MapLabel_Maplewood = "Maplewood",
 
 ------Camden County Map-----
     MapLabel_CamdenCounty = "Camden<br>County",

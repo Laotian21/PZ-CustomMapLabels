@@ -42,6 +42,7 @@ Thanks to: 无聊的栀子 for providing a large number of map label coordinates
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3477336014]LittleTownship[/url]
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3540209438]Louisville Mall Base[/url]
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2934132344]Louisville Quarantine Zone[/url]
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3644794945]Maplewood[/url]
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3478788261]Meiya'sTown[/url]
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3585472912]Muldraugh FireDept[/url]
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3391349130]Nettle Township[/url]

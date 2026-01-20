@@ -97,7 +97,8 @@ MapLabel_CN = {
     MapLabel_WhiteForest = "白森林",
     MapLabel_WhiteWolfRidge = "白狼岭",
     MapLabel_YanghuTown = "杨湖镇",
-	
+    MapLabel_Maplewood = "枫木镇",
+
 ------Camden County Map-----
     MapLabel_CamdenCounty = "康登县",
     MapLabel_Alton = "奥尔顿",

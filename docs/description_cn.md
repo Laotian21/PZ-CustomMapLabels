@@ -42,6 +42,7 @@
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3477336014]LittleTownship[/url](小马驹镇)
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3540209438]Louisville Mall Base[/url](路易维尔商场基地)
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2934132344]Louisville Quarantine Zone[/url](路易斯维尔隔离区)
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3644794945]Maplewood[/url](枫木镇)
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3478788261]Meiya'sTown[/url](没牙的小镇)
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3585472912]Muldraugh FireDept[/url](马尔德劳消防局)
 - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3391349130]Nettle Township[/url](荨麻镇)

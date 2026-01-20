@@ -320,9 +320,5 @@ data.ModMapLabels = {
     ["\\Maplewood"] = {
         {key = "MapLabel_Maplewood",    x = 8275,y = 8260, type = "Town", scale = 2.3 },
     }
-	---Maplewood [枫木镇]---(3644794945)---
-    ["\\Maplewood"] = {
-        {key = "MapLabel_Maplewood",    x = 8275,y = 8260, type = "Town", scale = 2.3 },
-    }
 }
 return data
